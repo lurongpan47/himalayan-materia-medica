@@ -4,7 +4,9 @@
 
 **独立项目**（2026-10-07 从 `wisdomhealth/` 搬出，与 wisdomhealth.store 电商运营**完全解耦**）。
 **许可:** CC BY-SA 4.0 (数据) + MIT (代码)，Sarasvatī 同款开放治理。**非商业数据库**。
-**启动:** 2026-10-06 · Pan 授权 · Lucy 建骨架 · GitHub: `lurongpan47/himalayan-materia-medica`
+**启动:** 2026-10-06 · Pan 授权 · Lucy 建骨架
+**仓库:** https://github.com/lurongpan47/himalayan-materia-medica
+**站点:** https://lurongpan47.github.io/himalayan-materia-medica/
 
 ---
 
