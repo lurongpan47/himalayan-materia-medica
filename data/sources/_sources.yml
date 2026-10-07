@@ -1,0 +1,96 @@
+# 典籍 / 数据源注册表 · 所有 plant entries 的 source_ref 必须指向这里的 key
+# 添加新来源时：填完整书目信息，标注版本/出版年/是否公有领域
+
+rgyud_bzhi:
+  title_bo: "རྒྱུད་བཞི།"
+  title_wylie: "rGyud bzhi"
+  title_en: "Four Tantras (of Tibetan Medicine)"
+  title_zh: "四部医典"
+  attributed_author: "Yuthog Yontan Gonpo (gYu-thog Yon-tan mGon-po, 708-833 CE); redacted 12c"
+  edition_used: "Dharamsala Men-Tsee-Khang 1982 reprint of Lhasa 1703 blockprint"
+  public_domain: true
+  volumes:
+    rtsa_rgyud: "Root Tantra (रौर रौर्)"
+    bshad_rgyud: "Explanatory Tantra"
+    man_ngag_rgyud: "Oral Instruction Tantra"
+    phyi_ma_rgyud: "Subsequent Tantra"
+  notes: "Chapter 20 of rTsa-rgyud is the primary materia medica locus."
+
+charaka_samhita:
+  title_sa: "चरकसंहिता"
+  title_iast: "Caraka Saṃhitā"
+  title_en: "Caraka Compendium"
+  attributed_author: "Agniveśa, redacted by Caraka (c. 300 BCE – 200 CE)"
+  edition_used: "P.V. Sharma trans., Chaukhambha Orientalia, Varanasi, 1981"
+  public_domain_sanskrit: true
+  public_domain_translation: false
+  notes: "Use Sanskrit text only (PD); cite translation metadata but do not copy prose."
+
+susruta_samhita:
+  title_sa: "सुश्रुतसंहिता"
+  title_iast: "Suśruta Saṃhitā"
+  title_en: "Sushruta Compendium"
+  attributed_author: "Suśruta (c. 600 BCE – 500 CE compilation)"
+  edition_used: "Jadavji Trikamji Acharya ed., 1915 (Nirnaya Sagar Press) — PD"
+  public_domain: true
+  notes: "Sūtrasthāna 38-42, Cikitsāsthāna 10 for materia medica."
+
+bhavaprakasha_nighantu:
+  title_sa: "भावप्रकाशनिघण्टु"
+  title_iast: "Bhāvaprakāśa Nighaṇṭu"
+  title_en: "Bhavaprakasha Materia Medica"
+  attributed_author: "Bhāvamiśra, 16c CE"
+  edition_used: "K.C. Chunekar ed., Chaukhambha Bharati Academy, 1969 reprint of PD text"
+  public_domain_sanskrit: true
+
+bencao_gangmu:
+  title_zh: "本草纲目"
+  title_en: "Compendium of Materia Medica"
+  author: "李时珍 Li Shizhen (1578 完稿, 1596 首刊)"
+  edition_used: "人民卫生出版社 1982 校点本 (底本: 金陵本 1596)"
+  public_domain: true
+  notes: "引用时标卷·部·条"
+
+zhonghua_zangbencao:
+  title_zh: "中华藏本草"
+  title_en: "Chinese Tibetan Materia Medica"
+  editors: "罗达尚 等"
+  publisher: "青海人民出版社"
+  year: 1997
+  isbn: "7-225-01517-5"
+  public_domain: false
+  copyright_notice: "引用需限于 fair use / 简短摘录。禁止全文复制。"
+  notes: "本库引用其学名+藏文名+分布事实（事实不受版权保护），其现代描述文字不复制。"
+
+zhongguo_zangyao:
+  title_zh: "中国藏药"
+  title_en: "Chinese Tibetan Medicines"
+  editors: "青海省藏医药研究所 编"
+  publisher: "上海科学技术出版社"
+  volumes: 3
+  year: "1996-2002"
+  public_domain: false
+  copyright_notice: "同上"
+
+flora_of_china:
+  title_en: "Flora of China"
+  publisher: "Science Press (Beijing) & Missouri Botanical Garden Press"
+  years: "1994-2013"
+  volumes: 25
+  url: "http://flora.huh.harvard.edu/china/"
+  public_domain_text: false
+  public_domain_pre1923_illustrations: "varies by plate"
+  notes: "FOC online 文字复用需遵守其许可。学名/科属/分布事实可引用；描述段落不复制。"
+
+nepal_dpr_db:
+  title_en: "Nepal Medicinal Plants Database"
+  publisher: "Department of Plant Resources, Nepal"
+  url: "http://dpr.gov.np/"
+  public_domain: true
+  notes: "Government of Nepal publication; verify per-entry license."
+
+gbif:
+  title_en: "GBIF — Global Biodiversity Information Facility"
+  url: "https://www.gbif.org/"
+  public_domain: true
+  notes: "Occurrence data CC0 / CC-BY depending on dataset."

@@ -1,0 +1,93 @@
+id: lamiophlomis_rotata
+scientific_name:
+  binomial: Lamiophlomis rotata
+  authority: (Benth. ex Hook.f.) Kudô
+  synonyms:
+    - Phlomis rotata Benth. ex Hook.f.
+    - Phlomoides rotata (Benth. ex Hook.f.) Mathiesen (recent reclassification; see FOC & Mathiesen 2015)
+family: Lamiaceae
+genus: Lamiophlomis
+names:
+  zh:
+    primary: 独一味
+    aliases: [打布巴, 大巴, 打布吧]
+  bo:
+    unicode: དབང་ལག།
+    wylie: dbang lag
+    aliases:
+      - unicode: ལྕགས་ཐུར།
+        wylie: lcags thur
+  en:
+    - Single-plant rotate phlomis
+    - Rotate lamiophlomis
+    - "Himalayan 'single-flower' phlomis"
+  sa:
+    devanagari: null
+    iast: null
+    notes: "No classical Sanskrit name; range outside core Ayurveda materia medica."
+  ne: null
+distribution:
+  elevation_m: {min: 2700, max: 4500}
+  regions:
+    - CN-Xizang (Tibet AR, widespread)
+    - CN-Qinghai (Yushu, Golog)
+    - CN-Sichuan (Garzê, Aba, western)
+    - CN-Yunnan (Dêqên, Lijiang)
+    - CN-Gansu (southern)
+    - Nepal (northern)
+    - Bhutan
+    - IN-Sikkim
+  habitat: "Alpine meadows, grassy slopes, sunny stony flats; often on well-drained gravelly soil in open high-altitude grassland. Characteristic rosette with no stem."
+  gbif_taxon_key: 2927053
+morphology: |
+  Perennial herb; a basal rosette of 2–4 large rotate (nearly circular) leaves lying
+  flat on the ground, 7–25 cm wide, deeply veined, with crenate margins. From the
+  centre arises a congested spike of whorled lilac to purple flowers at ground
+  level. No elongated stem — hence Chinese 独一味 ("single and only"). Rhizome
+  short, woody.
+parts_used:
+  - whole_plant
+  - aerial_parts
+  - rhizome
+uses_historical:
+  - system: tibetan_sowa_rigpa
+    source_ref: rgyud_bzhi
+    volume: phyi_ma_rgyud
+    chapter: null
+    page: "trauma / wound / bone-knitting sections"
+    text_translation: "dbang lag: warm, bitter-astringent; stops bleeding, promotes knitting of broken bones and tendons; a key drug of the Tibetan trauma pharmacopoeia. Also used for post-partum bleeding and joint pain."
+    translator: null
+    review_status: ai_draft
+  - system: tcm
+    source_ref: null
+    text_translation: "独一味进入 TCM 现代药典 (《中华人民共和国药典》2015 年版一部收载)，主要功能活血止血，祛风止痛。古典本草未载。"
+    review_status: ai_draft
+  - system: ayurveda
+    source_ref: null
+    text_translation: "无 Ayurveda 典据。"
+chemistry:
+  key_compounds:
+    - name: Lamiophlomiol A
+      class: iridoid glycoside
+      role_in_traditional_use: "Haemostatic / anti-inflammatory marker"
+    - name: 8-O-acetylshanzhiside methyl ester
+      class: iridoid glycoside
+      role_in_traditional_use: "Modern analgesic studies"
+    - name: Luteolin
+      pubchem_cid: 5280445
+      class: flavonoid
+conservation:
+  iucn_status: "Not formally assessed; concerns raised over wild harvest for TCM industry"
+  cites_appendix: null
+  china_national_protection: null
+images: []
+sources:
+  - key: rgyud_bzhi
+    retrieved: 2026-10-06
+  - key: flora_of_china
+    retrieved: 2026-10-06
+    notes: "FOC Vol. 17 p. 158 — Lamiophlomis genus synonymised under Phlomoides by Mathiesen 2015; cross-checked with Kew Plants of the World Online."
+  - key: gbif
+    retrieved: 2026-10-06
+status: draft
+last_updated: 2026-10-06

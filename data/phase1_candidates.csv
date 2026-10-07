@@ -1,0 +1,102 @@
+slug,binomial,authority,family,zh_name,bo_wylie,bo_unicode,sa_iast,common_en,priority_source,verification_status
+rhodiola_crenulata,Rhodiola crenulata,(Hook.f. & Thomson) H.Ohba,Crassulaceae,大花红景天,srol gong dmar po,སྲོལ་གོང་དམར་པོ།,,Crenate rhodiola,"rgyud_bzhi;zhonghua_zangbencao",entry_exists
+crocus_sativus,Crocus sativus,L.,Iridaceae,番红花,gur gum,གུར་གུམ།,kuṅkuma,Saffron,"rgyud_bzhi;bencao_gangmu;charaka_samhita",entry_exists
+lamiophlomis_rotata,Lamiophlomis rotata,(Benth. ex Hook.f.) Kudô,Lamiaceae,独一味,dbang lag,དབང་ལག,,Single-leaf everlasting,"rgyud_bzhi;zhonghua_zangbencao",entry_exists
+saussurea_involucrata,Saussurea involucrata,(Kar. & Kir.) Sch.Bip.,Asteraceae,雪莲花,bya rkang,བྱ་རྐང་།,,Snow lotus,"rgyud_bzhi;zhonghua_zangbencao",ocr_pending
+saussurea_medusa,Saussurea medusa,Maxim.,Asteraceae,水母雪兔子,gangs thig le,གངས་ཐིག་ལེ།,,Medusa snow saussurea,"zhonghua_zangbencao",ocr_pending
+fritillaria_cirrhosa,Fritillaria cirrhosa,D.Don,Liliaceae,川贝母,a byi ka,ཨ་བྱི་ཀ,,Fritillary bulb,"rgyud_bzhi;bencao_gangmu",ocr_pending
+terminalia_chebula,Terminalia chebula,Retz.,Combretaceae,诃子,a ru ra,ཨ་རུ་ར,harītakī,Chebulic myrobalan,"rgyud_bzhi;charaka_samhita;bhavaprakasha_nighantu;bencao_gangmu",ocr_pending
+terminalia_bellirica,Terminalia bellirica,(Gaertn.) Roxb.,Combretaceae,毛诃子,ba ru ra,བ་རུ་ར,bibhītaka,Beleric myrobalan,"rgyud_bzhi;charaka_samhita;bhavaprakasha_nighantu",ocr_pending
+phyllanthus_emblica,Phyllanthus emblica,L.,Phyllanthaceae,余甘子,skyu ru ra,སྐྱུ་རུ་ར,āmalakī,Indian gooseberry,"rgyud_bzhi;charaka_samhita;bhavaprakasha_nighantu",ocr_pending
+myristica_fragrans,Myristica fragrans,Houtt.,Myristicaceae,肉豆蔻,dza ti,ཛཱ་ཏི།,jātīphala,Nutmeg,"rgyud_bzhi;bhavaprakasha_nighantu",ocr_pending
+elettaria_cardamomum,Elettaria cardamomum,(L.) Maton,Zingiberaceae,小豆蔻,sug smel,སུག་སྨེལ།,sūkṣmailā,Green cardamom,"rgyud_bzhi;bhavaprakasha_nighantu",ocr_pending
+amomum_subulatum,Amomum subulatum,Roxb.,Zingiberaceae,草果 (大豆蔻),ka ko la,ཀ་ཀོ་ལ,sthūlailā,Black cardamom,"rgyud_bzhi;bhavaprakasha_nighantu",ocr_pending
+carthamus_tinctorius,Carthamus tinctorius,L.,Asteraceae,红花,gur gum me tog,གུར་གུམ་མེ་ཏོག,kusumbha,Safflower,"rgyud_bzhi;bencao_gangmu",ocr_pending
+aconitum_pendulum,Aconitum pendulum,Busch,Ranunculaceae,铁棒锤,bong nga nag po,བོང་ང་ནག་པོ།,,Pendulous monkshood,"rgyud_bzhi;zhonghua_zangbencao",ocr_pending
+aconitum_tanguticum,Aconitum tanguticum,(Maxim.) Stapf,Ranunculaceae,唐古特乌头,bong dkar,བོང་དཀར།,,Tangut aconite,"rgyud_bzhi;zhonghua_zangbencao",ocr_pending
+gentiana_straminea,Gentiana straminea,Maxim.,Gentianaceae,麻花秦艽,spang rgyan ser po,སྤང་རྒྱན་སེར་པོ།,,Straw gentian,"rgyud_bzhi;zhonghua_zangbencao",ocr_pending
+gentiana_macrophylla,Gentiana macrophylla,Pall.,Gentianaceae,秦艽,,spang rgyan,སྤང་རྒྱན།,Large-leaf gentian,"rgyud_bzhi;bencao_gangmu",ocr_pending
+meconopsis_horridula,Meconopsis horridula,Hook.f. & Thomson,Papaveraceae,多刺绿绒蒿,ut pal ser po,ཨུཏྤལ་སེར་པོ།,,Prickly blue poppy,"rgyud_bzhi;zhonghua_zangbencao",ocr_pending
+meconopsis_integrifolia,Meconopsis integrifolia,(Maxim.) Franch.,Papaveraceae,全缘绿绒蒿,ut pal sngon po,ཨུཏྤལ་སྔོན་པོ།,,Lampshade poppy,"rgyud_bzhi;zhonghua_zangbencao",ocr_pending
+delphinium_brunonianum,Delphinium brunonianum,Royle,Ranunculaceae,展毛翠雀花,bya rog rkang pa,བྱ་རོག་རྐང་པ།,,Musk larkspur,"zhonghua_zangbencao",ocr_pending
+codonopsis_pilosula,Codonopsis pilosula,(Franch.) Nannf.,Campanulaceae,党参,klu bdud rdo rje,ཀླུ་བདུད་རྡོ་རྗེ།,,Dang shen / Poor man's ginseng,"bencao_gangmu;zhonghua_zangbencao",ocr_pending
+hippophae_rhamnoides,Hippophae rhamnoides,L.,Elaeagnaceae,沙棘,star bu,སྟར་བུ།,,Sea buckthorn,"rgyud_bzhi;zhonghua_zangbencao",ocr_pending
+przewalskia_tangutica,Przewalskia tangutica,Maxim.,Solanaceae,马尿泡,thang phrom nag po,ཐང་ཕྲོམ་ནག་པོ།,,Tangut mandrake,"rgyud_bzhi;zhonghua_zangbencao",ocr_pending
+dracocephalum_tanguticum,Dracocephalum tanguticum,Maxim.,Lamiaceae,甘青青兰,tang khur,ཏང་ཁུར།,,Tangut dragonhead,"zhonghua_zangbencao",ocr_pending
+pterocephalus_hookeri,Pterocephalus hookeri,(C.B.Clarke) Höck,Caprifoliaceae,匙叶翼首花,spang rtsi do bo,སྤང་རྩི་དོ་བོ།,,Hooker's winghead,"rgyud_bzhi;zhonghua_zangbencao",ocr_pending
+rheum_palmatum,Rheum palmatum,L.,Polygonaceae,掌叶大黄,chu rtsa,ཆུ་རྩ།,,Chinese rhubarb,"rgyud_bzhi;bencao_gangmu",ocr_pending
+rheum_tanguticum,Rheum tanguticum,Maxim. ex Balf.,Polygonaceae,唐古特大黄,chum rtsa,ཆུམ་རྩ།,,Tangut rhubarb,"rgyud_bzhi;zhonghua_zangbencao",ocr_pending
+ephedra_sinica,Ephedra sinica,Stapf,Ephedraceae,草麻黄,mtshe,མཚེ།,,Chinese ephedra,"rgyud_bzhi;bencao_gangmu",ocr_pending
+asparagus_racemosus,Asparagus racemosus,Willd.,Asparagaceae,蕴藻 (印度芦笋),nye shing,ཉེ་ཤིང་།,śatāvarī,Shatavari,"charaka_samhita;bhavaprakasha_nighantu",ocr_pending
+bacopa_monnieri,Bacopa monnieri,(L.) Wettst.,Plantaginaceae,假马齿苋,,,brāhmī,Brahmi / Water hyssop,"charaka_samhita;bhavaprakasha_nighantu",ocr_pending
+withania_somnifera,Withania somnifera,(L.) Dunal,Solanaceae,睡茄 (印度人参),,,aśvagandhā,Ashwagandha / Winter cherry,"charaka_samhita;bhavaprakasha_nighantu",ocr_pending
+centella_asiatica,Centella asiatica,(L.) Urb.,Apiaceae,积雪草,,,maṇḍūkaparṇī,Gotu kola,"charaka_samhita;susruta_samhita",ocr_pending
+curcuma_longa,Curcuma longa,L.,Zingiberaceae,姜黄,yung ba,ཡུང་བ།,haridrā,Turmeric,"rgyud_bzhi;charaka_samhita;bencao_gangmu",ocr_pending
+glycyrrhiza_uralensis,Glycyrrhiza uralensis,Fisch.,Fabaceae,甘草,shing mngar,ཤིང་མངར།,,Chinese liquorice,"rgyud_bzhi;bencao_gangmu",ocr_pending
+glycyrrhiza_glabra,Glycyrrhiza glabra,L.,Fabaceae,光果甘草,shing mngar,ཤིང་མངར།,yaṣṭimadhu,European liquorice,"charaka_samhita;bhavaprakasha_nighantu",ocr_pending
+zingiber_officinale,Zingiber officinale,Roscoe,Zingiberaceae,姜,sga,སྒ,ārdraka,Ginger,"rgyud_bzhi;charaka_samhita;bencao_gangmu",ocr_pending
+piper_longum,Piper longum,L.,Piperaceae,荜拨,pi pi ling,པི་པི་ལིང་།,pippalī,Long pepper,"rgyud_bzhi;charaka_samhita;bencao_gangmu",ocr_pending
+piper_nigrum,Piper nigrum,L.,Piperaceae,胡椒,pho ba ri,ཕོ་བ་རི།,marica,Black pepper,"rgyud_bzhi;charaka_samhita",ocr_pending
+syzygium_aromaticum,Syzygium aromaticum,(L.) Merr. & L.M.Perry,Myrtaceae,丁香,li shi,ལི་ཤི།,lavaṅga,Clove,"rgyud_bzhi;bhavaprakasha_nighantu;bencao_gangmu",ocr_pending
+cinnamomum_cassia,Cinnamomum cassia,(L.) J.Presl,Lauraceae,肉桂,shing tsha,ཤིང་ཚ།,,Chinese cinnamon,"rgyud_bzhi;bencao_gangmu",ocr_pending
+cinnamomum_tamala,Cinnamomum tamala,(Buch.-Ham.) T.Nees & Eberm.,Lauraceae,柴桂,ta la,ཏ་ལ།,tamālapatra,Indian bay leaf,"rgyud_bzhi;bhavaprakasha_nighantu",ocr_pending
+nardostachys_jatamansi,Nardostachys jatamansi,(D.Don) DC.,Caprifoliaceae,甘松,spang spos,སྤང་སྤོས།,jaṭāmāṃsī,Spikenard,"rgyud_bzhi;charaka_samhita;bhavaprakasha_nighantu",ocr_pending
+inula_racemosa,Inula racemosa,Hook.f.,Asteraceae,土木香,ma nu,མ་ནུ།,puṣkaramūla,Pushkarmul,"rgyud_bzhi;charaka_samhita",ocr_pending
+aquilaria_malaccensis,Aquilaria malaccensis,Lam.,Thymelaeaceae,沉香,a ga ru,ཨ་ག་རུ།,aguru,Agarwood,"rgyud_bzhi;charaka_samhita;bencao_gangmu",ocr_pending
+santalum_album,Santalum album,L.,Santalaceae,檀香,tsan dan dkar po,ཙན་དན་དཀར་པོ།,candana,White sandalwood,"rgyud_bzhi;charaka_samhita;bencao_gangmu",ocr_pending
+pterocarpus_santalinus,Pterocarpus santalinus,L.f.,Fabaceae,紫檀,tsan dan dmar po,ཙན་དན་དམར་པོ།,raktacandana,Red sandalwood,"rgyud_bzhi;bhavaprakasha_nighantu",ocr_pending
+commiphora_wightii,Commiphora wightii,(Arn.) Bhandari,Burseraceae,印度没药,gu gul,གུ་གུལ།,guggulu,Guggul,"rgyud_bzhi;charaka_samhita;susruta_samhita",ocr_pending
+boswellia_serrata,Boswellia serrata,Roxb. ex Colebr.,Burseraceae,印度乳香,spos dkar,སྤོས་དཀར།,śallakī,Indian frankincense,"rgyud_bzhi;charaka_samhita",ocr_pending
+ferula_assafoetida,Ferula assa-foetida,L.,Apiaceae,阿魏,shing kun,ཤིང་ཀུན།,hiṅgu,Asafoetida,"rgyud_bzhi;charaka_samhita;bencao_gangmu",ocr_pending
+embelia_ribes,Embelia ribes,Burm.f.,Primulaceae,白花酸藤果,,,viḍaṅga,Vidanga / False black pepper,"charaka_samhita;bhavaprakasha_nighantu",ocr_pending
+tinospora_sinensis,Tinospora sinensis,(Lour.) Merr.,Menispermaceae,中华青牛胆,sle tres,སླེ་ཏྲེས།,guḍūcī,Giloy / Heart-leaved moonseed,"rgyud_bzhi;charaka_samhita",ocr_pending
+tribulus_terrestris,Tribulus terrestris,L.,Zygophyllaceae,蒺藜,gze ma,གཟེ་མ།,gokṣura,Puncture vine,"rgyud_bzhi;charaka_samhita;bencao_gangmu",ocr_pending
+ocimum_tenuiflorum,Ocimum tenuiflorum,L.,Lamiaceae,圣罗勒,,,tulasī,Holy basil / Tulsi,"charaka_samhita;bhavaprakasha_nighantu",ocr_pending
+mucuna_pruriens,Mucuna pruriens,(L.) DC.,Fabaceae,刺毛黧豆,,,kapikacchū,Velvet bean,"charaka_samhita;bhavaprakasha_nighantu",ocr_pending
+emblica_officinalis_syn,Phyllanthus urinaria,L.,Phyllanthaceae,叶下珠,,,bhūmyāmalakī,Chamber bitter,"charaka_samhita",ocr_pending
+picrorhiza_kurroa,Picrorhiza kurroa,Royle ex Benth.,Plantaginaceae,胡黄连,hong len,ཧོང་ལེན།,kaṭukī,Kutki,"rgyud_bzhi;charaka_samhita;bencao_gangmu",ocr_pending
+berberis_aristata,Berberis aristata,DC.,Berberidaceae,长刺小檗,skyer pa,སྐྱེར་པ།,dāruharidrā,Indian barberry,"rgyud_bzhi;charaka_samhita",ocr_pending
+swertia_chirayita,Swertia chirayita,(Roxb.) H.Karst.,Gentianaceae,印度獐牙菜,tig ta,ཏིག་ཏ།,kirātatikta,Chirayata,"rgyud_bzhi;charaka_samhita;bhavaprakasha_nighantu",ocr_pending
+rubia_cordifolia,Rubia cordifolia,L.,Rubiaceae,茜草,btsod,བཙོད,mañjiṣṭhā,Indian madder,"rgyud_bzhi;charaka_samhita;bencao_gangmu",ocr_pending
+oxytropis_falcata,Oxytropis falcata,Bunge,Fabaceae,镰形棘豆,stag sha,སྟག་ཤ།,,Sickle milk vetch,"zhonghua_zangbencao",ocr_pending
+corydalis_hendersonii,Corydalis hendersonii,Hemsl.,Papaveraceae,甘青延胡索,re skon,རེ་སྐོན།,,Henderson's corydalis,"zhonghua_zangbencao",ocr_pending
+chrysanthemum_tatsienense,Chrysanthemum tatsienense,Bureau & Franch.,Asteraceae,打箭炉菊,me tog ser chen,མེ་ཏོག་སེར་ཆེན།,,Tatsien chrysanthemum,"zhonghua_zangbencao",ocr_pending
+tanacetum_tomentosum,Tanacetum tomentosum,DC.,Asteraceae,毛菊蒿,,,,Woolly tansy,"zhonghua_zangbencao",ocr_pending
+leontopodium_nanum,Leontopodium nanum,(Hook.f. & Thomson) Hand.-Mazz.,Asteraceae,矮火绒草,gang ga chung,གང་ག་ཆུང་།,,Dwarf edelweiss,"zhonghua_zangbencao",ocr_pending
+arenaria_kansuensis,Arenaria kansuensis,Maxim.,Caryophyllaceae,甘肃雪灵芝,a byag tsan dan,ཨ་བྱག་ཙན་དན།,,Kansu sandwort,"zhonghua_zangbencao",ocr_pending
+corydalis_impatiens,Corydalis impatiens,(Pall.) Fisch.,Papaveraceae,地丁草,par pa ta,པར་པ་ཏ།,,Yellow-flowered corydalis,"zhonghua_zangbencao",ocr_pending
+veronica_ciliata,Veronica ciliata,Fisch.,Plantaginaceae,毛果婆婆纳,sngon bu nag po,སྔོན་བུ་ནག་པོ།,,Hairy-fruited speedwell,"zhonghua_zangbencao",ocr_pending
+plantago_depressa,Plantago depressa,Willd.,Plantaginaceae,平车前,tha ram,ཐ་རམ།,,Depressed plantain,"zhonghua_zangbencao;bencao_gangmu",ocr_pending
+polygonatum_cirrhifolium,Polygonatum cirrhifolium,(Wall.) Royle,Asparagaceae,卷叶黄精,ra mnye,ར་མཉེ,,Himalayan Solomon's seal,"zhonghua_zangbencao",ocr_pending
+asparagus_filicinus,Asparagus filicinus,Buch.-Ham. ex D.Don,Asparagaceae,羊齿天门冬,nye shing,ཉེ་ཤིང་།,,Fern-like asparagus,"zhonghua_zangbencao",ocr_pending
+anemone_rivularis,Anemone rivularis,Buch.-Ham. ex DC.,Ranunculaceae,草玉梅,sug pa,སུག་པ།,,Riverside anemone,"zhonghua_zangbencao",ocr_pending
+ranunculus_tanguticus,Ranunculus tanguticus,(Maxim.) Ovcz.,Ranunculaceae,唐古特毛茛,ta ri,ཏ་རི།,,Tangut buttercup,"zhonghua_zangbencao",ocr_pending
+caltha_scaposa,Caltha scaposa,Hook.f. & Thomson,Ranunculaceae,花葶驴蹄草,me tog chen po,མེ་ཏོག་ཆེན་པོ།,,Scape-flowered marsh marigold,"zhonghua_zangbencao",ocr_pending
+oxytropis_microphylla,Oxytropis microphylla,(Pall.) DC.,Fabaceae,小叶棘豆,sro lo dkar po,སྲོ་ལོ་དཀར་པོ།,,Small-leaf milk vetch,"zhonghua_zangbencao",ocr_pending
+sophora_moorcroftiana,Sophora moorcroftiana,(Benth.) Benth. ex Baker,Fabaceae,砂生槐,gyer ma,གྱེར་མ།,,Moorcroft's sophora,"zhonghua_zangbencao",ocr_pending
+caragana_jubata,Caragana jubata,(Pall.) Poir.,Fabaceae,鬼箭锦鸡儿,mgon po srog shing,མགོན་པོ་སྲོག་ཤིང་།,,Shag-spine caragana,"zhonghua_zangbencao",ocr_pending
+hippolytia_longifolia,Hippolytia longifolia,(C.B.Clarke) K.Bremer & Humphries,Asteraceae,长叶华菊,,,,Long-leaf hippolytia,"zhonghua_zangbencao",ocr_pending
+cremanthodium_ellisii,Cremanthodium ellisii,(Hook.f.) Kitam.,Asteraceae,车前状垂头菊,sum cu tig ta,སུམ་ཅུ་ཏིག་ཏ།,,Ellis' cremanthodium,"zhonghua_zangbencao",ocr_pending
+soroseris_hookeriana,Soroseris hookeriana,(C.B.Clarke) Stebbins,Asteraceae,空桶参,sol dmar,སོལ་དམར།,,Hooker's soroseris,"zhonghua_zangbencao",ocr_pending
+morina_kokonorica,Morina kokonorica,Hao,Caprifoliaceae,青海刺参,gze ma rgod po,གཟེ་མ་རྒོད་པོ།,,Kokonor morina,"zhonghua_zangbencao",ocr_pending
+onosma_hookeri,Onosma hookeri,C.B.Clarke,Boraginaceae,西藏滇紫草,'bri mog,འབྲི་མོག,,Hooker's onosma,"zhonghua_zangbencao",ocr_pending
+arnebia_guttata,Arnebia guttata,Bunge,Boraginaceae,疏花软紫草,'bri mog dmar po,འབྲི་མོག་དམར་པོ།,,Spotted arnebia,"zhonghua_zangbencao",ocr_pending
+pedicularis_longiflora,Pedicularis longiflora,Rudolph,Orobanchaceae,长花马先蒿,glang sna ser po,གླང་སྣ་སེར་པོ།,,Long-flowered lousewort,"zhonghua_zangbencao",ocr_pending
+pedicularis_oederi,Pedicularis oederi,Vahl,Orobanchaceae,奥氏马先蒿,glang sna sngon po,གླང་སྣ་སྔོན་པོ།,,Oeder's lousewort,"zhonghua_zangbencao",ocr_pending
+androsace_tapete,Androsace tapete,Maxim.,Primulaceae,垫状点地梅,gla sgang,གླ་སྒང་།,,Cushion rock jasmine,"zhonghua_zangbencao",ocr_pending
+primula_sikkimensis,Primula sikkimensis,Hook.,Primulaceae,锡金报春,shang dril,ཤང་དྲིལ།,,Sikkim primrose,"zhonghua_zangbencao",ocr_pending
+rhododendron_anthopogon,Rhododendron anthopogon,D.Don,Ericaceae,髯花杜鹃,ba lu,བ་ལུ།,,Dwarf rhododendron,"rgyud_bzhi;zhonghua_zangbencao",ocr_pending
+rhododendron_setosum,Rhododendron setosum,D.Don,Ericaceae,刚毛杜鹃,sur dkar,སུར་དཀར།,,Bristly rhododendron,"zhonghua_zangbencao",ocr_pending
+juniperus_squamata,Juniperus squamata,Buch.-Ham. ex D.Don,Cupressaceae,高山柏,shug pa,ཤུག་པ།,,Flaky juniper,"rgyud_bzhi;zhonghua_zangbencao",ocr_pending
+juniperus_tibetica,Juniperus tibetica,Kom.,Cupressaceae,大果圆柏,shug pa chen po,ཤུག་པ་ཆེན་པོ།,,Tibetan juniper,"rgyud_bzhi;zhonghua_zangbencao",ocr_pending
+cordyceps_sinensis,Ophiocordyceps sinensis,(Berk.) G.H.Sung,Ophiocordycipitaceae,冬虫夏草,dbyar rtsa dgun 'bu,དབྱར་རྩ་དགུན་འབུ,,Chinese caterpillar fungus,"zhonghua_zangbencao",ocr_pending
+ganoderma_lucidum,Ganoderma lucidum,(Curtis) P.Karst.,Ganodermataceae,灵芝,,,,Lingzhi,"bencao_gangmu",ocr_pending
+polygonum_viviparum,Bistorta vivipara,(L.) Delarbre,Polygonaceae,珠芽蓼,ram bu,རམ་བུ།,,Alpine bistort,"zhonghua_zangbencao",ocr_pending
+rumex_nepalensis,Rumex nepalensis,Spreng.,Polygonaceae,尼泊尔酸模,shu mo za,ཤུ་མོ་ཟ།,,Nepal dock,"zhonghua_zangbencao",ocr_pending
+oxyria_digyna,Oxyria digyna,(L.) Hill,Polygonaceae,山蓼,sko,སྐོ,,Mountain sorrel,"zhonghua_zangbencao",ocr_pending
+dactylorhiza_hatagirea,Dactylorhiza hatagirea,(D.Don) Soó,Orchidaceae,西藏红门兰,dbang po lag pa,དབང་པོ་ལག་པ།,,Hatagirea orchid,"rgyud_bzhi;zhonghua_zangbencao",ocr_pending
+gymnadenia_crassinervis,Gymnadenia crassinervis,Finet,Orchidaceae,粗脉手参,dbang lag,དབང་ལག,,Thick-nerved gymnadenia,"zhonghua_zangbencao",ocr_pending
+cypripedium_tibeticum,Cypripedium tibeticum,King ex Rolfe,Orchidaceae,西藏杓兰,,,,Tibetan slipper orchid,"zhonghua_zangbencao",ocr_pending
+hyoscyamus_niger,Hyoscyamus niger,L.,Solanaceae,莨菪 (天仙子),lang thang,ལང་ཐང་།,,Henbane,"rgyud_bzhi;bencao_gangmu",ocr_pending
+anisodus_tanguticus,Anisodus tanguticus,(Maxim.) Pascher,Solanaceae,山莨菪,thang phrom,ཐང་ཕྲོམ།,,Tangut anisodus,"zhonghua_zangbencao",ocr_pending
+datura_metel,Datura metel,L.,Solanaceae,洋金花,dha du ra,དྷ་དུ་ར།,dhattūra,White datura,"charaka_samhita;bencao_gangmu",ocr_pending

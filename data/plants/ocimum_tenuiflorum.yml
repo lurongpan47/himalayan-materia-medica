@@ -1,0 +1,46 @@
+# ⚠️ STUB · UNVETTED CANDIDATE · DO NOT CITE
+# This entry was auto-generated from data/phase1_candidates.csv on 2026-10-07
+# as part of Phase 1 scaffolding. All identifications are tentative.
+# Required before promoting to status=draft:
+#   1. OCR of Rgyud-bzhi rtsa-rgyud chapter 20 to confirm Tibetan name & inclusion
+#   2. Cross-check binomial authority via Kew Plants of the World Online or TPL
+#   3. Add at least one classical uses_historical reference with volume/chapter/page
+#   4. Attach ≥1 CC/PD image with per-file license metadata
+# Do not treat any field below as authoritative scholarship.
+
+id: ocimum_tenuiflorum
+scientific_name:
+  binomial: "Ocimum tenuiflorum"
+  authority: "L."
+  synonyms: []
+family: Lamiaceae
+genus: Ocimum
+names:
+  zh: 圣罗勒
+  bo: null
+  en:
+    - "Holy basil"
+    - "Tulsi"
+  sa:
+    devanagari: null  # TODO: Devanagari from Bhāvaprakāśa or Caraka
+    iast: "tulasī"
+distribution:
+  elevation_m: null
+  regions: []  # TODO: fill from Flora of China + GBIF
+  habitat: null
+  gbif_taxon_key: null
+morphology: null
+parts_used: []
+uses_historical: []  # TODO: add classical refs with chapter/page after OCR
+chemistry: {}
+conservation: {}
+images: []
+sources:
+  - key: charaka_samhita
+    retrieved: 2026-10-07
+    notes: "Candidate flag only (verification_status=ocr_pending); content pending OCR."
+  - key: bhavaprakasha_nighantu
+    retrieved: 2026-10-07
+    notes: "Candidate flag only (verification_status=ocr_pending); content pending OCR."
+status: stub
+last_updated: 2026-10-07

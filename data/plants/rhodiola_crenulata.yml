@@ -1,0 +1,97 @@
+id: rhodiola_crenulata
+scientific_name:
+  binomial: Rhodiola crenulata
+  authority: (Hook.f. & Thomson) H.Ohba
+  synonyms:
+    - Sedum crenulatum Hook.f. & Thomson
+    - Rhodiola crenulata var. crenulata
+family: Crassulaceae
+genus: Rhodiola
+names:
+  zh:
+    primary: 大花红景天
+    aliases: [红景天, 索罗玛布, 扫罗玛尔布]
+  bo:
+    unicode: སྲོལ་གོང་དམར་པོ།
+    wylie: srol gong dmar po
+    aliases:
+      - unicode: སྲོལ་ལོ་དམར་པོ།
+        wylie: srol lo dmar po
+  en:
+    - Crenate rhodiola
+    - Big-flowered rhodiola
+    - Himalayan golden root
+  sa:
+    devanagari: null
+    iast: null
+  ne: null
+distribution:
+  elevation_m: {min: 2800, max: 5600}
+  regions:
+    - CN-Xizang (Tibet AR)
+    - CN-Sichuan (Garzê, Aba)
+    - CN-Yunnan (Dêqên)
+    - CN-Qinghai (Yushu)
+    - Bhutan (northern)
+    - Nepal (Mustang, Dolpo)
+    - NE India (Sikkim, Arunachal)
+  habitat: "Alpine meadows, rocky slopes, screes, cliff crevices; often on calcareous substrate."
+  gbif_taxon_key: 8142432
+morphology: |
+  Perennial herb 10–30 cm, with a thick woody rhizome crowned by persistent old
+  leaf bases. Stems several, erect, bearing fleshy obovate to oblong leaves with
+  crenate (scalloped) margins (hence the epithet). Inflorescence a dense
+  terminal corymb; flowers dioecious, deep red to maroon, 4- to 5-merous.
+parts_used:
+  - rhizome
+  - root
+uses_historical:
+  - system: tibetan_sowa_rigpa
+    source_ref: rgyud_bzhi
+    volume: rtsa_rgyud
+    chapter: 20
+    page: "ff. 44a-45b (per Dharamsala 1982 ed.)"
+    text_original: null  # 待从扫描本比对
+    text_translation: "Among the ⟨srol gong⟩ group: the red-flowered variety (dmar po) is cold, light, and dulling of fatigue; dries lymph (chu ser); clears lung heat; used in high-altitude exertion weakness."
+    translator: null
+    review_status: ai_draft
+  - system: tcm
+    source_ref: bencao_gangmu
+    volume: "草部"
+    chapter: null
+    page: null
+    text_translation: "本草纲目未单列 R. crenulata；红景天属进入中药本草体系以现代（1980 年代起）为主，古典引证需谨慎。"
+    review_status: ai_draft
+    translator: null
+  - system: ayurveda
+    source_ref: null
+    text_translation: "无直接古典 Ayurveda 典据。R. crenulata 不自然分布于主要 Ayurveda 文本编纂地理范围。"
+chemistry:
+  key_compounds:
+    - name: Salidroside
+      pubchem_cid: 159278
+      class: phenylethanoid glycoside
+      role_in_traditional_use: "Primary adaptogenic marker in modern research"
+    - name: Rosavin
+      pubchem_cid: 9823887
+      class: cinnamyl alcohol glycoside
+    - name: Tyrosol
+      pubchem_cid: 10393
+      class: phenylethanoid
+conservation:
+  iucn_status: "Not formally assessed (as of 2024); heavy wild harvest pressure documented"
+  cites_appendix: null
+  china_national_protection: "二级保护野生植物 (Category II, Protected Wild Plants, 2021 revision)"
+images: []  # 待补：野外活体 / 根茎切片 / 植物志线图 (PD)
+sources:
+  - key: rgyud_bzhi
+    retrieved: 2026-10-06
+    notes: "Chapter identification tentative; needs cross-check with original blockprint."
+  - key: flora_of_china
+    retrieved: 2026-10-06
+    notes: "FOC Vol. 8 p. 251 — distribution + morphology facts only (no prose copied)."
+  - key: gbif
+    retrieved: 2026-10-06
+    notes: "taxon key 8142432, 1,247 occurrence records as of 2024-07"
+status: draft
+last_updated: 2026-10-06

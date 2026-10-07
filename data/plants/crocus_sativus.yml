@@ -1,0 +1,108 @@
+id: crocus_sativus
+scientific_name:
+  binomial: Crocus sativus
+  authority: L.
+  synonyms:
+    - Crocus officinalis (L.) Honck.
+    - Crocus pendulus Stokes
+family: Iridaceae
+genus: Crocus
+names:
+  zh:
+    primary: 番红花
+    aliases: [藏红花, 西红花, 克什米尔红花]
+  bo:
+    unicode: གུར་གུམ།
+    wylie: gur gum
+    aliases:
+      - unicode: ཁ་ཆེའི་གུར་གུམ།
+        wylie: kha che'i gur gum
+        gloss: "'Kashmiri gur-gum' = the preferred grade in Tibetan materia medica"
+  en:
+    - Saffron crocus
+    - Autumn crocus (saffron)
+    - Saffron
+  sa:
+    devanagari: कुङ्कुम
+    iast: kuṅkuma
+    aliases:
+      - devanagari: काश्मीरजन्म
+        iast: kāśmīrajanma
+      - devanagari: बाल्हीक
+        iast: bālhīka
+  ne: केसर (kesar)
+distribution:
+  elevation_m: {min: 1500, max: 2500}
+  regions:
+    - IN-Jammu and Kashmir (Pampore)
+    - IR (Khorasan — world's largest producer)
+    - CN-Xizang (cultivated, trade entrepôt not primary origin)
+    - AF
+    - "Mediterranean (introduced; not Himalayan origin)"
+  habitat: "Cultigen; no confirmed wild population. Autumn-flowering corm; thrives on well-drained calcareous soils."
+  gbif_taxon_key: 2747723
+morphology: |
+  Perennial corm; produces a basal fascicle of grass-like leaves and 1–3 solitary
+  violet-purple flowers in autumn. Each flower bears three bright red stigmas
+  (the saffron spice). Sterile triploid, propagated vegetatively.
+parts_used:
+  - stigma
+uses_historical:
+  - system: tibetan_sowa_rigpa
+    source_ref: rgyud_bzhi
+    volume: man_ngag_rgyud
+    chapter: null
+    page: "cited extensively in liver/blood sections; see also bshad_rgyud ch. 20 on precious substances"
+    text_translation: "gur-gum: cool, sweet-bitter; clears liver blood (mchin khrag), stops bleeding, resolves heat conditions. Kashmiri grade (kha che'i gur gum) is first; Nepali (bal po'i gur gum) second; local (bod kyi gur gum) third."
+    translator: null
+    review_status: ai_draft
+  - system: ayurveda
+    source_ref: charaka_samhita
+    volume: Sūtrasthāna
+    chapter: null
+    page: "listed among aromatic drugs; also Suśruta Sūtra 46"
+    text_original: null
+    text_translation: "kuṅkuma: pungent (kaṭu), bitter (tikta), warming; alleviates kapha and vāta; vaṛṇya (improves complexion); hṛdya (cardiotonic)."
+    translator: null
+    review_status: ai_draft
+  - system: tcm
+    source_ref: bencao_gangmu
+    volume: "草部"
+    chapter: null
+    page: "李时珍 卷十五 草之四"
+    text_translation: "番红花，性平味甘微酸，入心肝经。活血化瘀，凉血解毒，解郁安神。治忧思郁结，胸膈痞闷，吐血等。"
+    translator: null
+    review_status: ai_draft
+chemistry:
+  key_compounds:
+    - name: Crocin (crocin-1)
+      pubchem_cid: 5281233
+      class: carotenoid glycoside
+      role_in_traditional_use: "Principal colouring compound; antioxidant"
+    - name: Picrocrocin
+      pubchem_cid: 442256
+      class: monoterpene glycoside
+      role_in_traditional_use: "Bitter taste principle"
+    - name: Safranal
+      pubchem_cid: 61041
+      class: monoterpene aldehyde
+      role_in_traditional_use: "Aroma principal; mild sedative in modern studies"
+conservation:
+  iucn_status: "Not applicable (cultigen)"
+  cites_appendix: null
+  china_national_protection: null
+images: []
+sources:
+  - key: rgyud_bzhi
+    retrieved: 2026-10-06
+  - key: charaka_samhita
+    retrieved: 2026-10-06
+  - key: susruta_samhita
+    retrieved: 2026-10-06
+  - key: bencao_gangmu
+    retrieved: 2026-10-06
+  - key: flora_of_china
+    retrieved: 2026-10-06
+    notes: "FOC Vol. 24 p. 304"
+status: draft
+last_updated: 2026-10-06
