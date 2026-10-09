@@ -253,7 +253,96 @@ def main():
         )
         (BUILD_DIR / "plants" / f'{d["id"]}.html').write_text(html)
 
-    print(f"Built {len(plants)} plant pages → {BUILD_DIR}")
+    # JSON API output (public, CORS-friendly via GitHub Pages)
+    (BUILD_DIR / "api").mkdir(exist_ok=True)
+    (BUILD_DIR / "api/plants").mkdir(exist_ok=True)
+
+    def _public_record(d):
+        n = render_names(d)
+        dist = d.get("distribution") or {}
+        return {
+            "id": d["id"],
+            "scientific_name": d["scientific_name"]["binomial"],
+            "authority": d["scientific_name"].get("authority"),
+            "family": d.get("family"),
+            "genus": d.get("genus"),
+            "names": {
+                "zh": n["zh_name"] or None,
+                "bo_unicode": n["bo_unicode"] or None,
+                "bo_wylie": n["bo_wylie"] or None,
+                "en": n["en"] or None,
+                "sa_dev": n["sa_dev"] or None,
+                "sa_iast": n["sa_iast"] or None,
+            },
+            "distribution": {
+                "elevation_m": dist.get("elevation_m"),
+                "habitat": dist.get("habitat"),
+                "regions": dist.get("regions", []),
+            },
+            "parts_used": d.get("parts_used", []),
+            "conservation": (d.get("conservation") or {}).get("iucn_status"),
+            "sources_count": len(d.get("sources") or []),
+            "status": d.get("status", "stub"),
+            "url": f"https://lurongpan47.github.io/himalayan-materia-medica/plants/{d['id']}.html",
+            "api_url": f"https://lurongpan47.github.io/himalayan-materia-medica/api/plants/{d['id']}.json",
+            "license": "CC BY-SA 4.0",
+        }
+
+    manifest = {
+        "$schema": "https://lurongpan47.github.io/himalayan-materia-medica/api/schema.json",
+        "name": "Himalayan Materia Medica",
+        "version": "0.1",
+        "generated": datetime.datetime.utcnow().isoformat() + "Z",
+        "count": len(plants),
+        "license": "CC BY-SA 4.0",
+        "base_url": "https://lurongpan47.github.io/himalayan-materia-medica/",
+        "plants": [_public_record(d) for d in plants],
+    }
+    (BUILD_DIR / "api/plants.json").write_text(
+        json.dumps(manifest, ensure_ascii=False, indent=2)
+    )
+
+    # Per-plant full records
+    for d in plants:
+        full = _public_record(d)
+        full["uses_historical"] = d.get("uses_historical")
+        full["chemistry"] = d.get("chemistry")
+        full["morphology"] = d.get("morphology")
+        full["images"] = d.get("images")
+        full["sources"] = d.get("sources")
+        (BUILD_DIR / "api/plants" / f"{d['id']}.json").write_text(
+            json.dumps(full, ensure_ascii=False, indent=2)
+        )
+
+    # Lookup index by common name (lowercase) for fast partner lookups
+    lookup = {}
+    for d in plants:
+        n = render_names(d)
+        keys = set()
+        if n["en"]:
+            keys.add(n["en"].lower().strip())
+        for en_name in d.get("names", {}).get("en", []) or []:
+            keys.add(en_name.lower().strip())
+        keys.add(d["scientific_name"]["binomial"].lower().strip())
+        # Genus-only key as last-resort match
+        if d.get("genus"):
+            keys.add(d["genus"].lower().strip())
+        for k in keys:
+            if k:
+                lookup.setdefault(k, []).append(d["id"])
+    (BUILD_DIR / "api/lookup.json").write_text(
+        json.dumps(
+            {
+                "generated": datetime.datetime.utcnow().isoformat() + "Z",
+                "description": "Case-insensitive map: common_name_or_binomial_or_genus -> [plant_id,...]. Use for ingredient-to-plant lookup from product pages.",
+                "index": lookup,
+            },
+            ensure_ascii=False,
+            indent=2,
+        )
+    )
+
+    print(f"Built {len(plants)} plant pages + api/plants.json + api/lookup.json + {len(plants)} per-plant JSON → {BUILD_DIR}")
 
 
 if __name__ == "__main__":
