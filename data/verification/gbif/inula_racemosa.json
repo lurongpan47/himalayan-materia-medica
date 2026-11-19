@@ -1,0 +1,48 @@
+{
+  "id": "inula_racemosa",
+  "binomial": "Inula racemosa",
+  "status": "matched",
+  "usageKey": 4933624,
+  "accepted_name": "Inula racemosa Hook.fil.",
+  "confidence": 99,
+  "matchType": "EXACT",
+  "total_occurrences": 3576,
+  "countries_raw": {
+    "NL": 1544,
+    "BE": 1176,
+    "SE": 333,
+    "CN": 114,
+    "IN": 74,
+    "US": 64,
+    "CA": 57,
+    "PK": 25,
+    "NP": 22,
+    "DE": 21,
+    "GB": 19,
+    "RU": 12,
+    "ZZ": 11,
+    "FR": 7,
+    "CZ": 6,
+    "AT": 5,
+    "FI": 5,
+    "IE": 1,
+    "IT": 1,
+    "JP": 1,
+    "LV": 1,
+    "NO": 1
+  },
+  "himalayan_countries": {
+    "CN": 114,
+    "IN": 74,
+    "PK": 25,
+    "NP": 22
+  },
+  "elevation": {
+    "n": 58,
+    "min": 8,
+    "max": 3658,
+    "p10": 230,
+    "p90": 3557,
+    "median": 2621
+  }
+}

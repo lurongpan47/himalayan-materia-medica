@@ -1,0 +1,42 @@
+{
+  "inputString": "Mucuna pruriens",
+  "searchString": "Mucuna pruriens",
+  "params": {
+    "checkHomonyms": false,
+    "checkRank": false,
+    "method": "full",
+    "acceptSingleCandidate": false,
+    "fuzzyNameParts": 0,
+    "fuzzyAuthors": 0,
+    "limit": 50,
+    "classificationVersion": "2026-06",
+    "year": null,
+    "rank": null,
+    "authors": null
+  },
+  "match": {
+    "wfo_id": "wfo-0000182545",
+    "full_name_plain": "Mucuna pruriens (L.) DC.",
+    "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Mucuna</i> <i>pruriens</i></span> <span class=\"wfo-name-authors\" >(L.) DC.</span></span>",
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Fabales/Fabaceae/Papilionoideae/Mucuna/pruriens"
+  },
+  "candidates": [],
+  "error": false,
+  "errorMessage": null,
+  "parsedName": {
+    "rank": "species",
+    "canonical_form": "Mucuna pruriens",
+    "author_string": ""
+  },
+  "narrative": [
+    "The first word is always a name part word: 'Mucuna'",
+    "Word is found in index and so is part of name: 'pruriens'.",
+    "Word is lowercase. Subsequent words must start with lowercase: 'pruriens'.",
+    "No authors string provided. Will match all authors strings.",
+    "Parsed name complete.",
+    "Rank estimated as 'species' from name parts.",
+    "Searched index of 2026-06 for canonical form of name 'Mucuna pruriens' and found 1 candidates.",
+    "Looking for matching author strings.",
+    "Only one candidate found (wfo-0000182545) and no author string supplied so name becomes match."
+  ]
+}

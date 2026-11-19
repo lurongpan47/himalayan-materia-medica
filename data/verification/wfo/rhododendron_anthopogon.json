@@ -1,0 +1,51 @@
+{
+  "inputString": "Rhododendron anthopogon",
+  "searchString": "Rhododendron anthopogon",
+  "params": {
+    "checkHomonyms": false,
+    "checkRank": false,
+    "method": "full",
+    "acceptSingleCandidate": false,
+    "fuzzyNameParts": 0,
+    "fuzzyAuthors": 0,
+    "limit": 50,
+    "classificationVersion": "2026-06",
+    "year": null,
+    "rank": null,
+    "authors": null
+  },
+  "match": null,
+  "candidates": [
+    {
+      "wfo_id": "wfo-0001230899",
+      "full_name_plain": "Rhododendron anthopogon D.Don",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Rhododendron</i> <i>anthopogon</i></span> <span class=\"wfo-name-authors\" >D.Don</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Ericales/Ericaceae/Ericoideae/Rhododendron/Rhododendron/Pogonanthum/anthopogon"
+    },
+    {
+      "wfo_id": "wfo-1000040533",
+      "full_name_plain": "Rhododendron anthopogon Wall.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Rhododendron</i> <i>anthopogon</i></span> <span class=\"wfo-name-authors\" >Wall.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Ericales/Ericaceae/Ericoideae/Rhododendron/Rhododendron/Rhododendron/Lapponica/setosum$Rhododendron/anthopogon"
+    }
+  ],
+  "error": false,
+  "errorMessage": null,
+  "parsedName": {
+    "rank": "species",
+    "canonical_form": "Rhododendron anthopogon",
+    "author_string": ""
+  },
+  "narrative": [
+    "The first word is always a name part word: 'Rhododendron'",
+    "Word is found in index and so is part of name: 'anthopogon'.",
+    "Word is lowercase. Subsequent words must start with lowercase: 'anthopogon'.",
+    "No authors string provided. Will match all authors strings.",
+    "Parsed name complete.",
+    "Rank estimated as 'species' from name parts.",
+    "Searched index of 2026-06 for canonical form of name 'Rhododendron anthopogon' and found 2 candidates.",
+    "Looking for matching author strings.",
+    "Still no match found.",
+    "But 2 candidates found."
+  ]
+}

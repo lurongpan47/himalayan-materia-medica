@@ -1,0 +1,68 @@
+{
+  "id": "delphinium_brunonianum",
+  "binomial": "Delphinium brunonianum",
+  "source": "category",
+  "n_candidates": 6,
+  "candidates": [
+    {
+      "title": "File:Delphinium brunonianum 340701470.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Delphinium_brunonianum_340701470.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Delphinium_brunonianum_340701470.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Antoine MARNAT",
+      "credit": "https://www.inaturalist.org/photos/340701470",
+      "date": "2024-04-12 11:44:23",
+      "object_name": "Delphinium brunonianum 340701470"
+    },
+    {
+      "title": "File:Delphinium brunonianum 53613794.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Delphinium_brunonianum_53613794.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Delphinium_brunonianum_53613794.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Dmitry Kulakov",
+      "credit": "https://www.inaturalist.org/photos/53613794",
+      "date": "2024-04-12 11:44:08",
+      "object_name": "Delphinium brunonianum 53613794"
+    },
+    {
+      "title": "File:Delphinium brunonianum 53613799.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Delphinium_brunonianum_53613799.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Delphinium_brunonianum_53613799.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Dmitry Kulakov",
+      "credit": "https://www.inaturalist.org/photos/53613799",
+      "date": "2024-04-12 11:43:50",
+      "object_name": "Delphinium brunonianum 53613799"
+    },
+    {
+      "title": "File:Delphinium brunonianum.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Delphinium_brunonianum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Delphinium_brunonianum.jpg",
+      "mime": "image/jpeg",
+      "license_short": "Public domain",
+      "license_url": null,
+      "artist": "William Curtis",
+      "credit": "Curtis's Botanical Magazine Ser. 3 Vol. 20",
+      "date": "2020-10-12 19:57:12",
+      "object_name": "Delphinium brunonianum"
+    },
+    {
+      "title": "File:Indian medicinal plants (Plate 7) (7824222044).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Indian_medicinal_plants_%28Plate_7%29_%287824222044%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Indian_medicinal_plants_(Plate_7)_(7824222044).jpg",
+      "mime": "image/jpeg",
+      "license_short": "Public domain",
+      "license_url": null,
+      "artist": "Basu, Baman Das; Kirtikar, Kanhoba Ranchoddas",
+      "credit": "https://www.flickr.com/photos/biodivlibrary/7824222044",
+      "date": "2015-09-10 22:09:37",
+      "object_name": "Indian medicinal plants (Plate 7) (7824222044)"
+    }
+  ]
+}

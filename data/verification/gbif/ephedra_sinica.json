@@ -1,0 +1,31 @@
+{
+  "id": "ephedra_sinica",
+  "binomial": "Ephedra sinica",
+  "status": "matched",
+  "usageKey": 2653377,
+  "accepted_name": "Ephedra sinica Stapf",
+  "confidence": 99,
+  "matchType": "EXACT",
+  "total_occurrences": 707,
+  "countries_raw": {
+    "CN": 448,
+    "MN": 125,
+    "RU": 29,
+    "US": 13,
+    "JP": 5,
+    "ZZ": 3,
+    "CA": 1,
+    "DE": 1
+  },
+  "himalayan_countries": {
+    "CN": 448
+  },
+  "elevation": {
+    "n": 8,
+    "min": 200,
+    "max": 3630,
+    "p10": 200,
+    "p90": 3630,
+    "median": 1380
+  }
+}

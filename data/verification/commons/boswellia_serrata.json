@@ -1,0 +1,68 @@
+{
+  "id": "boswellia_serrata",
+  "binomial": "Boswellia serrata",
+  "source": "category",
+  "n_candidates": 15,
+  "candidates": [
+    {
+      "title": "File:Areale di Boswellia serrata.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Areale_di_Boswellia_serrata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Areale_di_Boswellia_serrata.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Mauro Raffaelli",
+      "credit": "Own work",
+      "date": "2012-06-18 11:14:50",
+      "object_name": "Areale di Boswellia serrata"
+    },
+    {
+      "title": "File:Boswellia Resin Close Up.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Boswellia_Resin_Close_Up.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Boswellia_Resin_Close_Up.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "formulatehealth",
+      "credit": "https://www.flickr.com/photos/189590028@N07/50191696391/",
+      "date": "2020-09-10 21:34:44",
+      "object_name": "Boswellia Resin Close Up"
+    },
+    {
+      "title": "File:Boswellia Resin in a grey bowl - 50191148388.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Boswellia_Resin_in_a_grey_bowl_-_50191148388.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Boswellia_Resin_in_a_grey_bowl_-_50191148388.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "formulatehealth",
+      "credit": "https://www.flickr.com/photos/189590028@N07/50191148388/",
+      "date": "2020-09-10 21:34:47",
+      "object_name": "Boswellia Resin in a grey bowl - 50191148388"
+    },
+    {
+      "title": "File:Boswellia serrata (4399783209).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Boswellia_serrata_%284399783209%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Boswellia_serrata_(4399783209).jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Dinesh Valke  from Thane, India",
+      "credit": "Boswellia serrata",
+      "date": "2016-09-20 13:19:49",
+      "object_name": "Boswellia serrata (4399783209)"
+    },
+    {
+      "title": "File:Boswellia serrata (Indian frankincense) (SaatPilot).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Boswellia_serrata_%28Indian_frankincense%29_%28SaatPilot%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Boswellia_serrata_(Indian_frankincense)_(SaatPilot).jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Steffen Bauer ( saatpilot.de )",
+      "credit": "Own work",
+      "date": "2026-11-17 12:57:36",
+      "object_name": "Boswellia serrata (Indian frankincense) (SaatPilot)"
+    }
+  ]
+}

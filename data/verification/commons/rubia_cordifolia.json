@@ -1,0 +1,68 @@
+{
+  "id": "rubia_cordifolia",
+  "binomial": "Rubia cordifolia",
+  "source": "category",
+  "n_candidates": 15,
+  "candidates": [
+    {
+      "title": "File:Indian Madder 2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Indian_Madder_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Indian_Madder_2.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Nativeplants garden",
+      "credit": "Own work",
+      "date": "2023-09-06 08:10:13",
+      "object_name": "Indian Madder 2"
+    },
+    {
+      "title": "File:Indian Madder 3.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Indian_Madder_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Indian_Madder_3.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Nativeplants garden",
+      "credit": "Own work",
+      "date": "2023-09-06 08:10:35",
+      "object_name": "Indian Madder 3"
+    },
+    {
+      "title": "File:Indian Madder 4.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Indian_Madder_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Indian_Madder_4.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Nativeplants garden",
+      "credit": "Own work",
+      "date": "2023-09-06 08:10:58",
+      "object_name": "Indian Madder 4"
+    },
+    {
+      "title": "File:Indian Madder, Paithalmala.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Indian_Madder%2C_Paithalmala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Indian_Madder,_Paithalmala.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Nativeplants garden",
+      "credit": "Own work",
+      "date": "2024-10-13 07:22:17",
+      "object_name": "Indian Madder, Paithalmala"
+    },
+    {
+      "title": "File:Indian Madder.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Indian_Madder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Indian_Madder.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Nativeplants garden",
+      "credit": "Own work",
+      "date": "2023-09-06 08:09:50",
+      "object_name": "Indian Madder"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "corydalis_impatiens",
+  "binomial": "Corydalis impatiens",
+  "status": "matched",
+  "usageKey": 7699798,
+  "accepted_name": "Corydalis impatiens (Pall.) Fisch. ex DC.",
+  "confidence": 98,
+  "matchType": "EXACT",
+  "total_occurrences": 406,
+  "countries_raw": {
+    "RU": 270,
+    "CN": 87,
+    "MN": 17
+  },
+  "himalayan_countries": {
+    "CN": 87
+  },
+  "elevation": {
+    "n": 52,
+    "min": 453,
+    "max": 3630,
+    "p10": 458,
+    "p90": 2382,
+    "median": 1140
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "cordyceps_sinensis",
+  "binomial": "Ophiocordyceps sinensis",
+  "source": "category",
+  "n_candidates": 14,
+  "candidates": [
+    {
+      "title": "File:Api-yarcha.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Api-yarcha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Api-yarcha.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Deepak Raj Bhatt",
+      "credit": "Own work",
+      "date": "2016-09-14 04:03:01",
+      "object_name": "Api-yarcha"
+    },
+    {
+      "title": "File:C0029 ophiocordyceps sinensis.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/C0029_ophiocordyceps_sinensis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:C0029_ophiocordyceps_sinensis.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Fumikas Sagisavas",
+      "credit": "Own work",
+      "date": "2024-06-20 02:57:55",
+      "object_name": "C0029 ophiocordyceps sinensis"
+    },
+    {
+      "title": "File:Cordyceps sinensis - epoxy resin fungus models by Sebastian Brandt (Reco-Brandt).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Cordyceps_sinensis_-_epoxy_resin_fungus_models_by_Sebastian_Brandt_%28Reco-Brandt%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cordyceps_sinensis_-_epoxy_resin_fungus_models_by_Sebastian_Brandt_(Reco-Brandt).jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "TB0815",
+      "credit": "Own work",
+      "date": "2026-10-28 21:01:04",
+      "object_name": "Cordyceps sinensis - epoxy resin fungus models by Sebastian Brandt (Reco-Brandt)"
+    },
+    {
+      "title": "File:Cordyceps sinensis.edit.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Cordyceps_sinensis.edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cordyceps_sinensis.edit.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "artist": "Nicolas Merky. Original uploader was Nicmerky at de.wikipedia",
+      "credit": "http://upload.wikimedia.org/wikipedia/commons/8/8f/Cordyceps_sinensis.jpg",
+      "date": "2012-09-09 22:23:27",
+      "object_name": "Cordyceps sinensis.edit"
+    },
+    {
+      "title": "File:Cordyceps Sinensis.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Cordyceps_Sinensis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cordyceps_Sinensis.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY 2.5",
+      "license_url": "https://creativecommons.org/licenses/by/2.5",
+      "artist": "The original uploader was  Rafti Institute  at  English Wikipedia .",
+      "credit": "Transferred from   en.wikipedia   to Commons by  Lvova  using  CommonsHelper .",
+      "date": "2008-10-28 21:53:27",
+      "object_name": "Cordyceps Sinensis"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "santalum_album",
+  "binomial": "Santalum album",
+  "source": "category",
+  "n_candidates": 15,
+  "candidates": [
+    {
+      "title": "File:Chandanam (Malayalam ചന്ദനം) (30743804600).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Chandanam_%28Malayalam_%E0%B4%9A%E0%B4%A8%E0%B5%8D%E0%B4%A6%E0%B4%A8%E0%B4%82%29_%2830743804600%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chandanam_(Malayalam_%E0%B4%9A%E0%B4%A8%E0%B5%8D%E0%B4%A6%E0%B4%A8%E0%B4%82)_(30743804600).jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Dinesh Valke  from Thane, India",
+      "credit": "Chandanam (Malayalam: ചന്ദനം)",
+      "date": "2021-11-06 20:40:17",
+      "object_name": "Chandanam (Malayalam ചന്ദനം) (30743804600)"
+    },
+    {
+      "title": "File:Chandanam (Tamil சந்தனம்) (31074714746).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Chandanam_%28Tamil_%E0%AE%9A%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%A9%E0%AE%AE%E0%AF%8D%29_%2831074714746%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chandanam_(Tamil_%E0%AE%9A%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%A9%E0%AE%AE%E0%AF%8D)_(31074714746).jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Dinesh Valke  from Thane, India",
+      "credit": "Chandanam (Tamil: சந்தனம்)",
+      "date": "2021-11-06 20:39:36",
+      "object_name": "Chandanam (Tamil சந்தனம்) (31074714746)"
+    },
+    {
+      "title": "File:Chung Tai Chan Monastery sandalwood 20170819.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Chung_Tai_Chan_Monastery_sandalwood_20170819.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chung_Tai_Chan_Monastery_sandalwood_20170819.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Solomon203",
+      "credit": "Own work",
+      "date": "2017-08-28 04:58:06",
+      "object_name": "Chung Tai Chan Monastery sandalwood 20170819"
+    },
+    {
+      "title": "File:Foilage 1777.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Foilage_1777.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Foilage_1777.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Vengolis",
+      "credit": "Own work",
+      "date": "2017-07-16 09:35:05",
+      "object_name": "Foilage 1777"
+    },
+    {
+      "title": "File:Foilage 1778.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Foilage_1778.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Foilage_1778.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Vengolis",
+      "credit": "Own work",
+      "date": "2017-07-16 09:35:10",
+      "object_name": "Foilage 1778"
+    }
+  ]
+}

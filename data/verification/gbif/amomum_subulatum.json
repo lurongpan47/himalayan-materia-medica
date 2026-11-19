@@ -1,0 +1,33 @@
+{
+  "id": "amomum_subulatum",
+  "binomial": "Amomum subulatum",
+  "status": "matched",
+  "usageKey": 5301632,
+  "accepted_name": "Amomum subulatum Roxb.",
+  "confidence": 99,
+  "matchType": "EXACT",
+  "total_occurrences": 117,
+  "countries_raw": {
+    "IN": 52,
+    "NP": 14,
+    "CN": 11,
+    "BT": 7,
+    "US": 3,
+    "DE": 1,
+    "KR": 1
+  },
+  "himalayan_countries": {
+    "IN": 52,
+    "NP": 14,
+    "CN": 11,
+    "BT": 7
+  },
+  "elevation": {
+    "n": 3,
+    "min": 1204,
+    "max": 2050,
+    "p10": 1204,
+    "p90": 2050,
+    "median": 1500
+  }
+}

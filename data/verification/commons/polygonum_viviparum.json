@@ -1,0 +1,68 @@
+{
+  "id": "polygonum_viviparum",
+  "binomial": "Bistorta vivipara",
+  "source": "category",
+  "n_candidates": 14,
+  "candidates": [
+    {
+      "title": "File:1024 Alpengarten Villacher Alpe-2174.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/1024_Alpengarten_Villacher_Alpe-2174.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:1024_Alpengarten_Villacher_Alpe-2174.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Hedwig Storch",
+      "credit": "Own work",
+      "date": "2014-07-15 16:28:23",
+      "object_name": "1024 Alpengarten Villacher Alpe-2174"
+    },
+    {
+      "title": "File:Alpenblumen Tauerntal 20190801.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Alpenblumen_Tauerntal_20190801.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Alpenblumen_Tauerntal_20190801.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Uoaei1",
+      "credit": "Own work",
+      "date": "2022-02-17 18:14:45",
+      "object_name": "Alpenblumen Tauerntal 20190801"
+    },
+    {
+      "title": "File:Alpine Bistort (5937743100).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Alpine_Bistort_%285937743100%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Alpine_Bistort_(5937743100).jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Alastair Rae  from London, United Kingdom",
+      "credit": "Alpine Bistort",
+      "date": "2015-05-05 17:48:45",
+      "object_name": "Alpine Bistort (5937743100)"
+    },
+    {
+      "title": "File:Alpine Bistort (Bistorta vivipara) - Cape St. Mary's Ecological Reserve, Newfoundland 2019-08-10.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Alpine_Bistort_%28Bistorta_vivipara%29_-_Cape_St._Mary%27s_Ecological_Reserve%2C_Newfoundland_2019-08-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Alpine_Bistort_(Bistorta_vivipara)_-_Cape_St._Mary%27s_Ecological_Reserve,_Newfoundland_2019-08-10.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Ryan Hodnett",
+      "credit": "Own work",
+      "date": "2020-04-22 19:18:24",
+      "object_name": "Alpine Bistort (Bistorta vivipara) - Cape St. Mary's Ecological Reserve, Newfoundland 2019-08-10"
+    },
+    {
+      "title": "File:Alpine Bistort (Harerug) (Bistorta vivipara) - Tromsø, Norway 2023-07-07.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Alpine_Bistort_%28Harerug%29_%28Bistorta_vivipara%29_-_Troms%C3%B8%2C_Norway_2023-07-07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Alpine_Bistort_(Harerug)_(Bistorta_vivipara)_-_Troms%C3%B8,_Norway_2023-07-07.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Ryan Hodnett",
+      "credit": "Own work",
+      "date": "2024-09-19 17:21:17",
+      "object_name": "Alpine Bistort (Harerug) (Bistorta vivipara) - Tromsø, Norway 2023-07-07"
+    }
+  ]
+}

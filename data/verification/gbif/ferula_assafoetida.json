@@ -1,0 +1,45 @@
+{
+  "id": "ferula_assafoetida",
+  "binomial": "Ferula assa-foetida",
+  "status": "matched",
+  "usageKey": 8113074,
+  "accepted_name": "Ferula assa-foetida L.",
+  "confidence": 97,
+  "matchType": "EXACT",
+  "total_occurrences": 206,
+  "countries_raw": {
+    "KZ": 39,
+    "IR": 27,
+    "US": 9,
+    "UZ": 9,
+    "NO": 7,
+    "JP": 5,
+    "DE": 4,
+    "NL": 4,
+    "ZZ": 4,
+    "CH": 2,
+    "IT": 2,
+    "PK": 2,
+    "TM": 2,
+    "AF": 1,
+    "BE": 1,
+    "CA": 1,
+    "HU": 1,
+    "IN": 1,
+    "TJ": 1,
+    "TR": 1
+  },
+  "himalayan_countries": {
+    "PK": 2,
+    "AF": 1,
+    "IN": 1
+  },
+  "elevation": {
+    "n": 3,
+    "min": 50,
+    "max": 2300,
+    "p10": 50,
+    "p90": 2300,
+    "median": 1643
+  }
+}

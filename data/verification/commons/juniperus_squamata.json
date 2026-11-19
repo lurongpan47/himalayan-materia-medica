@@ -1,0 +1,68 @@
+{
+  "id": "juniperus_squamata",
+  "binomial": "Juniperus squamata",
+  "source": "category",
+  "n_candidates": 7,
+  "candidates": [
+    {
+      "title": "File:Beschuppter Wacholder in Bochum-Lindener Vorgarten.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Beschuppter_Wacholder_in_Bochum-Lindener_Vorgarten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Beschuppter_Wacholder_in_Bochum-Lindener_Vorgarten.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Sebastian Martin Dicke",
+      "credit": "Own work",
+      "date": "2023-09-20 21:52:46",
+      "object_name": "Beschuppter Wacholder in Bochum-Lindener Vorgarten"
+    },
+    {
+      "title": "File:Flaky juniper.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flaky_juniper.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flaky_juniper.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Rivadavia.vila",
+      "credit": "Own work",
+      "date": "2022-05-29 02:14:47",
+      "object_name": "Flaky juniper"
+    },
+    {
+      "title": "File:Juniperus squamata needles 1.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Juniperus_squamata_needles_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Juniperus_squamata_needles_1.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "MrPhenylethylamine",
+      "credit": "Own work",
+      "date": "2023-08-15 16:50:23",
+      "object_name": "Juniperus squamata needles 1"
+    },
+    {
+      "title": "File:Juniperus squamata needles.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Juniperus_squamata_needles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Juniperus_squamata_needles.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "MrPhenylethylamine",
+      "credit": "Own work",
+      "date": "2023-08-15 16:50:23",
+      "object_name": "Juniperus squamata needles"
+    },
+    {
+      "title": "File:Sabina squamata - Mount Sanqing 2015.09.08 14-37-52.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Sabina_squamata_-_Mount_Sanqing_2015.09.08_14-37-52.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sabina_squamata_-_Mount_Sanqing_2015.09.08_14-37-52.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Zhangzhugang",
+      "credit": "Own work",
+      "date": "2015-09-10 12:33:40",
+      "object_name": "Sabina squamata - Mount Sanqing 2015.09.08 14-37-52"
+    }
+  ]
+}

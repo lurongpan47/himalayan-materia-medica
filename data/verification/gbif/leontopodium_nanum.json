@@ -1,0 +1,39 @@
+{
+  "id": "leontopodium_nanum",
+  "binomial": "Leontopodium nanum",
+  "status": "matched",
+  "usageKey": 3140687,
+  "accepted_name": "Leontopodium nanum (Hook.fil. & Thomson) Hand.-Mazz.",
+  "confidence": 99,
+  "matchType": "EXACT",
+  "total_occurrences": 619,
+  "countries_raw": {
+    "CN": 337,
+    "IN": 110,
+    "NP": 56,
+    "AF": 11,
+    "PK": 10,
+    "TJ": 6,
+    "KG": 4,
+    "BT": 3,
+    "IT": 3,
+    "MN": 3,
+    "KZ": 1
+  },
+  "himalayan_countries": {
+    "CN": 337,
+    "IN": 110,
+    "NP": 56,
+    "AF": 11,
+    "PK": 10,
+    "BT": 3
+  },
+  "elevation": {
+    "n": 130,
+    "min": 2316,
+    "max": 5600,
+    "p10": 3500,
+    "p90": 5150,
+    "median": 4420
+  }
+}

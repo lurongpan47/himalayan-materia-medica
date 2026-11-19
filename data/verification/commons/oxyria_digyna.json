@@ -1,0 +1,68 @@
+{
+  "id": "oxyria_digyna",
+  "binomial": "Oxyria digyna",
+  "source": "category",
+  "n_candidates": 15,
+  "candidates": [
+    {
+      "title": "File:Alpine or Mountain Sorrel in Glacier National Park.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Alpine_or_Mountain_Sorrel_in_Glacier_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Alpine_or_Mountain_Sorrel_in_Glacier_National_Park.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Dani.j.lombardi",
+      "credit": "Own work",
+      "date": "2024-07-26 21:24:56",
+      "object_name": "Alpine or Mountain Sorrel in Glacier National Park"
+    },
+    {
+      "title": "File:Alpine Sorrel (Oxyria digyna) - Eidfjord, Norway 2021-07-24.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Alpine_Sorrel_%28Oxyria_digyna%29_-_Eidfjord%2C_Norway_2021-07-24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Alpine_Sorrel_(Oxyria_digyna)_-_Eidfjord,_Norway_2021-07-24.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Ryan Hodnett",
+      "credit": "Own work",
+      "date": "2022-03-19 12:34:25",
+      "object_name": "Alpine Sorrel (Oxyria digyna) - Eidfjord, Norway 2021-07-24"
+    },
+    {
+      "title": "File:Alpine sorrel, Oxyria digyna (25649428961).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Alpine_sorrel%2C_Oxyria_digyna_%2825649428961%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Alpine_sorrel,_Oxyria_digyna_(25649428961).jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Jim Morefield  from Nevada, USA",
+      "credit": "alpine sorrel, Oxyria digyna",
+      "date": "2019-12-29 03:17:40",
+      "object_name": "Alpine sorrel, Oxyria digyna (25649428961)"
+    },
+    {
+      "title": "File:Alpine sorrel, Oxyria digyna (41224180831).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Alpine_sorrel%2C_Oxyria_digyna_%2841224180831%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Alpine_sorrel,_Oxyria_digyna_(41224180831).jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Jim Morefield  from Nevada, USA",
+      "credit": "alpine sorrel, Oxyria digyna",
+      "date": "2019-12-29 03:29:35",
+      "object_name": "Alpine sorrel, Oxyria digyna (41224180831)"
+    },
+    {
+      "title": "File:Ammassalik 30.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Ammassalik_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ammassalik_30.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Clemens Stockner",
+      "credit": "Own work",
+      "date": "2020-06-24 22:18:57",
+      "object_name": "Ammassalik 30"
+    }
+  ]
+}

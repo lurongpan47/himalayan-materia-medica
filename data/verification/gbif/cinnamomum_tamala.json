@@ -1,0 +1,46 @@
+{
+  "id": "cinnamomum_tamala",
+  "binomial": "Cinnamomum tamala",
+  "status": "matched",
+  "usageKey": 9128079,
+  "accepted_name": "Cinnamomum tamala (Buch.-Ham.) T.Nees & Eberm.",
+  "confidence": 99,
+  "matchType": "EXACT",
+  "total_occurrences": 477,
+  "countries_raw": {
+    "CN": 137,
+    "IN": 137,
+    "NP": 50,
+    "VN": 16,
+    "TH": 14,
+    "MM": 12,
+    "BD": 11,
+    "BT": 7,
+    "HK": 6,
+    "LA": 5,
+    "ZZ": 5,
+    "ID": 4,
+    "PK": 4,
+    "US": 3,
+    "MY": 2,
+    "KH": 1,
+    "PH": 1,
+    "PT": 1
+  },
+  "himalayan_countries": {
+    "CN": 137,
+    "IN": 137,
+    "NP": 50,
+    "MM": 12,
+    "BT": 7,
+    "PK": 4
+  },
+  "elevation": {
+    "n": 41,
+    "min": 195,
+    "max": 2200,
+    "p10": 549,
+    "p90": 2146,
+    "median": 1970
+  }
+}

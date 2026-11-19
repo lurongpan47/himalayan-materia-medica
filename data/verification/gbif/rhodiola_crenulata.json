@@ -1,0 +1,33 @@
+{
+  "id": "rhodiola_crenulata",
+  "binomial": "Rhodiola crenulata",
+  "status": "matched",
+  "usageKey": 4200529,
+  "accepted_name": "Rhodiola crenulata (Hook.fil. & Thomson) H.Ohba",
+  "confidence": 99,
+  "matchType": "EXACT",
+  "total_occurrences": 490,
+  "countries_raw": {
+    "CN": 301,
+    "NP": 64,
+    "IN": 56,
+    "BT": 7,
+    "PK": 1,
+    "ZZ": 1
+  },
+  "himalayan_countries": {
+    "CN": 301,
+    "NP": 64,
+    "IN": 56,
+    "BT": 7,
+    "PK": 1
+  },
+  "elevation": {
+    "n": 92,
+    "min": 3526,
+    "max": 5639,
+    "p10": 4150,
+    "p90": 5182,
+    "median": 4780
+  }
+}

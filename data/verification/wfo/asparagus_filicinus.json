@@ -1,0 +1,42 @@
+{
+  "inputString": "Asparagus filicinus",
+  "searchString": "Asparagus filicinus",
+  "params": {
+    "checkHomonyms": false,
+    "checkRank": false,
+    "method": "full",
+    "acceptSingleCandidate": false,
+    "fuzzyNameParts": 0,
+    "fuzzyAuthors": 0,
+    "limit": 50,
+    "classificationVersion": "2026-06",
+    "year": null,
+    "rank": null,
+    "authors": null
+  },
+  "match": {
+    "wfo_id": "wfo-0000632511",
+    "full_name_plain": "Asparagus filicinus Buch.-Ham. ex D.Don",
+    "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Asparagus</i> <i>filicinus</i></span> <span class=\"wfo-name-authors\" >Buch.-Ham. ex D.Don</span></span>",
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Asparagales/Asparagaceae/Asparagoideae/Asparagus/filicinus"
+  },
+  "candidates": [],
+  "error": false,
+  "errorMessage": null,
+  "parsedName": {
+    "rank": "species",
+    "canonical_form": "Asparagus filicinus",
+    "author_string": ""
+  },
+  "narrative": [
+    "The first word is always a name part word: 'Asparagus'",
+    "Word is found in index and so is part of name: 'filicinus'.",
+    "Word is lowercase. Subsequent words must start with lowercase: 'filicinus'.",
+    "No authors string provided. Will match all authors strings.",
+    "Parsed name complete.",
+    "Rank estimated as 'species' from name parts.",
+    "Searched index of 2026-06 for canonical form of name 'Asparagus filicinus' and found 1 candidates.",
+    "Looking for matching author strings.",
+    "Only one candidate found (wfo-0000632511) and no author string supplied so name becomes match."
+  ]
+}

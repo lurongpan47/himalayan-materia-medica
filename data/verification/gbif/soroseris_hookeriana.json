@@ -1,0 +1,32 @@
+{
+  "id": "soroseris_hookeriana",
+  "binomial": "Soroseris hookeriana",
+  "status": "matched",
+  "usageKey": 3137744,
+  "accepted_name": "Soroseris hookeriana (C.B.Clarke) Stebbins",
+  "confidence": 98,
+  "matchType": "EXACT",
+  "total_occurrences": 1046,
+  "countries_raw": {
+    "CN": 723,
+    "NP": 99,
+    "IN": 34,
+    "BT": 29,
+    "MA": 5,
+    "EG": 1
+  },
+  "himalayan_countries": {
+    "CN": 723,
+    "NP": 99,
+    "IN": 34,
+    "BT": 29
+  },
+  "elevation": {
+    "n": 146,
+    "min": 2136,
+    "max": 6860,
+    "p10": 3950,
+    "p90": 5250,
+    "median": 4600
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "tinospora_sinensis",
+  "binomial": "Tinospora sinensis",
+  "source": "category",
+  "n_candidates": 15,
+  "candidates": [
+    {
+      "title": "File:Malabar Gulbel 2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Malabar_Gulbel_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Malabar_Gulbel_2.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Nativeplants garden",
+      "credit": "Own work",
+      "date": "2024-02-15 08:57:04",
+      "object_name": "Malabar Gulbel 2"
+    },
+    {
+      "title": "File:Malabar Gulbel.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Malabar_Gulbel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Malabar_Gulbel.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Nativeplants garden",
+      "credit": "Own work",
+      "date": "2024-02-15 08:56:40",
+      "object_name": "Malabar Gulbel"
+    },
+    {
+      "title": "File:Tinosphora sinensis.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Tinosphora_sinensis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tinosphora_sinensis.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Nativeplants garden",
+      "credit": "Own work",
+      "date": "2025-09-25 07:47:02",
+      "object_name": "Tinosphora sinensis"
+    },
+    {
+      "title": "File:Tinospora malabarica leaf.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Tinospora_malabarica_leaf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tinospora_malabarica_leaf.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Vinayaraj",
+      "credit": "Own work",
+      "date": "2012-12-02 03:52:10",
+      "object_name": "Tinospora malabarica leaf"
+    },
+    {
+      "title": "File:Tinospora malabarica north Bengal AJTJ.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Tinospora_malabarica_north_Bengal_AJTJ.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tinospora_malabarica_north_Bengal_AJTJ.JPG",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "A. J. T. Johnsingh, WWF-India and NCF",
+      "credit": "Own work",
+      "date": "2017-06-01 04:31:30",
+      "object_name": "Tinospora malabarica north Bengal AJTJ"
+    }
+  ]
+}

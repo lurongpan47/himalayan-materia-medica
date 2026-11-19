@@ -1,0 +1,51 @@
+{
+  "id": "rheum_palmatum",
+  "binomial": "Rheum palmatum",
+  "status": "matched",
+  "usageKey": 2888864,
+  "accepted_name": "Rheum palmatum L.",
+  "confidence": 99,
+  "matchType": "EXACT",
+  "total_occurrences": 964,
+  "countries_raw": {
+    "CN": 403,
+    "GB": 113,
+    "SE": 59,
+    "ZZ": 16,
+    "NO": 15,
+    "DE": 12,
+    "US": 8,
+    "CZ": 6,
+    "EE": 6,
+    "FR": 6,
+    "CA": 5,
+    "BE": 3,
+    "NL": 3,
+    "PL": 3,
+    "RU": 3,
+    "AT": 2,
+    "CH": 2,
+    "CL": 1,
+    "CO": 1,
+    "HK": 1,
+    "ID": 1,
+    "IS": 1,
+    "KR": 1,
+    "LT": 1,
+    "NP": 1,
+    "NZ": 1,
+    "RO": 1
+  },
+  "himalayan_countries": {
+    "CN": 403,
+    "NP": 1
+  },
+  "elevation": {
+    "n": 39,
+    "min": 2,
+    "max": 4580,
+    "p10": 30,
+    "p90": 4236,
+    "median": 2673
+  }
+}

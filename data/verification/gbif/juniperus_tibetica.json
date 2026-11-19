@@ -1,0 +1,30 @@
+{
+  "id": "juniperus_tibetica",
+  "binomial": "Juniperus tibetica",
+  "status": "matched",
+  "usageKey": 2684578,
+  "accepted_name": "Juniperus tibetica Kom.",
+  "confidence": 99,
+  "matchType": "EXACT",
+  "total_occurrences": 869,
+  "countries_raw": {
+    "CN": 773,
+    "GB": 6,
+    "SE": 3,
+    "IN": 2,
+    "US": 2,
+    "KR": 1
+  },
+  "himalayan_countries": {
+    "CN": 773,
+    "IN": 2
+  },
+  "elevation": {
+    "n": 185,
+    "min": 10,
+    "max": 4780,
+    "p10": 3490,
+    "p90": 4600,
+    "median": 4200
+  }
+}

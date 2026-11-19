@@ -1,0 +1,38 @@
+{
+  "id": "rhododendron_anthopogon",
+  "binomial": "Rhododendron anthopogon",
+  "status": "matched",
+  "usageKey": 7689788,
+  "accepted_name": "Rhododendron anthopogon D.Don",
+  "confidence": 97,
+  "matchType": "EXACT",
+  "total_occurrences": 1084,
+  "countries_raw": {
+    "NP": 358,
+    "IN": 192,
+    "CN": 131,
+    "BT": 57,
+    "PK": 52,
+    "RU": 6,
+    "GB": 4,
+    "ZZ": 4,
+    "SE": 2,
+    "US": 2,
+    "CA": 1
+  },
+  "himalayan_countries": {
+    "NP": 358,
+    "IN": 192,
+    "CN": 131,
+    "BT": 57,
+    "PK": 52
+  },
+  "elevation": {
+    "n": 183,
+    "min": 3200,
+    "max": 5025,
+    "p10": 3555,
+    "p90": 4512,
+    "median": 3930
+  }
+}

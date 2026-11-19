@@ -1,0 +1,40 @@
+{
+  "id": "arnebia_guttata",
+  "binomial": "Arnebia guttata",
+  "status": "matched",
+  "usageKey": 7295244,
+  "accepted_name": "Arnebia guttata Bunge",
+  "confidence": 99,
+  "matchType": "EXACT",
+  "total_occurrences": 1175,
+  "countries_raw": {
+    "CN": 274,
+    "PK": 169,
+    "IN": 161,
+    "MN": 144,
+    "KZ": 68,
+    "AF": 63,
+    "KG": 49,
+    "RU": 48,
+    "TJ": 26,
+    "UZ": 12,
+    "ZZ": 2,
+    "DE": 1,
+    "DZ": 1,
+    "IR": 1
+  },
+  "himalayan_countries": {
+    "CN": 274,
+    "PK": 169,
+    "IN": 161,
+    "AF": 63
+  },
+  "elevation": {
+    "n": 202,
+    "min": 500,
+    "max": 6960,
+    "p10": 1500,
+    "p90": 4240,
+    "median": 3230
+  }
+}

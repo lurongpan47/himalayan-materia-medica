@@ -1,0 +1,30 @@
+{
+  "id": "androsace_tapete",
+  "binomial": "Androsace tapete",
+  "status": "matched",
+  "usageKey": 4008052,
+  "accepted_name": "Androsace tapete Maxim.",
+  "confidence": 99,
+  "matchType": "EXACT",
+  "total_occurrences": 603,
+  "countries_raw": {
+    "CN": 519,
+    "NP": 21,
+    "IN": 6,
+    "BT": 1
+  },
+  "himalayan_countries": {
+    "CN": 519,
+    "NP": 21,
+    "IN": 6,
+    "BT": 1
+  },
+  "elevation": {
+    "n": 42,
+    "min": 1300,
+    "max": 5460,
+    "p10": 3900,
+    "p90": 5100,
+    "median": 4590
+  }
+}

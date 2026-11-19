@@ -1,0 +1,36 @@
+{
+  "id": "polygonatum_cirrhifolium",
+  "binomial": "Polygonatum cirrhifolium",
+  "status": "matched",
+  "usageKey": 2770153,
+  "accepted_name": "Polygonatum cirrhifolium (Wall.) Royle",
+  "confidence": 99,
+  "matchType": "EXACT",
+  "total_occurrences": 2277,
+  "countries_raw": {
+    "CN": 1970,
+    "NP": 81,
+    "IN": 62,
+    "BT": 13,
+    "CA": 5,
+    "NO": 4,
+    "GB": 2,
+    "MM": 2,
+    "VN": 2
+  },
+  "himalayan_countries": {
+    "CN": 1970,
+    "NP": 81,
+    "IN": 62,
+    "BT": 13,
+    "MM": 2
+  },
+  "elevation": {
+    "n": 119,
+    "min": 724,
+    "max": 4480,
+    "p10": 2410,
+    "p90": 4050,
+    "median": 3323
+  }
+}

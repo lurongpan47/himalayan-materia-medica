@@ -1,0 +1,41 @@
+{
+  "id": "fritillaria_cirrhosa",
+  "binomial": "Fritillaria cirrhosa",
+  "status": "matched",
+  "usageKey": 5300358,
+  "accepted_name": "Fritillaria cirrhosa D.Don",
+  "confidence": 99,
+  "matchType": "EXACT",
+  "total_occurrences": 979,
+  "countries_raw": {
+    "CN": 382,
+    "IN": 161,
+    "NP": 111,
+    "PK": 24,
+    "BT": 10,
+    "MM": 8,
+    "ZZ": 3,
+    "TM": 2,
+    "US": 2,
+    "HK": 1,
+    "NO": 1,
+    "TL": 1,
+    "UZ": 1
+  },
+  "himalayan_countries": {
+    "CN": 382,
+    "IN": 161,
+    "NP": 111,
+    "PK": 24,
+    "BT": 10,
+    "MM": 8
+  },
+  "elevation": {
+    "n": 38,
+    "min": 2743,
+    "max": 4502,
+    "p10": 2743,
+    "p90": 4281,
+    "median": 3575
+  }
+}

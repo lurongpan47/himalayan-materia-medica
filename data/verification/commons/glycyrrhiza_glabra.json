@@ -1,0 +1,68 @@
+{
+  "id": "glycyrrhiza_glabra",
+  "binomial": "Glycyrrhiza glabra",
+  "source": "category",
+  "n_candidates": 15,
+  "candidates": [
+    {
+      "title": "File:1301 Washington Ave Philadelphia PA National Licorice Company Washington Avenue Historic District.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/1301_Washington_Ave_Philadelphia_PA_National_Licorice_Company_Washington_Avenue_Historic_District.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:1301_Washington_Ave_Philadelphia_PA_National_Licorice_Company_Washington_Avenue_Historic_District.jpg",
+      "mime": "image/jpeg",
+      "license_short": "Public domain",
+      "license_url": null,
+      "artist": "George E. Thomas, Ph.D., Philadelphia PA",
+      "credit": "Washington Avenue Historic District (Washington Avenue Factory District), National Register of Historic Places Inventory-Nomination Form, Reference Number 84003561 (Sep 7, 1984)  https://archive.org/details/washington-avenue-historic-district-ref-84003561",
+      "date": "2019-09-22 21:41:19",
+      "object_name": "1301 Washington Ave Philadelphia PA National Licorice Company Washington Avenue Historic District"
+    },
+    {
+      "title": "File:Aleppolicorice.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Aleppolicorice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aleppolicorice.jpg",
+      "mime": "image/jpeg",
+      "license_short": "Public domain",
+      "license_url": null,
+      "artist": "American Colony (Jerusalem). Photo Dept., photographer.",
+      "credit": "This image  is available from the United States  Library of Congress 's  Prints and Photographs division   under the digital ID  matpc.06173 .  This tag does not indicate the copyright status of the attached work.  A normal  copyright tag  is still required.   See  Commons:Licensing .",
+      "date": "2008-01-25 19:01:50",
+      "object_name": "Aleppolicorice"
+    },
+    {
+      "title": "File:Amorpha et Glycyrrhiza.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Amorpha_et_Glycyrrhiza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Amorpha_et_Glycyrrhiza.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Michel Chauvet",
+      "credit": "Own work",
+      "date": "2018-02-04 15:00:55",
+      "object_name": "Amorpha et Glycyrrhiza"
+    },
+    {
+      "title": "File:Atlas roslin pl Lukrecja gładka 571 7092.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Atlas_roslin_pl_Lukrecja_g%C5%82adka_571_7092.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Atlas_roslin_pl_Lukrecja_g%C5%82adka_571_7092.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Joanna Boisse",
+      "credit": "https://atlas.roslin.pl/plant/7092",
+      "date": "2019-09-02 23:17:31",
+      "object_name": "Atlas roslin pl Lukrecja gładka 571 7092"
+    },
+    {
+      "title": "File:Atlas roslin pl Lukrecja gładka 573 7092.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Atlas_roslin_pl_Lukrecja_g%C5%82adka_573_7092.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Atlas_roslin_pl_Lukrecja_g%C5%82adka_573_7092.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Joanna Boisse",
+      "credit": "https://atlas.roslin.pl/plant/7092",
+      "date": "2019-09-02 23:17:51",
+      "object_name": "Atlas roslin pl Lukrecja gładka 573 7092"
+    }
+  ]
+}

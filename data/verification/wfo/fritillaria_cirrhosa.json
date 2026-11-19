@@ -1,0 +1,42 @@
+{
+  "inputString": "Fritillaria cirrhosa",
+  "searchString": "Fritillaria cirrhosa",
+  "params": {
+    "checkHomonyms": false,
+    "checkRank": false,
+    "method": "full",
+    "acceptSingleCandidate": false,
+    "fuzzyNameParts": 0,
+    "fuzzyAuthors": 0,
+    "limit": 50,
+    "classificationVersion": "2026-06",
+    "year": null,
+    "rank": null,
+    "authors": null
+  },
+  "match": {
+    "wfo_id": "wfo-0000767733",
+    "full_name_plain": "Fritillaria cirrhosa D.Don",
+    "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Fritillaria</i> <i>cirrhosa</i></span> <span class=\"wfo-name-authors\" >D.Don</span></span>",
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Liliales/Liliaceae/Fritillaria/cirrhosa"
+  },
+  "candidates": [],
+  "error": false,
+  "errorMessage": null,
+  "parsedName": {
+    "rank": "species",
+    "canonical_form": "Fritillaria cirrhosa",
+    "author_string": ""
+  },
+  "narrative": [
+    "The first word is always a name part word: 'Fritillaria'",
+    "Word is found in index and so is part of name: 'cirrhosa'.",
+    "Word is lowercase. Subsequent words must start with lowercase: 'cirrhosa'.",
+    "No authors string provided. Will match all authors strings.",
+    "Parsed name complete.",
+    "Rank estimated as 'species' from name parts.",
+    "Searched index of 2026-06 for canonical form of name 'Fritillaria cirrhosa' and found 1 candidates.",
+    "Looking for matching author strings.",
+    "Only one candidate found (wfo-0000767733) and no author string supplied so name becomes match."
+  ]
+}

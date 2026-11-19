@@ -1,0 +1,26 @@
+{
+  "id": "aconitum_tanguticum",
+  "binomial": "Aconitum tanguticum",
+  "status": "matched",
+  "usageKey": 3931303,
+  "accepted_name": "Aconitum tanguticum (Maxim.) Stapf",
+  "confidence": 99,
+  "matchType": "EXACT",
+  "total_occurrences": 726,
+  "countries_raw": {
+    "CN": 650,
+    "RU": 17,
+    "TW": 1
+  },
+  "himalayan_countries": {
+    "CN": 650
+  },
+  "elevation": {
+    "n": 65,
+    "min": 3510,
+    "max": 7300,
+    "p10": 4000,
+    "p90": 4880,
+    "median": 4605
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "androsace_tapete",
+  "binomial": "Androsace tapete",
+  "source": "category",
+  "n_candidates": 4,
+  "candidates": [
+    {
+      "title": "File:Androsace tapete.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Androsace_tapete.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Androsace_tapete.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Jan Reurink",
+      "credit": "originally posted to   Flickr   as  Flowers of Tibet , Androsace tapete",
+      "date": "2009-03-20 14:18:57",
+      "object_name": "Androsace tapete"
+    },
+    {
+      "title": "File:Sempervivum sp.3.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Sempervivum_sp.3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sempervivum_sp.3.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Ghislain118   http://www.fleurs-des-montagnes.net",
+      "credit": "Own work",
+      "date": "2011-01-25 13:11:42",
+      "object_name": "Sempervivum sp.3"
+    },
+    {
+      "title": "File:Sempervivum sp. 1.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Sempervivum_sp._1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sempervivum_sp._1.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Ghislain118   http://www.fleurs-des-montagnes.net",
+      "credit": "Own work",
+      "date": "2011-01-25 13:11:32",
+      "object_name": "Sempervivum sp. 1"
+    },
+    {
+      "title": "File:Sempervivum sp. 2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Sempervivum_sp._2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sempervivum_sp._2.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Ghislain118   http://www.fleurs-des-montagnes.net",
+      "credit": "Own work",
+      "date": "2011-01-25 13:11:36",
+      "object_name": "Sempervivum sp. 2"
+    }
+  ]
+}

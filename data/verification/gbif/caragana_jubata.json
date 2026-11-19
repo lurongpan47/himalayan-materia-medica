@@ -1,0 +1,45 @@
+{
+  "id": "caragana_jubata",
+  "binomial": "Caragana jubata",
+  "status": "matched",
+  "usageKey": 2943329,
+  "accepted_name": "Caragana jubata (Pall.) Poir.",
+  "confidence": 99,
+  "matchType": "EXACT",
+  "total_occurrences": 1919,
+  "countries_raw": {
+    "CN": 917,
+    "RU": 574,
+    "KG": 138,
+    "MN": 50,
+    "NP": 31,
+    "KZ": 29,
+    "ZZ": 9,
+    "BT": 3,
+    "IN": 3,
+    "AF": 1,
+    "AT": 1,
+    "CA": 1,
+    "CH": 1,
+    "EE": 1,
+    "IR": 1,
+    "MM": 1,
+    "NL": 1
+  },
+  "himalayan_countries": {
+    "CN": 917,
+    "NP": 31,
+    "BT": 3,
+    "IN": 3,
+    "AF": 1,
+    "MM": 1
+  },
+  "elevation": {
+    "n": 82,
+    "min": 20,
+    "max": 4800,
+    "p10": 1700,
+    "p90": 4500,
+    "median": 3900
+  }
+}

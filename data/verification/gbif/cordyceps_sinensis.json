@@ -1,0 +1,42 @@
+{
+  "id": "cordyceps_sinensis",
+  "binomial": "Ophiocordyceps sinensis",
+  "status": "matched",
+  "usageKey": 2560562,
+  "accepted_name": "Ophiocordyceps sinensis (Berk.) G.H.Sung, J.M.Sung, Hywel-Jones & Spatafora",
+  "confidence": 99,
+  "matchType": "EXACT",
+  "total_occurrences": 1051,
+  "countries_raw": {
+    "CN": 408,
+    "IN": 36,
+    "NP": 25,
+    "FI": 17,
+    "CA": 7,
+    "BT": 6,
+    "KR": 4,
+    "DJ": 3,
+    "US": 3,
+    "TW": 2,
+    "ES": 1,
+    "FR": 1,
+    "JP": 1,
+    "MY": 1,
+    "PT": 1,
+    "RU": 1
+  },
+  "himalayan_countries": {
+    "CN": 408,
+    "IN": 36,
+    "NP": 25,
+    "BT": 6
+  },
+  "elevation": {
+    "n": 1,
+    "min": 328,
+    "max": 328,
+    "p10": 328,
+    "p90": 328,
+    "median": 328
+  }
+}

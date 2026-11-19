@@ -1,0 +1,42 @@
+{
+  "inputString": "Elettaria cardamomum",
+  "searchString": "Elettaria cardamomum",
+  "params": {
+    "checkHomonyms": false,
+    "checkRank": false,
+    "method": "full",
+    "acceptSingleCandidate": false,
+    "fuzzyNameParts": 0,
+    "fuzzyAuthors": 0,
+    "limit": 50,
+    "classificationVersion": "2026-06",
+    "year": null,
+    "rank": null,
+    "authors": null
+  },
+  "match": {
+    "wfo_id": "wfo-0000406508",
+    "full_name_plain": "Elettaria cardamomum (L.) Maton",
+    "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Elettaria</i> <i>cardamomum</i></span> <span class=\"wfo-name-authors\" >(L.) Maton</span></span>",
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Zingiberales/Zingiberaceae/Alpinioideae/Alpinieae/Elettaria/cardamomum"
+  },
+  "candidates": [],
+  "error": false,
+  "errorMessage": null,
+  "parsedName": {
+    "rank": "species",
+    "canonical_form": "Elettaria cardamomum",
+    "author_string": ""
+  },
+  "narrative": [
+    "The first word is always a name part word: 'Elettaria'",
+    "Word is found in index and so is part of name: 'cardamomum'.",
+    "Word is lowercase. Subsequent words must start with lowercase: 'cardamomum'.",
+    "No authors string provided. Will match all authors strings.",
+    "Parsed name complete.",
+    "Rank estimated as 'species' from name parts.",
+    "Searched index of 2026-06 for canonical form of name 'Elettaria cardamomum' and found 1 candidates.",
+    "Looking for matching author strings.",
+    "Only one candidate found (wfo-0000406508) and no author string supplied so name becomes match."
+  ]
+}

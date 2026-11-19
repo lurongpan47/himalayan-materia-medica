@@ -1,0 +1,42 @@
+{
+  "inputString": "Meconopsis integrifolia",
+  "searchString": "Meconopsis integrifolia",
+  "params": {
+    "checkHomonyms": false,
+    "checkRank": false,
+    "method": "full",
+    "acceptSingleCandidate": false,
+    "fuzzyNameParts": 0,
+    "fuzzyAuthors": 0,
+    "limit": 50,
+    "classificationVersion": "2026-06",
+    "year": null,
+    "rank": null,
+    "authors": null
+  },
+  "match": {
+    "wfo_id": "wfo-0001242170",
+    "full_name_plain": "Meconopsis integrifolia (Maxim.) Franch.",
+    "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Meconopsis</i> <i>integrifolia</i></span> <span class=\"wfo-name-authors\" >(Maxim.) Franch.</span></span>",
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Ranunculales/Papaveraceae/Papaveroideae/Papavereae/Meconopsis/Grandes/integrifolia"
+  },
+  "candidates": [],
+  "error": false,
+  "errorMessage": null,
+  "parsedName": {
+    "rank": "species",
+    "canonical_form": "Meconopsis integrifolia",
+    "author_string": ""
+  },
+  "narrative": [
+    "The first word is always a name part word: 'Meconopsis'",
+    "Word is found in index and so is part of name: 'integrifolia'.",
+    "Word is lowercase. Subsequent words must start with lowercase: 'integrifolia'.",
+    "No authors string provided. Will match all authors strings.",
+    "Parsed name complete.",
+    "Rank estimated as 'species' from name parts.",
+    "Searched index of 2026-06 for canonical form of name 'Meconopsis integrifolia' and found 1 candidates.",
+    "Looking for matching author strings.",
+    "Only one candidate found (wfo-0001242170) and no author string supplied so name becomes match."
+  ]
+}

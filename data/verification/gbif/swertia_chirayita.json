@@ -1,0 +1,38 @@
+{
+  "id": "swertia_chirayita",
+  "binomial": "Swertia chirayita",
+  "status": "matched",
+  "usageKey": 7419749,
+  "accepted_name": "Swertia chirayita (Roxb.) H.Karst.",
+  "confidence": 97,
+  "matchType": "EXACT",
+  "total_occurrences": 297,
+  "countries_raw": {
+    "NP": 84,
+    "IN": 75,
+    "CN": 13,
+    "ZZ": 9,
+    "BT": 4,
+    "PK": 2,
+    "BD": 1,
+    "MM": 1,
+    "MN": 1,
+    "US": 1
+  },
+  "himalayan_countries": {
+    "NP": 84,
+    "IN": 75,
+    "CN": 13,
+    "BT": 4,
+    "PK": 2,
+    "MM": 1
+  },
+  "elevation": {
+    "n": 5,
+    "min": 1809,
+    "max": 2500,
+    "p10": 1809,
+    "p90": 2500,
+    "median": 2025
+  }
+}

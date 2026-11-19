@@ -1,0 +1,32 @@
+{
+  "id": "gentiana_macrophylla",
+  "binomial": "Gentiana macrophylla",
+  "source": "category",
+  "n_candidates": 2,
+  "candidates": [
+    {
+      "title": "File:Gentiana macrophylla Orchi 03.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Gentiana_macrophylla_Orchi_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gentiana_macrophylla_Orchi_03.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "artist": "Orchi",
+      "credit": "Self-photographed",
+      "date": "2007-07-10 21:47:57",
+      "object_name": "Gentiana macrophylla Orchi 03"
+    },
+    {
+      "title": "File:Gentiana macrophylla Orchi 04.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Gentiana_macrophylla_Orchi_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gentiana_macrophylla_Orchi_04.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "artist": "Orchi",
+      "credit": "Self-photographed",
+      "date": "2007-07-10 21:50:24",
+      "object_name": "Gentiana macrophylla Orchi 04"
+    }
+  ]
+}

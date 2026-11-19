@@ -1,0 +1,29 @@
+{
+  "id": "sophora_moorcroftiana",
+  "binomial": "Sophora moorcroftiana",
+  "status": "matched",
+  "usageKey": 2958962,
+  "accepted_name": "Sophora moorcroftiana (Benth.) Benth. ex Baker",
+  "confidence": 97,
+  "matchType": "EXACT",
+  "total_occurrences": 219,
+  "countries_raw": {
+    "CN": 98,
+    "NP": 35,
+    "IN": 20,
+    "EG": 1
+  },
+  "himalayan_countries": {
+    "CN": 98,
+    "NP": 35,
+    "IN": 20
+  },
+  "elevation": {
+    "n": 19,
+    "min": 1380,
+    "max": 3857,
+    "p10": 2250,
+    "p90": 3857,
+    "median": 3477
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "inputString": "Datura metel",
+  "searchString": "Datura metel",
+  "params": {
+    "checkHomonyms": false,
+    "checkRank": false,
+    "method": "full",
+    "acceptSingleCandidate": false,
+    "fuzzyNameParts": 0,
+    "fuzzyAuthors": 0,
+    "limit": 50,
+    "classificationVersion": "2026-06",
+    "year": null,
+    "rank": null,
+    "authors": null
+  },
+  "match": null,
+  "candidates": [
+    {
+      "wfo_id": "wfo-0001021337",
+      "full_name_plain": "Datura metel Mill.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Datura</i> <i>metel</i></span> <span class=\"wfo-name-authors\" >Mill.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Solanales/Solanaceae/Solanoideae/Datureae/Datura/metel$Datura/metel"
+    },
+    {
+      "wfo_id": "wfo-0001021338",
+      "full_name_plain": "Datura metel Moc. & Sessé ex Dunal",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Datura</i> <i>metel</i></span> <span class=\"wfo-name-authors\" >Moc. & Sessé ex Dunal</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Solanales/Solanaceae/Solanoideae/Datureae/Datura/innoxia$Datura/metel"
+    },
+    {
+      "wfo_id": "wfo-0001021339",
+      "full_name_plain": "Datura metel L.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Datura</i> <i>metel</i></span> <span class=\"wfo-name-authors\" >L.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Solanales/Solanaceae/Solanoideae/Datureae/Datura/metel"
+    }
+  ],
+  "error": false,
+  "errorMessage": null,
+  "parsedName": {
+    "rank": "species",
+    "canonical_form": "Datura metel",
+    "author_string": ""
+  },
+  "narrative": [
+    "The first word is always a name part word: 'Datura'",
+    "Word is found in index and so is part of name: 'metel'.",
+    "Word is lowercase. Subsequent words must start with lowercase: 'metel'.",
+    "No authors string provided. Will match all authors strings.",
+    "Parsed name complete.",
+    "Rank estimated as 'species' from name parts.",
+    "Searched index of 2026-06 for canonical form of name 'Datura metel' and found 3 candidates.",
+    "Looking for matching author strings.",
+    "Still no match found.",
+    "But 3 candidates found."
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "polygonatum_cirrhifolium",
+  "binomial": "Polygonatum cirrhifolium",
+  "source": "category",
+  "n_candidates": 2,
+  "candidates": [
+    {
+      "title": "File:Polygonatum cirrhifolium - Flickr - peganum.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Polygonatum_cirrhifolium_-_Flickr_-_peganum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Polygonatum_cirrhifolium_-_Flickr_-_peganum.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "peganum",
+      "credit": "Polygonatum cirrhifolium",
+      "date": "2020-09-08 18:59:45",
+      "object_name": "Polygonatum cirrhifolium - Flickr - peganum"
+    },
+    {
+      "title": "File:Polygonatum cirrhifolium 0zz.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Polygonatum_cirrhifolium_0zz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Polygonatum_cirrhifolium_0zz.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Photo by David J. Stang",
+      "credit": "source: David Stang.  First published at ZipcodeZoo.com",
+      "date": "2017-07-12 19:13:53",
+      "object_name": "Polygonatum cirrhifolium 0zz"
+    }
+  ]
+}

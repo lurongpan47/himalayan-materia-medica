@@ -1,0 +1,30 @@
+{
+  "id": "onosma_hookeri",
+  "binomial": "Onosma hookeri",
+  "status": "matched",
+  "usageKey": 7294418,
+  "accepted_name": "Onosma hookeri C.B.Clarke",
+  "confidence": 98,
+  "matchType": "EXACT",
+  "total_occurrences": 148,
+  "countries_raw": {
+    "CN": 96,
+    "BT": 23,
+    "IN": 9,
+    "NP": 7
+  },
+  "himalayan_countries": {
+    "CN": 96,
+    "BT": 23,
+    "IN": 9,
+    "NP": 7
+  },
+  "elevation": {
+    "n": 54,
+    "min": 457,
+    "max": 4877,
+    "p10": 3658,
+    "p90": 4660,
+    "median": 4170
+  }
+}

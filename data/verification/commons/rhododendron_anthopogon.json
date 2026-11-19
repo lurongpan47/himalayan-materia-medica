@@ -1,0 +1,32 @@
+{
+  "id": "rhododendron_anthopogon",
+  "binomial": "Rhododendron anthopogon",
+  "source": "category",
+  "n_candidates": 2,
+  "candidates": [
+    {
+      "title": "File:Illustrations of the botany and other branches of the natural history of the Himalayan Mountains (Pl. 64) (6982084552).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Illustrations_of_the_botany_and_other_branches_of_the_natural_history_of_the_Himalayan_Mountains_%28Pl._64%29_%286982084552%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Illustrations_of_the_botany_and_other_branches_of_the_natural_history_of_the_Himalayan_Mountains_(Pl._64)_(6982084552).jpg",
+      "mime": "image/jpeg",
+      "license_short": "Public domain",
+      "license_url": null,
+      "artist": "Royle, J. Forbes",
+      "credit": "https://www.flickr.com/photos/biodivlibrary/6982084552",
+      "date": "2015-09-13 14:45:44",
+      "object_name": "Illustrations of the botany and other branches of the natural history of the Himalayan Mountains (Pl. 64) (6982084552)"
+    },
+    {
+      "title": "File:Rhododendron anthopogon subsp. hypenanthum 'Annapurna'.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Rhododendron_anthopogon_subsp._hypenanthum_%27Annapurna%27.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rhododendron_anthopogon_subsp._hypenanthum_%27Annapurna%27.JPG",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Ulf Eliasson",
+      "credit": "Own work",
+      "date": "2012-05-18 22:13:53",
+      "object_name": "Rhododendron anthopogon subsp. hypenanthum 'Annapurna'"
+    }
+  ]
+}

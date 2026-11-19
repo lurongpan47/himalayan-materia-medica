@@ -1,0 +1,38 @@
+{
+  "id": "codonopsis_pilosula",
+  "binomial": "Codonopsis pilosula",
+  "status": "matched",
+  "usageKey": 5412957,
+  "accepted_name": "Codonopsis pilosula (Franch.) Nannf.",
+  "confidence": 99,
+  "matchType": "EXACT",
+  "total_occurrences": 1983,
+  "countries_raw": {
+    "CN": 1488,
+    "KR": 217,
+    "KP": 42,
+    "RU": 31,
+    "US": 13,
+    "HK": 6,
+    "ZZ": 5,
+    "EE": 4,
+    "NO": 3,
+    "PK": 2,
+    "AT": 1,
+    "CZ": 1,
+    "JP": 1,
+    "TW": 1
+  },
+  "himalayan_countries": {
+    "CN": 1488,
+    "PK": 2
+  },
+  "elevation": {
+    "n": 29,
+    "min": 12,
+    "max": 3840,
+    "p10": 12,
+    "p90": 3000,
+    "median": 1743
+  }
+}

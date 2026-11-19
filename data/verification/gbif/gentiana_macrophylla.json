@@ -1,0 +1,33 @@
+{
+  "id": "gentiana_macrophylla",
+  "binomial": "Gentiana macrophylla",
+  "status": "matched",
+  "usageKey": 7761022,
+  "accepted_name": "Gentiana macrophylla Pall.",
+  "confidence": 97,
+  "matchType": "EXACT",
+  "total_occurrences": 2879,
+  "countries_raw": {
+    "RU": 1478,
+    "CN": 948,
+    "MN": 115,
+    "KZ": 26,
+    "ZZ": 13,
+    "US": 7,
+    "PT": 4,
+    "CH": 2,
+    "KR": 2,
+    "CA": 1
+  },
+  "himalayan_countries": {
+    "CN": 948
+  },
+  "elevation": {
+    "n": 57,
+    "min": 77,
+    "max": 3340,
+    "p10": 426,
+    "p90": 2354,
+    "median": 1061
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "ephedra_sinica",
+  "binomial": "Ephedra sinica",
+  "source": "category",
+  "n_candidates": 8,
+  "candidates": [
+    {
+      "title": "File:20210731 Hortus botanicus Leiden - Ephedra sinica.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/20210731_Hortus_botanicus_Leiden_-_Ephedra_sinica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:20210731_Hortus_botanicus_Leiden_-_Ephedra_sinica.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Rudolphous",
+      "credit": "Own work",
+      "date": "2021-08-01 08:21:21",
+      "object_name": "20210731 Hortus botanicus Leiden - Ephedra sinica"
+    },
+    {
+      "title": "File:Ephedra sinica alexlomas.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Ephedra_sinica_alexlomas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ephedra_sinica_alexlomas.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "alexlomas on Flickr",
+      "credit": "Flickr",
+      "date": "2009-03-26 13:28:06",
+      "object_name": "Ephedra sinica alexlomas"
+    },
+    {
+      "title": "File:Ephedra sinica kz01.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Ephedra_sinica_kz01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ephedra_sinica_kz01.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Krzysztof Ziarnek, Kenraiz",
+      "credit": "Own work",
+      "date": "2019-02-24 20:19:01",
+      "object_name": "Ephedra sinica kz01"
+    },
+    {
+      "title": "File:Ephedra sinica kz02.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Ephedra_sinica_kz02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ephedra_sinica_kz02.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Krzysztof Ziarnek, Kenraiz",
+      "credit": "Own work",
+      "date": "2019-02-24 20:19:01",
+      "object_name": "Ephedra sinica kz02"
+    },
+    {
+      "title": "File:Ephedra sinica seeds, by Omar Hoftun.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Ephedra_sinica_seeds%2C_by_Omar_Hoftun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ephedra_sinica_seeds,_by_Omar_Hoftun.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Omar hoftun",
+      "credit": "Own work",
+      "date": "2020-06-01 05:28:04",
+      "object_name": "Ephedra sinica seeds, by Omar Hoftun"
+    }
+  ]
+}

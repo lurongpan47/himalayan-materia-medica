@@ -1,0 +1,38 @@
+{
+  "id": "meconopsis_horridula",
+  "binomial": "Meconopsis horridula",
+  "status": "matched",
+  "usageKey": 8239441,
+  "accepted_name": "Meconopsis horridula Hook.fil. & Thomson",
+  "confidence": 98,
+  "matchType": "EXACT",
+  "total_occurrences": 1567,
+  "countries_raw": {
+    "CN": 1109,
+    "NP": 215,
+    "IN": 48,
+    "BT": 46,
+    "ZZ": 6,
+    "MM": 3,
+    "CA": 2,
+    "GB": 1,
+    "KR": 1,
+    "TH": 1,
+    "TW": 1
+  },
+  "himalayan_countries": {
+    "CN": 1109,
+    "NP": 215,
+    "IN": 48,
+    "BT": 46,
+    "MM": 3
+  },
+  "elevation": {
+    "n": 167,
+    "min": 350,
+    "max": 5740,
+    "p10": 3700,
+    "p90": 4910,
+    "median": 4500
+  }
+}

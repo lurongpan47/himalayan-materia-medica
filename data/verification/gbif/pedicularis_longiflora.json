@@ -1,0 +1,36 @@
+{
+  "id": "pedicularis_longiflora",
+  "binomial": "Pedicularis longiflora",
+  "status": "matched",
+  "usageKey": 7333286,
+  "accepted_name": "Pedicularis longiflora Rudolph",
+  "confidence": 99,
+  "matchType": "EXACT",
+  "total_occurrences": 1801,
+  "countries_raw": {
+    "CN": 896,
+    "IN": 197,
+    "NP": 135,
+    "MN": 128,
+    "RU": 107,
+    "BT": 15,
+    "PK": 5,
+    "KG": 1,
+    "ZZ": 1
+  },
+  "himalayan_countries": {
+    "CN": 896,
+    "IN": 197,
+    "NP": 135,
+    "BT": 15,
+    "PK": 5
+  },
+  "elevation": {
+    "n": 149,
+    "min": 1836,
+    "max": 5080,
+    "p10": 2950,
+    "p90": 4750,
+    "median": 4225
+  }
+}

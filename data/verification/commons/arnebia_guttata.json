@@ -1,0 +1,44 @@
+{
+  "id": "arnebia_guttata",
+  "binomial": "Arnebia guttata",
+  "source": "category",
+  "n_candidates": 3,
+  "candidates": [
+    {
+      "title": "File:Arnebia guttata (Flora of Tajikistan).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Arnebia_guttata_%28Flora_of_Tajikistan%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Arnebia_guttata_(Flora_of_Tajikistan).png",
+      "mime": "image/png",
+      "license_short": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Arkadiusz Nowak, Marcin Nobis, Sylwia Nowak, Agnieszka Nobis, Anna Wróbel, Sebastian Świerszcz, Ewelina Klichowska, Iwona Dembicz &amp; Grzegorz Kusza",
+      "credit": "Arkadiusz Nowak and Marcin Nobs (Eds): Illustrated Flora of Tajikistan and adjacent areas, Polish Academy of Sciences, Warsaw 2020",
+      "date": "2025-02-08 06:58:09",
+      "object_name": "Arnebia guttata (Flora of Tajikistan)"
+    },
+    {
+      "title": "File:Arnebia tibetana (Flora of Tajikistan).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Arnebia_tibetana_%28Flora_of_Tajikistan%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Arnebia_tibetana_(Flora_of_Tajikistan).png",
+      "mime": "image/png",
+      "license_short": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Arkadiusz Nowak, Marcin Nobis, Sylwia Nowak, Agnieszka Nobis, Anna Wróbel, Sebastian Świerszcz, Ewelina Klichowska, Iwona Dembicz &amp; Grzegorz Kusza",
+      "credit": "Arkadiusz Nowak and Marcin Nobs (Eds): Illustrated Flora of Tajikistan and adjacent areas, Polish Academy of Sciences, Warsaw 2020",
+      "date": "2025-02-08 06:58:09",
+      "object_name": "Arnebia tibetana (Flora of Tajikistan)"
+    },
+    {
+      "title": "File:Казахстан, нацпарк Алтын Эмель, воробейник.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%2C_%D0%BD%D0%B0%D1%86%D0%BF%D0%B0%D1%80%D0%BA_%D0%90%D0%BB%D1%82%D1%8B%D0%BD_%D0%AD%D0%BC%D0%B5%D0%BB%D1%8C%2C_%D0%B2%D0%BE%D1%80%D0%BE%D0%B1%D0%B5%D0%B9%D0%BD%D0%B8%D0%BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD,_%D0%BD%D0%B0%D1%86%D0%BF%D0%B0%D1%80%D0%BA_%D0%90%D0%BB%D1%82%D1%8B%D0%BD_%D0%AD%D0%BC%D0%B5%D0%BB%D1%8C,_%D0%B2%D0%BE%D1%80%D0%BE%D0%B1%D0%B5%D0%B9%D0%BD%D0%B8%D0%BA.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "ElenaLitera",
+      "credit": "Own work",
+      "date": "2023-07-15 11:32:50",
+      "object_name": "Казахстан, нацпарк Алтын Эмель, воробейник"
+    }
+  ]
+}

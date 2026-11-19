@@ -1,0 +1,24 @@
+{
+  "id": "gymnadenia_crassinervis",
+  "binomial": "Gymnadenia crassinervis",
+  "status": "matched",
+  "usageKey": 2840456,
+  "accepted_name": "Gymnadenia crassinervis Finet",
+  "confidence": 99,
+  "matchType": "EXACT",
+  "total_occurrences": 30,
+  "countries_raw": {
+    "CN": 30
+  },
+  "himalayan_countries": {
+    "CN": 30
+  },
+  "elevation": {
+    "n": 2,
+    "min": 3710,
+    "max": 3950,
+    "p10": 3710,
+    "p90": 3950,
+    "median": 3950
+  }
+}

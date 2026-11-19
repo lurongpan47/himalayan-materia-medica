@@ -1,0 +1,68 @@
+{
+  "id": "plantago_depressa",
+  "binomial": "Plantago depressa",
+  "source": "category",
+  "n_candidates": 6,
+  "candidates": [
+    {
+      "title": "File:Plantago depressa 124658342.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Plantago_depressa_124658342.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Plantago_depressa_124658342.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Юлия",
+      "credit": "https://www.inaturalist.org/photos/124658342",
+      "date": "2021-10-04 07:59:34",
+      "object_name": "Plantago depressa 124658342"
+    },
+    {
+      "title": "File:Plantago depressa 143561066.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Plantago_depressa_143561066.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Plantago_depressa_143561066.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Marina Potapova",
+      "credit": "https://www.inaturalist.org/photos/143561066",
+      "date": "2021-10-04 07:59:58",
+      "object_name": "Plantago depressa 143561066"
+    },
+    {
+      "title": "File:Plantago depressa 146550157.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Plantago_depressa_146550157.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Plantago_depressa_146550157.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Maria Khoreva",
+      "credit": "https://www.inaturalist.org/photos/146550157",
+      "date": "2021-10-04 07:59:18",
+      "object_name": "Plantago depressa 146550157"
+    },
+    {
+      "title": "File:Plantago depressa-IMG 20161201 071503.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Plantago_depressa-IMG_20161201_071503.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Plantago_depressa-IMG_20161201_071503.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Sun Jiao (Interaccoonale)",
+      "credit": "Own work",
+      "date": "2024-04-18 07:34:18",
+      "object_name": "Plantago depressa-IMG 20161201 071503"
+    },
+    {
+      "title": "File:Plantago depressa-IMG 20161201 071608.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Plantago_depressa-IMG_20161201_071608.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Plantago_depressa-IMG_20161201_071608.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Sun Jiao (Interaccoonale)",
+      "credit": "Own work",
+      "date": "2024-04-18 07:34:25",
+      "object_name": "Plantago depressa-IMG 20161201 071608"
+    }
+  ]
+}

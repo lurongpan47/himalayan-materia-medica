@@ -1,0 +1,30 @@
+{
+  "id": "anisodus_tanguticus",
+  "binomial": "Anisodus tanguticus",
+  "status": "matched",
+  "usageKey": 7300202,
+  "accepted_name": "Anisodus tanguticus (Maxim.) Pascher",
+  "confidence": 99,
+  "matchType": "EXACT",
+  "total_occurrences": 572,
+  "countries_raw": {
+    "CN": 529,
+    "NP": 11,
+    "ZZ": 4,
+    "NL": 2,
+    "DE": 1,
+    "RU": 1
+  },
+  "himalayan_countries": {
+    "CN": 529,
+    "NP": 11
+  },
+  "elevation": {
+    "n": 34,
+    "min": 3010,
+    "max": 4460,
+    "p10": 3100,
+    "p90": 4150,
+    "median": 3720
+  }
+}

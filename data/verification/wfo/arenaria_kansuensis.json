@@ -1,0 +1,42 @@
+{
+  "inputString": "Arenaria kansuensis",
+  "searchString": "Arenaria kansuensis",
+  "params": {
+    "checkHomonyms": false,
+    "checkRank": false,
+    "method": "full",
+    "acceptSingleCandidate": false,
+    "fuzzyNameParts": 0,
+    "fuzzyAuthors": 0,
+    "limit": 50,
+    "classificationVersion": "2026-06",
+    "year": null,
+    "rank": null,
+    "authors": null
+  },
+  "match": {
+    "wfo_id": "wfo-0000546067",
+    "full_name_plain": "Arenaria kansuensis Maxim.",
+    "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Arenaria</i> <i>kansuensis</i></span> <span class=\"wfo-name-authors\" >Maxim.</span></span>",
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Caryophyllales/Caryophyllaceae/Arenarieae/Arenaria/kansuensis"
+  },
+  "candidates": [],
+  "error": false,
+  "errorMessage": null,
+  "parsedName": {
+    "rank": "species",
+    "canonical_form": "Arenaria kansuensis",
+    "author_string": ""
+  },
+  "narrative": [
+    "The first word is always a name part word: 'Arenaria'",
+    "Word is found in index and so is part of name: 'kansuensis'.",
+    "Word is lowercase. Subsequent words must start with lowercase: 'kansuensis'.",
+    "No authors string provided. Will match all authors strings.",
+    "Parsed name complete.",
+    "Rank estimated as 'species' from name parts.",
+    "Searched index of 2026-06 for canonical form of name 'Arenaria kansuensis' and found 1 candidates.",
+    "Looking for matching author strings.",
+    "Only one candidate found (wfo-0000546067) and no author string supplied so name becomes match."
+  ]
+}

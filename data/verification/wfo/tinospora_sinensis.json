@@ -1,0 +1,42 @@
+{
+  "inputString": "Tinospora sinensis",
+  "searchString": "Tinospora sinensis",
+  "params": {
+    "checkHomonyms": false,
+    "checkRank": false,
+    "method": "full",
+    "acceptSingleCandidate": false,
+    "fuzzyNameParts": 0,
+    "fuzzyAuthors": 0,
+    "limit": 50,
+    "classificationVersion": "2026-06",
+    "year": null,
+    "rank": null,
+    "authors": null
+  },
+  "match": {
+    "wfo_id": "wfo-0001083980",
+    "full_name_plain": "Tinospora sinensis (Lour.) Merr.",
+    "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Tinospora</i> <i>sinensis</i></span> <span class=\"wfo-name-authors\" >(Lour.) Merr.</span></span>",
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Ranunculales/Menispermaceae/Tinospora/sinensis"
+  },
+  "candidates": [],
+  "error": false,
+  "errorMessage": null,
+  "parsedName": {
+    "rank": "species",
+    "canonical_form": "Tinospora sinensis",
+    "author_string": ""
+  },
+  "narrative": [
+    "The first word is always a name part word: 'Tinospora'",
+    "Word is found in index and so is part of name: 'sinensis'.",
+    "Word is lowercase. Subsequent words must start with lowercase: 'sinensis'.",
+    "No authors string provided. Will match all authors strings.",
+    "Parsed name complete.",
+    "Rank estimated as 'species' from name parts.",
+    "Searched index of 2026-06 for canonical form of name 'Tinospora sinensis' and found 1 candidates.",
+    "Looking for matching author strings.",
+    "Only one candidate found (wfo-0001083980) and no author string supplied so name becomes match."
+  ]
+}

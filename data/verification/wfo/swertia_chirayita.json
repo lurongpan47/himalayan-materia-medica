@@ -1,0 +1,51 @@
+{
+  "inputString": "Swertia chirayita",
+  "searchString": "Swertia chirayita",
+  "params": {
+    "checkHomonyms": false,
+    "checkRank": false,
+    "method": "full",
+    "acceptSingleCandidate": false,
+    "fuzzyNameParts": 0,
+    "fuzzyAuthors": 0,
+    "limit": 50,
+    "classificationVersion": "2026-06",
+    "year": null,
+    "rank": null,
+    "authors": null
+  },
+  "match": null,
+  "candidates": [
+    {
+      "wfo_id": "wfo-0000510413",
+      "full_name_plain": "Swertia chirayita (Roxb.) Buch.-Ham. ex C.B.Clarke",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Swertia</i> <i>chirayita</i></span> <span class=\"wfo-name-authors\" >(Roxb.) Buch.-Ham. ex C.B.Clarke</span></span>",
+      "placement": ""
+    },
+    {
+      "wfo_id": "wfo-0001429252",
+      "full_name_plain": "Swertia chirayita (Roxb.) H.Karst.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Swertia</i> <i>chirayita</i></span> <span class=\"wfo-name-authors\" >(Roxb.) H.Karst.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Gentianales/Gentianaceae/Swertia/chirayita"
+    }
+  ],
+  "error": false,
+  "errorMessage": null,
+  "parsedName": {
+    "rank": "species",
+    "canonical_form": "Swertia chirayita",
+    "author_string": ""
+  },
+  "narrative": [
+    "The first word is always a name part word: 'Swertia'",
+    "Word is found in index and so is part of name: 'chirayita'.",
+    "Word is lowercase. Subsequent words must start with lowercase: 'chirayita'.",
+    "No authors string provided. Will match all authors strings.",
+    "Parsed name complete.",
+    "Rank estimated as 'species' from name parts.",
+    "Searched index of 2026-06 for canonical form of name 'Swertia chirayita' and found 2 candidates.",
+    "Looking for matching author strings.",
+    "Still no match found.",
+    "But 2 candidates found."
+  ]
+}

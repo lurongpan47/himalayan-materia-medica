@@ -1,0 +1,42 @@
+{
+  "inputString": "Soroseris hookeriana",
+  "searchString": "Soroseris hookeriana",
+  "params": {
+    "checkHomonyms": false,
+    "checkRank": false,
+    "method": "full",
+    "acceptSingleCandidate": false,
+    "fuzzyNameParts": 0,
+    "fuzzyAuthors": 0,
+    "limit": 50,
+    "classificationVersion": "2026-06",
+    "year": null,
+    "rank": null,
+    "authors": null
+  },
+  "match": {
+    "wfo_id": "wfo-0000030331",
+    "full_name_plain": "Soroseris hookeriana Stebbins",
+    "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Soroseris</i> <i>hookeriana</i></span> <span class=\"wfo-name-authors\" >Stebbins</span></span>",
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Asterales/Asteraceae/Cichorioideae/Cichorieae/Crepidinae/Soroseris/hookeriana"
+  },
+  "candidates": [],
+  "error": false,
+  "errorMessage": null,
+  "parsedName": {
+    "rank": "species",
+    "canonical_form": "Soroseris hookeriana",
+    "author_string": ""
+  },
+  "narrative": [
+    "The first word is always a name part word: 'Soroseris'",
+    "Word is found in index and so is part of name: 'hookeriana'.",
+    "Word is lowercase. Subsequent words must start with lowercase: 'hookeriana'.",
+    "No authors string provided. Will match all authors strings.",
+    "Parsed name complete.",
+    "Rank estimated as 'species' from name parts.",
+    "Searched index of 2026-06 for canonical form of name 'Soroseris hookeriana' and found 1 candidates.",
+    "Looking for matching author strings.",
+    "Only one candidate found (wfo-0000030331) and no author string supplied so name becomes match."
+  ]
+}

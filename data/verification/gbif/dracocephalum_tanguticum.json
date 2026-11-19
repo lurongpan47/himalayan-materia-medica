@@ -1,0 +1,30 @@
+{
+  "id": "dracocephalum_tanguticum",
+  "binomial": "Dracocephalum tanguticum",
+  "status": "matched",
+  "usageKey": 7309120,
+  "accepted_name": "Dracocephalum tanguticum Maxim.",
+  "confidence": 99,
+  "matchType": "EXACT",
+  "total_occurrences": 799,
+  "countries_raw": {
+    "CN": 720,
+    "NP": 6,
+    "US": 3,
+    "BT": 1,
+    "NL": 1
+  },
+  "himalayan_countries": {
+    "CN": 720,
+    "NP": 6,
+    "BT": 1
+  },
+  "elevation": {
+    "n": 76,
+    "min": 1643,
+    "max": 4800,
+    "p10": 2967,
+    "p90": 4510,
+    "median": 4015
+  }
+}

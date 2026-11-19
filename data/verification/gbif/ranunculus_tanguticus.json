@@ -1,0 +1,26 @@
+{
+  "id": "ranunculus_tanguticus",
+  "binomial": "Ranunculus tanguticus",
+  "status": "matched",
+  "usageKey": 7277038,
+  "accepted_name": "Ranunculus tanguticus (Finet & Gagnep.) K.S.Hao",
+  "confidence": 97,
+  "matchType": "EXACT",
+  "total_occurrences": 705,
+  "countries_raw": {
+    "CN": 693,
+    "DE": 1,
+    "MN": 1
+  },
+  "himalayan_countries": {
+    "CN": 693
+  },
+  "elevation": {
+    "n": 1,
+    "min": 4215,
+    "max": 4215,
+    "p10": 4215,
+    "p90": 4215,
+    "median": 4215
+  }
+}

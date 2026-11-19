@@ -1,0 +1,51 @@
+{
+  "inputString": "Corydalis hendersonii",
+  "searchString": "Corydalis hendersonii",
+  "params": {
+    "checkHomonyms": false,
+    "checkRank": false,
+    "method": "full",
+    "acceptSingleCandidate": false,
+    "fuzzyNameParts": 0,
+    "fuzzyAuthors": 0,
+    "limit": 50,
+    "classificationVersion": "2026-06",
+    "year": null,
+    "rank": null,
+    "authors": null
+  },
+  "match": null,
+  "candidates": [
+    {
+      "wfo_id": "wfo-0000622428",
+      "full_name_plain": "Corydalis hendersonii Hemsl.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Corydalis</i> <i>hendersonii</i></span> <span class=\"wfo-name-authors\" >Hemsl.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Ranunculales/Papaveraceae/Fumarioideae/Fumarieae/Corydalis/hendersonii"
+    },
+    {
+      "wfo_id": "wfo-0000622429",
+      "full_name_plain": "Corydalis hendersonii Fedde",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Corydalis</i> <i>hendersonii</i></span> <span class=\"wfo-name-authors\" >Fedde</span></span>",
+      "placement": ""
+    }
+  ],
+  "error": false,
+  "errorMessage": null,
+  "parsedName": {
+    "rank": "species",
+    "canonical_form": "Corydalis hendersonii",
+    "author_string": ""
+  },
+  "narrative": [
+    "The first word is always a name part word: 'Corydalis'",
+    "Word is found in index and so is part of name: 'hendersonii'.",
+    "Word is lowercase. Subsequent words must start with lowercase: 'hendersonii'.",
+    "No authors string provided. Will match all authors strings.",
+    "Parsed name complete.",
+    "Rank estimated as 'species' from name parts.",
+    "Searched index of 2026-06 for canonical form of name 'Corydalis hendersonii' and found 2 candidates.",
+    "Looking for matching author strings.",
+    "Still no match found.",
+    "But 2 candidates found."
+  ]
+}

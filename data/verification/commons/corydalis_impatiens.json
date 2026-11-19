@@ -1,0 +1,32 @@
+{
+  "id": "corydalis_impatiens",
+  "binomial": "Corydalis impatiens",
+  "source": "text",
+  "n_candidates": 2,
+  "candidates": [
+    {
+      "title": "File:HK 金鐘 Admiralty 德立街 Drake Street 海富中心商場 Admiralty Centre mall shop 新生堂 June 2020 SS2 09.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/HK_%E9%87%91%E9%90%98_Admiralty_%E5%BE%B7%E7%AB%8B%E8%A1%97_Drake_Street_%E6%B5%B7%E5%AF%8C%E4%B8%AD%E5%BF%83%E5%95%86%E5%A0%B4_Admiralty_Centre_mall_shop_%E6%96%B0%E7%94%9F%E5%A0%82_June_2020_SS2_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_%E9%87%91%E9%90%98_Admiralty_%E5%BE%B7%E7%AB%8B%E8%A1%97_Drake_Street_%E6%B5%B7%E5%AF%8C%E4%B8%AD%E5%BF%83%E5%95%86%E5%A0%B4_Admiralty_Centre_mall_shop_%E6%96%B0%E7%94%9F%E5%A0%82_June_2020_SS2_09.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Leirus Yat Shung",
+      "credit": "Own work",
+      "date": "2020-06-25 03:18:45",
+      "object_name": "HK 金鐘 Admiralty 德立街 Drake Street 海富中心商場 Admiralty Centre mall shop 新生堂 June 2020 SS2 09"
+    },
+    {
+      "title": "File:Impatiens omeiana & Corydalis Blackberry Wine.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Impatiens_omeiana_%26_Corydalis_Blackberry_Wine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Impatiens_omeiana_%26_Corydalis_Blackberry_Wine.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Steve Law",
+      "credit": "originally posted to   Flickr   as  Impatiens omeiana &amp; Corydalis Blackberry Wine",
+      "date": "2009-04-23 19:11:50",
+      "object_name": "Impatiens omeiana & Corydalis Blackberry Wine"
+    }
+  ]
+}

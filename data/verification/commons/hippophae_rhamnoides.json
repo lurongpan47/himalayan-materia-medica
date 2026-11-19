@@ -1,0 +1,68 @@
+{
+  "id": "hippophae_rhamnoides",
+  "binomial": "Hippophae rhamnoides",
+  "source": "category",
+  "n_candidates": 15,
+  "candidates": [
+    {
+      "title": "File:DüneSanddorn.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/D%C3%BCneSanddorn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:D%C3%BCneSanddorn.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "artist": "Denis Barthel",
+      "credit": "Own work",
+      "date": "2007-06-11 08:50:12",
+      "object_name": "DüneSanddorn"
+    },
+    {
+      "title": "File:Hippophae rhamnoides01.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Hippophae_rhamnoides01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hippophae_rhamnoides01.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Meneerke bloem",
+      "credit": "Own work",
+      "date": "2009-06-24 08:50:55",
+      "object_name": "Hippophae rhamnoides01"
+    },
+    {
+      "title": "File:Plants Georgia grapes (3).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Plants_Georgia_grapes_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Plants_Georgia_grapes_(3).jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Alexander Abuladze",
+      "credit": "DSCN4414 \n \n  Uploaded by  geagea",
+      "date": "2020-06-01 12:43:29",
+      "object_name": "Plants Georgia grapes (3)"
+    },
+    {
+      "title": "File:Hippophae rhamnoides02.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Hippophae_rhamnoides02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hippophae_rhamnoides02.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Meneerke bloem",
+      "credit": "Own work",
+      "date": "2012-07-25 16:58:32",
+      "object_name": "Hippophae rhamnoides02"
+    },
+    {
+      "title": "File:IK 2006 SCN - 177.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/IK_2006_SCN_-_177.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:IK_2006_SCN_-_177.JPG",
+      "mime": "image/jpeg",
+      "license_short": "Public domain",
+      "license_url": null,
+      "artist": "Nikolay Yushnikov",
+      "credit": "Own work",
+      "date": "2010-10-21 07:24:06",
+      "object_name": "IK 2006 SCN - 177"
+    }
+  ]
+}

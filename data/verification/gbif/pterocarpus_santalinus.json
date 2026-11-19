@@ -1,0 +1,38 @@
+{
+  "id": "pterocarpus_santalinus",
+  "binomial": "Pterocarpus santalinus",
+  "status": "matched",
+  "usageKey": 5708628,
+  "accepted_name": "Pterocarpus santalinus L.f.",
+  "confidence": 97,
+  "matchType": "EXACT",
+  "total_occurrences": 271,
+  "countries_raw": {
+    "IN": 166,
+    "US": 12,
+    "CN": 7,
+    "ZZ": 4,
+    "CI": 3,
+    "JP": 2,
+    "LK": 2,
+    "TW": 2,
+    "BR": 1,
+    "GF": 1,
+    "GY": 1,
+    "ID": 1,
+    "JM": 1,
+    "TH": 1
+  },
+  "himalayan_countries": {
+    "IN": 166,
+    "CN": 7
+  },
+  "elevation": {
+    "n": 6,
+    "min": 7,
+    "max": 541,
+    "p10": 7,
+    "p90": 541,
+    "median": 78
+  }
+}

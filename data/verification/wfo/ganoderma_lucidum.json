@@ -1,0 +1,89 @@
+{
+  "inputString": "Ganoderma lucidum",
+  "searchString": "Ganoderma lucidum",
+  "params": {
+    "checkHomonyms": false,
+    "checkRank": false,
+    "method": "full",
+    "acceptSingleCandidate": false,
+    "fuzzyNameParts": 0,
+    "fuzzyAuthors": 0,
+    "limit": 50,
+    "classificationVersion": "2026-06",
+    "year": null,
+    "rank": null,
+    "authors": null
+  },
+  "match": null,
+  "candidates": [
+    {
+      "wfo_id": "wfo-4000015299",
+      "full_name_plain": "Ganophyllum Blume",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ganophyllum</i></span> <span class=\"wfo-name-authors\" >Blume</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Sapindales/Sapindaceae/Dodonaeoideae/Ganophyllum"
+    },
+    {
+      "wfo_id": "wfo-0000694101",
+      "full_name_plain": "Ganophyllum africanum Mildbr.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ganophyllum</i> <i>africanum</i></span> <span class=\"wfo-name-authors\" >Mildbr.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Sapindales/Sapindaceae/Dodonaeoideae/Ganophyllum/giganteum$Ganophyllum/africanum"
+    },
+    {
+      "wfo_id": "wfo-0000694102",
+      "full_name_plain": "Ganophyllum falcatum Blume",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ganophyllum</i> <i>falcatum</i></span> <span class=\"wfo-name-authors\" >Blume</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Sapindales/Sapindaceae/Dodonaeoideae/Ganophyllum/falcatum"
+    },
+    {
+      "wfo_id": "wfo-0000694103",
+      "full_name_plain": "Ganophyllum giganteum (A.Chev.) Hauman",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ganophyllum</i> <i>giganteum</i></span> <span class=\"wfo-name-authors\" >(A.Chev.) Hauman</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Sapindales/Sapindaceae/Dodonaeoideae/Ganophyllum/giganteum"
+    },
+    {
+      "wfo_id": "wfo-0000694104",
+      "full_name_plain": "Ganophyllum obliquum (Blanco) Merr.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ganophyllum</i> <i>obliquum</i></span> <span class=\"wfo-name-authors\" >(Blanco) Merr.</span></span>",
+      "placement": ""
+    },
+    {
+      "wfo_id": "wfo-4000044210",
+      "full_name_plain": "Ganosma Decne.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ganosma</i></span> <span class=\"wfo-name-authors\" >Decne.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Gentianales/Apocynaceae/Apocyneae/Ichnocarpinae/Aganosma$Ganosma"
+    }
+  ],
+  "error": false,
+  "errorMessage": null,
+  "parsedName": {
+    "rank": "species",
+    "canonical_form": "Ganoderma lucidum",
+    "author_string": ""
+  },
+  "narrative": [
+    "The first word is always a name part word: 'Ganoderma'",
+    "Word is found in index and so is part of name: 'lucidum'.",
+    "Word is lowercase. Subsequent words must start with lowercase: 'lucidum'.",
+    "No authors string provided. Will match all authors strings.",
+    "Parsed name complete.",
+    "Rank estimated as 'species' from name parts.",
+    "Searched index of 2026-06 for canonical form of name 'Ganoderma lucidum' and found 0 candidates.",
+    "Still no match found.",
+    "No candidates found so moving to enhanced search (single candidates not accepted as matches)",
+    "Found no names for 'Ganoderma lucidum'",
+    "Found no names for 'Ganoderma lucidu'",
+    "Found no names for 'Ganoderma lucid'",
+    "Found no names for 'Ganoderma luci'",
+    "Found no names for 'Ganoderma luc'",
+    "Found no names for 'Ganoderma lu'",
+    "Found no names for 'Ganoderma l'",
+    "Found no names for 'Ganoderma '",
+    "Found no names for 'Ganoderma'",
+    "Found no names for 'Ganoderma'",
+    "Found no names for 'Ganoderm'",
+    "Found no names for 'Ganoder'",
+    "Found no names for 'Ganode'",
+    "Found no names for 'Ganod'",
+    "Found 6 names for 'Gano'"
+  ]
+}

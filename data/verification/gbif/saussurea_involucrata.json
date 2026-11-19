@@ -1,0 +1,28 @@
+{
+  "id": "saussurea_involucrata",
+  "binomial": "Saussurea involucrata",
+  "status": "matched",
+  "usageKey": 5404194,
+  "accepted_name": "Saussurea involucrata (Kar. & Kir.) Sch.Bip.",
+  "confidence": 97,
+  "matchType": "EXACT",
+  "total_occurrences": 192,
+  "countries_raw": {
+    "RU": 57,
+    "CN": 42,
+    "KG": 24,
+    "MN": 14,
+    "KZ": 8
+  },
+  "himalayan_countries": {
+    "CN": 42
+  },
+  "elevation": {
+    "n": 23,
+    "min": 1900,
+    "max": 3828,
+    "p10": 1950,
+    "p90": 2500,
+    "median": 2250
+  }
+}

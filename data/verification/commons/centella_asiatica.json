@@ -1,0 +1,68 @@
+{
+  "id": "centella_asiatica",
+  "binomial": "Centella asiatica",
+  "source": "category",
+  "n_candidates": 12,
+  "candidates": [
+    {
+      "title": "File:'Manimuni' or Indian pennywort or Centella asiatica.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/%27Manimuni%27_or_Indian_pennywort_or_Centella_asiatica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:%27Manimuni%27_or_Indian_pennywort_or_Centella_asiatica.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "AditiB08",
+      "credit": "Own work",
+      "date": "2024-04-18 12:12:41",
+      "object_name": "'Manimuni' or Indian pennywort or Centella asiatica"
+    },
+    {
+      "title": "File:A patch of Centella Asiatica or pegaga in Malay..jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/A_patch_of_Centella_Asiatica_or_pegaga_in_Malay..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_patch_of_Centella_Asiatica_or_pegaga_in_Malay..jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Azreey",
+      "credit": "Own work",
+      "date": "2023-07-11 08:22:31",
+      "object_name": "A patch of Centella Asiatica or pegaga in Malay."
+    },
+    {
+      "title": "File:Asiatic Pennywort.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Asiatic_Pennywort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Asiatic_Pennywort.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Sanjay Acharya",
+      "credit": "Own work",
+      "date": "2013-01-24 04:12:08",
+      "object_name": "Asiatic Pennywort"
+    },
+    {
+      "title": "File:Bai bua bo ใบบัวบก Centella asiatica.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Bai_bua_bo_%E0%B9%83%E0%B8%9A%E0%B8%9A%E0%B8%B1%E0%B8%A7%E0%B8%9A%E0%B8%81_Centella_asiatica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bai_bua_bo_%E0%B9%83%E0%B8%9A%E0%B8%9A%E0%B8%B1%E0%B8%A7%E0%B8%9A%E0%B8%81_Centella_asiatica.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Renaudsechet",
+      "credit": "Own work",
+      "date": "2014-08-03 04:06:21",
+      "object_name": "Bai bua bo ใบบัวบก Centella asiatica"
+    },
+    {
+      "title": "File:Bor-manimuni.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Bor-manimuni.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bor-manimuni.JPG",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "মৌচুমী",
+      "credit": "Own work",
+      "date": "2012-05-02 13:53:49",
+      "object_name": "Bor-manimuni"
+    }
+  ]
+}

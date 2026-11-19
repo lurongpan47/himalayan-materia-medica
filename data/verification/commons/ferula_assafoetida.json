@@ -1,0 +1,68 @@
+{
+  "id": "ferula_assafoetida",
+  "binomial": "Ferula assa-foetida",
+  "source": "category",
+  "n_candidates": 12,
+  "candidates": [
+    {
+      "title": "File:BM000815358-S.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/BM000815358-S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:BM000815358-S.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Engelbert Kaempfer",
+      "credit": "https://data.nhm.ac.uk/object/29e8674e-6555-4b36-9231-e388337c8847/1616457600000",
+      "date": "2021-03-23 21:59:56",
+      "object_name": "BM000815358-S"
+    },
+    {
+      "title": "File:BM000815359-S.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/BM000815359-S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:BM000815359-S.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Engelbert Kaempfer",
+      "credit": "https://data.nhm.ac.uk/object/29e8674e-6555-4b36-9231-e388337c8847/1616457600000",
+      "date": "2021-03-23 21:59:57",
+      "object_name": "BM000815359-S"
+    },
+    {
+      "title": "File:BM000815360-S.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/BM000815360-S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:BM000815360-S.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Engelbert Kaempfer",
+      "credit": "https://data.nhm.ac.uk/object/29e8674e-6555-4b36-9231-e388337c8847/1616457600000",
+      "date": "2021-03-23 21:59:56",
+      "object_name": "BM000815360-S"
+    },
+    {
+      "title": "File:Ferula assa-foetida Zapaliczka cuchnąca 2020-07-31 01.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Ferula_assa-foetida_Zapaliczka_cuchn%C4%85ca_2020-07-31_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ferula_assa-foetida_Zapaliczka_cuchn%C4%85ca_2020-07-31_01.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Agnieszka Kwiecień, Nova",
+      "credit": "Own work",
+      "date": "2021-09-26 14:48:41",
+      "object_name": "Ferula assa-foetida Zapaliczka cuchnąca 2020-07-31 01"
+    },
+    {
+      "title": "File:Ferula assa-foetida Zapaliczka cuchnąca 2020-07-31 02.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Ferula_assa-foetida_Zapaliczka_cuchn%C4%85ca_2020-07-31_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ferula_assa-foetida_Zapaliczka_cuchn%C4%85ca_2020-07-31_02.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Agnieszka Kwiecień, Nova",
+      "credit": "Own work",
+      "date": "2021-09-26 14:48:41",
+      "object_name": "Ferula assa-foetida Zapaliczka cuchnąca 2020-07-31 02"
+    }
+  ]
+}

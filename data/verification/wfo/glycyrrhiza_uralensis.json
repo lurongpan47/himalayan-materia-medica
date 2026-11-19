@@ -1,0 +1,51 @@
+{
+  "inputString": "Glycyrrhiza uralensis",
+  "searchString": "Glycyrrhiza uralensis",
+  "params": {
+    "checkHomonyms": false,
+    "checkRank": false,
+    "method": "full",
+    "acceptSingleCandidate": false,
+    "fuzzyNameParts": 0,
+    "fuzzyAuthors": 0,
+    "limit": 50,
+    "classificationVersion": "2026-06",
+    "year": null,
+    "rank": null,
+    "authors": null
+  },
+  "match": null,
+  "candidates": [
+    {
+      "wfo_id": "wfo-0000186028",
+      "full_name_plain": "Glycyrrhiza uralensis Fisch.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Glycyrrhiza</i> <i>uralensis</i></span> <span class=\"wfo-name-authors\" >Fisch.</span></span>",
+      "placement": ""
+    },
+    {
+      "wfo_id": "wfo-0001053609",
+      "full_name_plain": "Glycyrrhiza uralensis Fisch. ex DC.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Glycyrrhiza</i> <i>uralensis</i></span> <span class=\"wfo-name-authors\" >Fisch. ex DC.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Fabales/Fabaceae/Papilionoideae/Glycyrrhiza/uralensis"
+    }
+  ],
+  "error": false,
+  "errorMessage": null,
+  "parsedName": {
+    "rank": "species",
+    "canonical_form": "Glycyrrhiza uralensis",
+    "author_string": ""
+  },
+  "narrative": [
+    "The first word is always a name part word: 'Glycyrrhiza'",
+    "Word is found in index and so is part of name: 'uralensis'.",
+    "Word is lowercase. Subsequent words must start with lowercase: 'uralensis'.",
+    "No authors string provided. Will match all authors strings.",
+    "Parsed name complete.",
+    "Rank estimated as 'species' from name parts.",
+    "Searched index of 2026-06 for canonical form of name 'Glycyrrhiza uralensis' and found 2 candidates.",
+    "Looking for matching author strings.",
+    "Still no match found.",
+    "But 2 candidates found."
+  ]
+}

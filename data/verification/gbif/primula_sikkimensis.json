@@ -1,0 +1,37 @@
+{
+  "id": "primula_sikkimensis",
+  "binomial": "Primula sikkimensis",
+  "status": "matched",
+  "usageKey": 7290470,
+  "accepted_name": "Primula sikkimensis Hook.",
+  "confidence": 99,
+  "matchType": "EXACT",
+  "total_occurrences": 1882,
+  "countries_raw": {
+    "CN": 951,
+    "NP": 199,
+    "BT": 59,
+    "IN": 51,
+    "GB": 13,
+    "MM": 8,
+    "ZZ": 7,
+    "US": 4,
+    "NL": 1,
+    "NO": 1
+  },
+  "himalayan_countries": {
+    "CN": 951,
+    "NP": 199,
+    "BT": 59,
+    "IN": 51,
+    "MM": 8
+  },
+  "elevation": {
+    "n": 106,
+    "min": 2700,
+    "max": 4900,
+    "p10": 3410,
+    "p90": 4300,
+    "median": 3940
+  }
+}

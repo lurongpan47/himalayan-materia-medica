@@ -1,0 +1,51 @@
+{
+  "inputString": "Ocimum tenuiflorum",
+  "searchString": "Ocimum tenuiflorum",
+  "params": {
+    "checkHomonyms": false,
+    "checkRank": false,
+    "method": "full",
+    "acceptSingleCandidate": false,
+    "fuzzyNameParts": 0,
+    "fuzzyAuthors": 0,
+    "limit": 50,
+    "classificationVersion": "2026-06",
+    "year": null,
+    "rank": null,
+    "authors": null
+  },
+  "match": null,
+  "candidates": [
+    {
+      "wfo_id": "wfo-0000253537",
+      "full_name_plain": "Ocimum tenuiflorum L.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ocimum</i> <i>tenuiflorum</i></span> <span class=\"wfo-name-authors\" >L.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Lamiales/Lamiaceae/Ocimum/tenuiflorum"
+    },
+    {
+      "wfo_id": "wfo-0001070119",
+      "full_name_plain": "Ocimum tenuiflorum Burm.f.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ocimum</i> <i>tenuiflorum</i></span> <span class=\"wfo-name-authors\" >Burm.f.</span></span>",
+      "placement": ""
+    }
+  ],
+  "error": false,
+  "errorMessage": null,
+  "parsedName": {
+    "rank": "species",
+    "canonical_form": "Ocimum tenuiflorum",
+    "author_string": ""
+  },
+  "narrative": [
+    "The first word is always a name part word: 'Ocimum'",
+    "Word is found in index and so is part of name: 'tenuiflorum'.",
+    "Word is lowercase. Subsequent words must start with lowercase: 'tenuiflorum'.",
+    "No authors string provided. Will match all authors strings.",
+    "Parsed name complete.",
+    "Rank estimated as 'species' from name parts.",
+    "Searched index of 2026-06 for canonical form of name 'Ocimum tenuiflorum' and found 2 candidates.",
+    "Looking for matching author strings.",
+    "Still no match found.",
+    "But 2 candidates found."
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "morina_kokonorica",
+  "binomial": "Morina kokonorica",
+  "status": "matched",
+  "usageKey": 7854722,
+  "accepted_name": "Morina kokonorica K.S.Hao",
+  "confidence": 98,
+  "matchType": "EXACT",
+  "total_occurrences": 192,
+  "countries_raw": {
+    "CN": 186,
+    "RU": 2
+  },
+  "himalayan_countries": {
+    "CN": 186
+  },
+  "elevation": {
+    "n": 21,
+    "min": 3305,
+    "max": 5000,
+    "p10": 3600,
+    "p90": 4350,
+    "median": 3895
+  }
+}

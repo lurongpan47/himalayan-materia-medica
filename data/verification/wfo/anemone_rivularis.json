@@ -1,0 +1,42 @@
+{
+  "inputString": "Anemone rivularis",
+  "searchString": "Anemone rivularis",
+  "params": {
+    "checkHomonyms": false,
+    "checkRank": false,
+    "method": "full",
+    "acceptSingleCandidate": false,
+    "fuzzyNameParts": 0,
+    "fuzzyAuthors": 0,
+    "limit": 50,
+    "classificationVersion": "2026-06",
+    "year": null,
+    "rank": null,
+    "authors": null
+  },
+  "match": {
+    "wfo_id": "wfo-0000535745",
+    "full_name_plain": "Anemone rivularis Buch.-Ham. ex DC.",
+    "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Anemone</i> <i>rivularis</i></span> <span class=\"wfo-name-authors\" >Buch.-Ham. ex DC.</span></span>",
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Ranunculales/Ranunculaceae/Eriocapitella/rivularis$Anemone/rivularis"
+  },
+  "candidates": [],
+  "error": false,
+  "errorMessage": null,
+  "parsedName": {
+    "rank": "species",
+    "canonical_form": "Anemone rivularis",
+    "author_string": ""
+  },
+  "narrative": [
+    "The first word is always a name part word: 'Anemone'",
+    "Word is found in index and so is part of name: 'rivularis'.",
+    "Word is lowercase. Subsequent words must start with lowercase: 'rivularis'.",
+    "No authors string provided. Will match all authors strings.",
+    "Parsed name complete.",
+    "Rank estimated as 'species' from name parts.",
+    "Searched index of 2026-06 for canonical form of name 'Anemone rivularis' and found 1 candidates.",
+    "Looking for matching author strings.",
+    "Only one candidate found (wfo-0000535745) and no author string supplied so name becomes match."
+  ]
+}

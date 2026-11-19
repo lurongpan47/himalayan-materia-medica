@@ -1,0 +1,31 @@
+{
+  "id": "commiphora_wightii",
+  "binomial": "Commiphora wightii",
+  "status": "matched",
+  "usageKey": 3992808,
+  "accepted_name": "Commiphora wightii (Arn.) Bhandari",
+  "confidence": 99,
+  "matchType": "EXACT",
+  "total_occurrences": 170,
+  "countries_raw": {
+    "IN": 91,
+    "OM": 17,
+    "PK": 6,
+    "YE": 4,
+    "US": 2,
+    "SE": 1,
+    "ZZ": 1
+  },
+  "himalayan_countries": {
+    "IN": 91,
+    "PK": 6
+  },
+  "elevation": {
+    "n": 6,
+    "min": 50,
+    "max": 850,
+    "p10": 50,
+    "p90": 850,
+    "median": 400
+  }
+}

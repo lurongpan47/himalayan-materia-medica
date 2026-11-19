@@ -1,0 +1,57 @@
+{
+  "inputString": "Cremanthodium ellisii",
+  "searchString": "Cremanthodium ellisii",
+  "params": {
+    "checkHomonyms": false,
+    "checkRank": false,
+    "method": "full",
+    "acceptSingleCandidate": false,
+    "fuzzyNameParts": 0,
+    "fuzzyAuthors": 0,
+    "limit": 50,
+    "classificationVersion": "2026-06",
+    "year": null,
+    "rank": null,
+    "authors": null
+  },
+  "match": null,
+  "candidates": [
+    {
+      "wfo_id": "wfo-0000122033",
+      "full_name_plain": "Cremanthodium ellisii (Hook.f.) Seybold & Kull",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Cremanthodium</i> <i>ellisii</i></span> <span class=\"wfo-name-authors\" >(Hook.f.) Seybold & Kull</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Asterales/Asteraceae/Asteroideae/Senecioneae/Cremanthodium/ellisii$Cremanthodium/ellisii"
+    },
+    {
+      "wfo_id": "wfo-0000059773",
+      "full_name_plain": "Cremanthodium ellisii (Hook.f.) Kitam.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Cremanthodium</i> <i>ellisii</i></span> <span class=\"wfo-name-authors\" >(Hook.f.) Kitam.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Asterales/Asteraceae/Asteroideae/Senecioneae/Cremanthodium/ellisii"
+    },
+    {
+      "wfo_id": "wfo-0000059806",
+      "full_name_plain": "Cremanthodium ellisii (Hook.f.) Seybold & Kull",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Cremanthodium</i> <i>ellisii</i></span> <span class=\"wfo-name-authors\" >(Hook.f.) Seybold & Kull</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Asterales/Asteraceae/Asteroideae/Senecioneae/Cremanthodium/ellisii$Cremanthodium/ellisii"
+    }
+  ],
+  "error": false,
+  "errorMessage": null,
+  "parsedName": {
+    "rank": "species",
+    "canonical_form": "Cremanthodium ellisii",
+    "author_string": ""
+  },
+  "narrative": [
+    "The first word is always a name part word: 'Cremanthodium'",
+    "Word is found in index and so is part of name: 'ellisii'.",
+    "Word is lowercase. Subsequent words must start with lowercase: 'ellisii'.",
+    "No authors string provided. Will match all authors strings.",
+    "Parsed name complete.",
+    "Rank estimated as 'species' from name parts.",
+    "Searched index of 2026-06 for canonical form of name 'Cremanthodium ellisii' and found 3 candidates.",
+    "Looking for matching author strings.",
+    "Still no match found.",
+    "But 3 candidates found."
+  ]
+}

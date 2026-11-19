@@ -1,0 +1,44 @@
+{
+  "id": "cypripedium_tibeticum",
+  "binomial": "Cypripedium tibeticum",
+  "source": "category",
+  "n_candidates": 3,
+  "candidates": [
+    {
+      "title": "File:Cypripedium tibeticum 1.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Cypripedium_tibeticum_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cypripedium_tibeticum_1.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Patricia Harding",
+      "credit": "Own work",
+      "date": "2009-01-06 17:34:54",
+      "object_name": "Cypripedium tibeticum 1"
+    },
+    {
+      "title": "File:Cypripedium tibeticum Orchi 142.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Cypripedium_tibeticum_Orchi_142.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cypripedium_tibeticum_Orchi_142.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "artist": "Orchi",
+      "credit": "Self-photographed",
+      "date": "2014-04-22 19:18:41",
+      "object_name": "Cypripedium tibeticum Orchi 142"
+    },
+    {
+      "title": "File:Cypripedium tibeticum Orchi 144.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Cypripedium_tibeticum_Orchi_144.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cypripedium_tibeticum_Orchi_144.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "artist": "Orchi",
+      "credit": "Self-photographed",
+      "date": "2014-04-22 19:19:34",
+      "object_name": "Cypripedium tibeticum Orchi 144"
+    }
+  ]
+}

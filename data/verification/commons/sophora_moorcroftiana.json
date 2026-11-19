@@ -1,0 +1,32 @@
+{
+  "id": "sophora_moorcroftiana",
+  "binomial": "Sophora moorcroftiana",
+  "source": "text",
+  "n_candidates": 2,
+  "candidates": [
+    {
+      "title": "File:Hardy Tibetan Desert Plant.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Hardy_Tibetan_Desert_Plant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hardy_Tibetan_Desert_Plant.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Preston Rhea",
+      "credit": "Flickr :  Hardy Tibetan Desert Plant",
+      "date": "2013-02-23 22:03:18",
+      "object_name": "Hardy Tibetan Desert Plant"
+    },
+    {
+      "title": "File:Sophora davidii - Floraison.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Sophora_davidii_-_Floraison.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sophora_davidii_-_Floraison.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Denis.prévôt",
+      "credit": "Own work",
+      "date": "2011-07-22 19:53:30",
+      "object_name": "Sophora davidii - Floraison"
+    }
+  ]
+}

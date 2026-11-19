@@ -1,0 +1,51 @@
+{
+  "inputString": "Gentiana macrophylla",
+  "searchString": "Gentiana macrophylla",
+  "params": {
+    "checkHomonyms": false,
+    "checkRank": false,
+    "method": "full",
+    "acceptSingleCandidate": false,
+    "fuzzyNameParts": 0,
+    "fuzzyAuthors": 0,
+    "limit": 50,
+    "classificationVersion": "2026-06",
+    "year": null,
+    "rank": null,
+    "authors": null
+  },
+  "match": null,
+  "candidates": [
+    {
+      "wfo_id": "wfo-0000697942",
+      "full_name_plain": "Gentiana macrophylla Pall.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Gentiana</i> <i>macrophylla</i></span> <span class=\"wfo-name-authors\" >Pall.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Gentianales/Gentianaceae/Gentiana/macrophylla"
+    },
+    {
+      "wfo_id": "wfo-0000697943",
+      "full_name_plain": "Gentiana macrophylla Bertol.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Gentiana</i> <i>macrophylla</i></span> <span class=\"wfo-name-authors\" >Bertol.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Gentianales/Gentianaceae/Gentiana/burseri/villarsii$Gentiana/macrophylla"
+    }
+  ],
+  "error": false,
+  "errorMessage": null,
+  "parsedName": {
+    "rank": "species",
+    "canonical_form": "Gentiana macrophylla",
+    "author_string": ""
+  },
+  "narrative": [
+    "The first word is always a name part word: 'Gentiana'",
+    "Word is found in index and so is part of name: 'macrophylla'.",
+    "Word is lowercase. Subsequent words must start with lowercase: 'macrophylla'.",
+    "No authors string provided. Will match all authors strings.",
+    "Parsed name complete.",
+    "Rank estimated as 'species' from name parts.",
+    "Searched index of 2026-06 for canonical form of name 'Gentiana macrophylla' and found 2 candidates.",
+    "Looking for matching author strings.",
+    "Still no match found.",
+    "But 2 candidates found."
+  ]
+}

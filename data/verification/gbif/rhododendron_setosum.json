@@ -1,0 +1,32 @@
+{
+  "id": "rhododendron_setosum",
+  "binomial": "Rhododendron setosum",
+  "status": "matched",
+  "usageKey": 4165262,
+  "accepted_name": "Rhododendron setosum D.Don",
+  "confidence": 99,
+  "matchType": "EXACT",
+  "total_occurrences": 519,
+  "countries_raw": {
+    "NP": 222,
+    "CN": 90,
+    "IN": 60,
+    "BT": 48,
+    "ZZ": 4,
+    "GB": 3
+  },
+  "himalayan_countries": {
+    "NP": 222,
+    "CN": 90,
+    "IN": 60,
+    "BT": 48
+  },
+  "elevation": {
+    "n": 80,
+    "min": 2425,
+    "max": 4780,
+    "p10": 3690,
+    "p90": 4512,
+    "median": 4100
+  }
+}

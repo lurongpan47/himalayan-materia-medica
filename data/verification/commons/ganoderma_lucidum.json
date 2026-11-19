@@ -1,0 +1,68 @@
+{
+  "id": "ganoderma_lucidum",
+  "binomial": "Ganoderma lucidum",
+  "source": "category",
+  "n_candidates": 15,
+  "candidates": [
+    {
+      "title": "File:2015-07-11 Ganoderma lucidum (Curtis) P. Karst 641823.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/2015-07-11_Ganoderma_lucidum_%28Curtis%29_P._Karst_641823.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:2015-07-11_Ganoderma_lucidum_(Curtis)_P._Karst_641823.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "This image was created by user  Ngo Thi Thuy Dung (DungThuy)  at  Mushroom Observer , a source for mycological images. You can contact this user  here .",
+      "credit": "This image is  Image Number 641823  at  Mushroom Observer , a source for mycological images.",
+      "date": "2016-09-25 22:29:53",
+      "object_name": "2015-07-11 Ganoderma lucidum (Curtis) P. Karst 641823"
+    },
+    {
+      "title": "File:2015-08-17 Ganoderma lucidum (Curtis) P. Karst 713895.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/2015-08-17_Ganoderma_lucidum_%28Curtis%29_P._Karst_713895.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:2015-08-17_Ganoderma_lucidum_(Curtis)_P._Karst_713895.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "This image was created by user  Vihane (wihane)  at  Mushroom Observer , a source for mycological images. You can contact this user  here .",
+      "credit": "This image is  Image Number 713895  at  Mushroom Observer , a source for mycological images.",
+      "date": "2017-03-14 20:34:02",
+      "object_name": "2015-08-17 Ganoderma lucidum (Curtis) P. Karst 713895"
+    },
+    {
+      "title": "File:2016-08-07 Ganoderma lucidum (Curtis) P. Karst 643311.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/2016-08-07_Ganoderma_lucidum_%28Curtis%29_P._Karst_643311.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:2016-08-07_Ganoderma_lucidum_(Curtis)_P._Karst_643311.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "This image was created by user  azizkasam  at  Mushroom Observer , a source for mycological images. You can contact this user  here .",
+      "credit": "This image is  Image Number 643311  at  Mushroom Observer , a source for mycological images.",
+      "date": "2017-03-15 11:08:52",
+      "object_name": "2016-08-07 Ganoderma lucidum (Curtis) P. Karst 643311"
+    },
+    {
+      "title": "File:3588 - Ganoderma lucido (Ganoderma Lucidum), Poliporacce, 1987.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/3588_-_Ganoderma_lucido_%28Ganoderma_Lucidum%29%2C_Poliporacce%2C_1987.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:3588_-_Ganoderma_lucido_(Ganoderma_Lucidum),_Poliporacce,_1987.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "C. Wladi",
+      "credit": "Own work",
+      "date": "2025-07-27 07:51:34",
+      "object_name": "3588 - Ganoderma lucido (Ganoderma Lucidum), Poliporacce, 1987"
+    },
+    {
+      "title": "File:Atlas des champignons comestibles et vénéneux (Planche 49) (6358024721).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Atlas_des_champignons_comestibles_et_v%C3%A9n%C3%A9neux_%28Planche_49%29_%286358024721%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Atlas_des_champignons_comestibles_et_v%C3%A9n%C3%A9neux_(Planche_49)_(6358024721).jpg",
+      "mime": "image/jpeg",
+      "license_short": "Public domain",
+      "license_url": null,
+      "artist": "Dufour, L.",
+      "credit": "https://www.flickr.com/photos/biodivlibrary/6358024721",
+      "date": "2015-09-16 07:18:24",
+      "object_name": "Atlas des champignons comestibles et vénéneux (Planche 49) (6358024721)"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "carthamus_tinctorius",
+  "binomial": "Carthamus tinctorius",
+  "source": "category",
+  "n_candidates": 15,
+  "candidates": [
+    {
+      "title": "File:Azafran 01.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Azafran_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Azafran_01.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Beta15",
+      "credit": "Own work",
+      "date": "2019-04-24 19:31:23",
+      "object_name": "Azafran 01"
+    },
+    {
+      "title": "File:Azafran 02.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Azafran_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Azafran_02.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Beta15",
+      "credit": "Own work",
+      "date": "2019-04-24 19:31:23",
+      "object_name": "Azafran 02"
+    },
+    {
+      "title": "File:Bioplastic dyed with safflower.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bioplastic_dyed_with_safflower.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bioplastic_dyed_with_safflower.png",
+      "mime": "image/png",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "مشيرة",
+      "credit": "Own work",
+      "date": "2022-04-09 20:19:45",
+      "object_name": "Bioplastic dyed with safflower"
+    },
+    {
+      "title": "File:Carthamus tinctorius (Flora of Tajikistan).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Carthamus_tinctorius_%28Flora_of_Tajikistan%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Carthamus_tinctorius_(Flora_of_Tajikistan).png",
+      "mime": "image/png",
+      "license_short": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Arkadiusz Nowak, Marcin Nobis, Sylwia Nowak, Agnieszka Nobis, Anna Wróbel, Sebastian Świerszcz, Ewelina Klichowska, Iwona Dembicz &amp; Grzegorz Kusza",
+      "credit": "Arkadiusz Nowak and Marcin Nobs (Eds): Illustrated Flora of Tajikistan and adjacent areas, Polish Academy of Sciences, Warsaw 2020",
+      "date": "2025-02-05 12:30:23",
+      "object_name": "Carthamus tinctorius (Flora of Tajikistan)"
+    },
+    {
+      "title": "File:Carthamus tinctorius - 2024 May 7.jpeg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Carthamus_tinctorius_-_2024_May_7.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Carthamus_tinctorius_-_2024_May_7.jpeg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Nesnad",
+      "credit": "Own work",
+      "date": "2024-05-07 09:11:58",
+      "object_name": "Carthamus tinctorius - 2024 May 7"
+    }
+  ]
+}

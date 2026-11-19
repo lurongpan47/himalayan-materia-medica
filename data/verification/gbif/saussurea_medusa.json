@@ -1,0 +1,28 @@
+{
+  "id": "saussurea_medusa",
+  "binomial": "Saussurea medusa",
+  "status": "matched",
+  "usageKey": 5404320,
+  "accepted_name": "Saussurea medusa Maxim.",
+  "confidence": 99,
+  "matchType": "EXACT",
+  "total_occurrences": 513,
+  "countries_raw": {
+    "CN": 407,
+    "NP": 10,
+    "IN": 9
+  },
+  "himalayan_countries": {
+    "CN": 407,
+    "NP": 10,
+    "IN": 9
+  },
+  "elevation": {
+    "n": 145,
+    "min": 2743,
+    "max": 5791,
+    "p10": 4300,
+    "p90": 5334,
+    "median": 4695
+  }
+}

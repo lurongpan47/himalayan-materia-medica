@@ -1,0 +1,42 @@
+{
+  "inputString": "Leontopodium nanum",
+  "searchString": "Leontopodium nanum",
+  "params": {
+    "checkHomonyms": false,
+    "checkRank": false,
+    "method": "full",
+    "acceptSingleCandidate": false,
+    "fuzzyNameParts": 0,
+    "fuzzyAuthors": 0,
+    "limit": 50,
+    "classificationVersion": "2026-06",
+    "year": null,
+    "rank": null,
+    "authors": null
+  },
+  "match": {
+    "wfo_id": "wfo-0000066559",
+    "full_name_plain": "Leontopodium nanum (Hook.f. & Thomson ex C.B.Clarke) Hand.-Mazz.",
+    "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Leontopodium</i> <i>nanum</i></span> <span class=\"wfo-name-authors\" >(Hook.f. & Thomson ex C.B.Clarke) Hand.-Mazz.</span></span>",
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Asterales/Asteraceae/Asteroideae/Gnaphalieae/Leontopodium/nanum"
+  },
+  "candidates": [],
+  "error": false,
+  "errorMessage": null,
+  "parsedName": {
+    "rank": "species",
+    "canonical_form": "Leontopodium nanum",
+    "author_string": ""
+  },
+  "narrative": [
+    "The first word is always a name part word: 'Leontopodium'",
+    "Word is found in index and so is part of name: 'nanum'.",
+    "Word is lowercase. Subsequent words must start with lowercase: 'nanum'.",
+    "No authors string provided. Will match all authors strings.",
+    "Parsed name complete.",
+    "Rank estimated as 'species' from name parts.",
+    "Searched index of 2026-06 for canonical form of name 'Leontopodium nanum' and found 1 candidates.",
+    "Looking for matching author strings.",
+    "Only one candidate found (wfo-0000066559) and no author string supplied so name becomes match."
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "saussurea_involucrata",
+  "binomial": "Saussurea involucrata",
+  "source": "category",
+  "n_candidates": 3,
+  "candidates": [
+    {
+      "title": "File:For cook saussurea involucrata.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/For_cook_saussurea_involucrata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:For_cook_saussurea_involucrata.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "K.b.cheng",
+      "credit": "Own work",
+      "date": "2013-02-12 17:22:06",
+      "object_name": "For cook saussurea involucrata"
+    },
+    {
+      "title": "File:Herba Saussureae Involucratae 2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Herba_Saussureae_Involucratae_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Herba_Saussureae_Involucratae_2.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "K.b.cheng",
+      "credit": "Own work",
+      "date": "2013-02-12 17:22:06",
+      "object_name": "Herba Saussureae Involucratae 2"
+    },
+    {
+      "title": "File:Herba Saussureae Involucratae.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Herba_Saussureae_Involucratae.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Herba_Saussureae_Involucratae.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "K.b.cheng",
+      "credit": "Own work",
+      "date": "2013-02-12 17:22:09",
+      "object_name": "Herba Saussureae Involucratae"
+    }
+  ]
+}

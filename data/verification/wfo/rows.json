@@ -1,0 +1,1347 @@
+[
+  {
+    "id": "aconitum_pendulum",
+    "binomial": "Aconitum pendulum",
+    "status": "matched",
+    "wfo_id": "wfo-0000517883",
+    "wfo_full": "Aconitum pendulum N.Busch",
+    "wfo_authority": "N.Busch",
+    "yaml_authority": "Busch",
+    "authority_agrees": false,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Ranunculales/Ranunculaceae/Aconitum/pendulum"
+  },
+  {
+    "id": "aconitum_tanguticum",
+    "binomial": "Aconitum tanguticum",
+    "status": "matched",
+    "wfo_id": "wfo-0000518155",
+    "wfo_full": "Aconitum tanguticum (Maxim.) Stapf",
+    "wfo_authority": "(Maxim.) Stapf",
+    "yaml_authority": "(Maxim.) Stapf",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Ranunculales/Ranunculaceae/Aconitum/tanguticum"
+  },
+  {
+    "id": "amomum_subulatum",
+    "binomial": "Amomum subulatum",
+    "status": "matched",
+    "wfo_id": "wfo-0000339263",
+    "wfo_full": "Amomum subulatum Roxb.",
+    "wfo_authority": "Roxb.",
+    "yaml_authority": "Roxb.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Zingiberales/Zingiberaceae/Alpinioideae/Alpinieae/Amomum/subulatum"
+  },
+  {
+    "id": "androsace_tapete",
+    "binomial": "Androsace tapete",
+    "status": "matched",
+    "wfo_id": "wfo-0000534873",
+    "wfo_full": "Androsace tapete Maxim.",
+    "wfo_authority": "Maxim.",
+    "yaml_authority": "Maxim.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Ericales/Primulaceae/Androsace/tapete"
+  },
+  {
+    "id": "anemone_rivularis",
+    "binomial": "Anemone rivularis",
+    "status": "matched",
+    "wfo_id": "wfo-0000535745",
+    "wfo_full": "Anemone rivularis Buch.-Ham. ex DC.",
+    "wfo_authority": "Buch.-Ham. ex DC.",
+    "yaml_authority": "Buch.-Ham. ex DC.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Ranunculales/Ranunculaceae/Eriocapitella/rivularis$Anemone/rivularis"
+  },
+  {
+    "id": "anisodus_tanguticus",
+    "binomial": "Anisodus tanguticus",
+    "status": "matched",
+    "wfo_id": "wfo-0001019299",
+    "wfo_full": "Anisodus tanguticus (Maxim.) Pascher",
+    "wfo_authority": "(Maxim.) Pascher",
+    "yaml_authority": "(Maxim.) Pascher",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Solanales/Solanaceae/Solanoideae/Hyoscyameae/Anisodus/tanguticus"
+  },
+  {
+    "id": "aquilaria_malaccensis",
+    "binomial": "Aquilaria malaccensis",
+    "status": "ambiguous",
+    "yaml_authority": "Lam.",
+    "candidates": [
+      {
+        "wfo_id": "wfo-0000541082",
+        "full_name_plain": "Aquilaria malaccensis Benth.",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Malvales/Thymelaeaceae/Aquilaria/sinensis$Aquilaria/malaccensis"
+      },
+      {
+        "wfo_id": "wfo-0001142510",
+        "full_name_plain": "Aquilaria malaccensis Lam.",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Malvales/Thymelaeaceae/Aquilaria/malaccensis"
+      }
+    ]
+  },
+  {
+    "id": "arenaria_kansuensis",
+    "binomial": "Arenaria kansuensis",
+    "status": "matched",
+    "wfo_id": "wfo-0000546067",
+    "wfo_full": "Arenaria kansuensis Maxim.",
+    "wfo_authority": "Maxim.",
+    "yaml_authority": "Maxim.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Caryophyllales/Caryophyllaceae/Arenarieae/Arenaria/kansuensis"
+  },
+  {
+    "id": "arnebia_guttata",
+    "binomial": "Arnebia guttata",
+    "status": "matched",
+    "wfo_id": "wfo-0000549482",
+    "wfo_full": "Arnebia guttata Bunge",
+    "wfo_authority": "Bunge",
+    "yaml_authority": "Bunge",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Boraginales/Boraginaceae/Boraginoideae/Lithospermeae/Arnebia/guttata"
+  },
+  {
+    "id": "asparagus_filicinus",
+    "binomial": "Asparagus filicinus",
+    "status": "matched",
+    "wfo_id": "wfo-0000632511",
+    "wfo_full": "Asparagus filicinus Buch.-Ham. ex D.Don",
+    "wfo_authority": "Buch.-Ham. ex D.Don",
+    "yaml_authority": "Buch.-Ham. ex D.Don",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Asparagales/Asparagaceae/Asparagoideae/Asparagus/filicinus"
+  },
+  {
+    "id": "asparagus_racemosus",
+    "binomial": "Asparagus racemosus",
+    "status": "matched",
+    "wfo_id": "wfo-0000634415",
+    "wfo_full": "Asparagus racemosus Willd.",
+    "wfo_authority": "Willd.",
+    "yaml_authority": "Willd.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Asparagales/Asparagaceae/Asparagoideae/Asparagus/racemosus"
+  },
+  {
+    "id": "bacopa_monnieri",
+    "binomial": "Bacopa monnieri",
+    "status": "ambiguous",
+    "yaml_authority": "(L.) Wettst.",
+    "candidates": [
+      {
+        "wfo_id": "wfo-0000558282",
+        "full_name_plain": "Bacopa monnieri (L.) Wettst.",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Lamiales/Plantaginaceae/Bacopa/monnieri"
+      },
+      {
+        "wfo_id": "wfo-1000080191",
+        "full_name_plain": "Bacopa monnieri (L.) Pennell",
+        "placement": ""
+      }
+    ]
+  },
+  {
+    "id": "berberis_aristata",
+    "binomial": "Berberis aristata",
+    "status": "ambiguous",
+    "yaml_authority": "DC.",
+    "candidates": [
+      {
+        "wfo_id": "wfo-0000562794",
+        "full_name_plain": "Berberis aristata DC.",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Ranunculales/Berberidaceae/Berberis/aristata"
+      },
+      {
+        "wfo_id": "wfo-0000562795",
+        "full_name_plain": "Berberis aristata Sims",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Ranunculales/Berberidaceae/Berberis/umbellata$Berberis/aristata"
+      }
+    ]
+  },
+  {
+    "id": "boswellia_serrata",
+    "binomial": "Boswellia serrata",
+    "status": "matched",
+    "wfo_id": "wfo-0000569726",
+    "wfo_full": "Boswellia serrata Roxb.",
+    "wfo_authority": "Roxb.",
+    "yaml_authority": "Roxb. ex Colebr.",
+    "authority_agrees": false,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Sapindales/Burseraceae/Boswellia/serrata"
+  },
+  {
+    "id": "caltha_scaposa",
+    "binomial": "Caltha scaposa",
+    "status": "matched",
+    "wfo_id": "wfo-0000581766",
+    "wfo_full": "Caltha scaposa Hook.f. & Thomson",
+    "wfo_authority": "Hook.f. & Thomson",
+    "yaml_authority": "Hook.f. & Thomson",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Ranunculales/Ranunculaceae/Caltha/scaposa"
+  },
+  {
+    "id": "caragana_jubata",
+    "binomial": "Caragana jubata",
+    "status": "matched",
+    "wfo_id": "wfo-0000194798",
+    "wfo_full": "Caragana jubata (Pall.) Poir.",
+    "wfo_authority": "(Pall.) Poir.",
+    "yaml_authority": "(Pall.) Poir.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Fabales/Fabaceae/Papilionoideae/Caragana/jubata"
+  },
+  {
+    "id": "carthamus_tinctorius",
+    "binomial": "Carthamus tinctorius",
+    "status": "matched",
+    "wfo_id": "wfo-0000024004",
+    "wfo_full": "Carthamus tinctorius L.",
+    "wfo_authority": "L.",
+    "yaml_authority": "L.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Asterales/Asteraceae/Carduoideae/Cardueae/Centaureinae/Carthamus/tinctorius"
+  },
+  {
+    "id": "centella_asiatica",
+    "binomial": "Centella asiatica",
+    "status": "matched",
+    "wfo_id": "wfo-0000594096",
+    "wfo_full": "Centella asiatica (L.) Urb.",
+    "wfo_authority": "(L.) Urb.",
+    "yaml_authority": "(L.) Urb.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Apiales/Apiaceae/Centella/asiatica"
+  },
+  {
+    "id": "chrysanthemum_tatsienense",
+    "binomial": "Chrysanthemum tatsienense",
+    "status": "matched",
+    "wfo_id": "wfo-0000007136",
+    "wfo_full": "Chrysanthemum tatsienense Bureau & Franch.",
+    "wfo_authority": "Bureau & Franch.",
+    "yaml_authority": "Bureau & Franch.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Asterales/Asteraceae/Asteroideae/Anthemideae/Tanacetum/tatsienense$Chrysanthemum/tatsienense"
+  },
+  {
+    "id": "cinnamomum_cassia",
+    "binomial": "Cinnamomum cassia",
+    "status": "ambiguous",
+    "yaml_authority": "(L.) J.Presl",
+    "candidates": [
+      {
+        "wfo_id": "wfo-0000604975",
+        "full_name_plain": "Cinnamomum cassia (L.) J.Presl",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Laurales/Lauraceae/Neolitsea/cassia$Cinnamomum/cassia"
+      },
+      {
+        "wfo_id": "wfo-0000604976",
+        "full_name_plain": "Cinnamomum cassia Siebold",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Laurales/Lauraceae/Cinnamomum/burmanni$Cinnamomum/cassia"
+      },
+      {
+        "wfo_id": "wfo-0001243662",
+        "full_name_plain": "Cinnamomum cassia Nees ex Blume",
+        "placement": ""
+      },
+      {
+        "wfo_id": "wfo-0001285954",
+        "full_name_plain": "Cinnamomum cassia (L.) D.Don",
+        "placement": ""
+      }
+    ]
+  },
+  {
+    "id": "cinnamomum_tamala",
+    "binomial": "Cinnamomum tamala",
+    "status": "matched",
+    "wfo_id": "wfo-0000605467",
+    "wfo_full": "Cinnamomum tamala (Buch.-Ham.) T.Nees & C.H.Eberm.",
+    "wfo_authority": "(Buch.-Ham.) T.Nees & C.H.Eberm.",
+    "yaml_authority": "(Buch.-Ham.) T.Nees & Eberm.",
+    "authority_agrees": false,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Laurales/Lauraceae/Cinnamomum/tamala"
+  },
+  {
+    "id": "codonopsis_pilosula",
+    "binomial": "Codonopsis pilosula",
+    "status": "matched",
+    "wfo_id": "wfo-0000830580",
+    "wfo_full": "Codonopsis pilosula (Franch.) Nannf.",
+    "wfo_authority": "(Franch.) Nannf.",
+    "yaml_authority": "(Franch.) Nannf.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Asterales/Campanulaceae/Codonopsis/pilosula"
+  },
+  {
+    "id": "commiphora_wightii",
+    "binomial": "Commiphora wightii",
+    "status": "matched",
+    "wfo_id": "wfo-0000617524",
+    "wfo_full": "Commiphora wightii (Arn.) Bhandari",
+    "wfo_authority": "(Arn.) Bhandari",
+    "yaml_authority": "(Arn.) Bhandari",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Sapindales/Burseraceae/Commiphora/wightii"
+  },
+  {
+    "id": "cordyceps_sinensis",
+    "binomial": "Ophiocordyceps sinensis",
+    "status": "ambiguous",
+    "yaml_authority": "(Berk.) G.H.Sung",
+    "candidates": [
+      {
+        "wfo_id": "wfo-4000026935",
+        "full_name_plain": "Ophiocolea H.Perrier",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Lamiales/Bignoniaceae/Colea$Ophiocolea"
+      },
+      {
+        "wfo_id": "wfo-0000922155",
+        "full_name_plain": "Ophiocolea ambrensis Callm. & Phillipson",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Lamiales/Bignoniaceae/Colea/ambrensis$Ophiocolea/ambrensis"
+      },
+      {
+        "wfo_id": "wfo-0000779193",
+        "full_name_plain": "Ophiocolea comorensis H.Perrier",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Lamiales/Bignoniaceae/Colea/comorensis$Ophiocolea/comorensis"
+      },
+      {
+        "wfo_id": "wfo-0000922150",
+        "full_name_plain": "Ophiocolea darainensis Callm., Phillipson & Nusb.",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Lamiales/Bignoniaceae/Colea/darainensis$Ophiocolea/darainensis"
+      },
+      {
+        "wfo_id": "wfo-0000779185",
+        "full_name_plain": "Ophiocolea decaryi H.Perrier",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Lamiales/Bignoniaceae/Colea/decaryi$Ophiocolea/decaryi"
+      }
+    ]
+  },
+  {
+    "id": "corydalis_hendersonii",
+    "binomial": "Corydalis hendersonii",
+    "status": "ambiguous",
+    "yaml_authority": "Hemsl.",
+    "candidates": [
+      {
+        "wfo_id": "wfo-0000622428",
+        "full_name_plain": "Corydalis hendersonii Hemsl.",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Ranunculales/Papaveraceae/Fumarioideae/Fumarieae/Corydalis/hendersonii"
+      },
+      {
+        "wfo_id": "wfo-0000622429",
+        "full_name_plain": "Corydalis hendersonii Fedde",
+        "placement": ""
+      }
+    ]
+  },
+  {
+    "id": "corydalis_impatiens",
+    "binomial": "Corydalis impatiens",
+    "status": "matched",
+    "wfo_id": "wfo-0000622461",
+    "wfo_full": "Corydalis impatiens (Pall.) Fisch. ex DC.",
+    "wfo_authority": "(Pall.) Fisch. ex DC.",
+    "yaml_authority": "(Pall.) Fisch.",
+    "authority_agrees": false,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Ranunculales/Papaveraceae/Fumarioideae/Fumarieae/Corydalis/impatiens"
+  },
+  {
+    "id": "cremanthodium_ellisii",
+    "binomial": "Cremanthodium ellisii",
+    "status": "ambiguous",
+    "yaml_authority": "(Hook.f.) Kitam.",
+    "candidates": [
+      {
+        "wfo_id": "wfo-0000122033",
+        "full_name_plain": "Cremanthodium ellisii (Hook.f.) Seybold & Kull",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Asterales/Asteraceae/Asteroideae/Senecioneae/Cremanthodium/ellisii$Cremanthodium/ellisii"
+      },
+      {
+        "wfo_id": "wfo-0000059773",
+        "full_name_plain": "Cremanthodium ellisii (Hook.f.) Kitam.",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Asterales/Asteraceae/Asteroideae/Senecioneae/Cremanthodium/ellisii"
+      },
+      {
+        "wfo_id": "wfo-0000059806",
+        "full_name_plain": "Cremanthodium ellisii (Hook.f.) Seybold & Kull",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Asterales/Asteraceae/Asteroideae/Senecioneae/Cremanthodium/ellisii$Cremanthodium/ellisii"
+      }
+    ]
+  },
+  {
+    "id": "crocus_sativus",
+    "binomial": "Crocus sativus",
+    "status": "matched",
+    "wfo_id": "wfo-0000788844",
+    "wfo_full": "Crocus sativus L.",
+    "wfo_authority": "L.",
+    "yaml_authority": "L.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Asparagales/Iridaceae/Crocus/sativus"
+  },
+  {
+    "id": "curcuma_longa",
+    "binomial": "Curcuma longa",
+    "status": "matched",
+    "wfo_id": "wfo-0000365771",
+    "wfo_full": "Curcuma longa L.",
+    "wfo_authority": "L.",
+    "yaml_authority": "L.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Zingiberales/Zingiberaceae/Zingiberoideae/Zingibereae/Curcuma/longa"
+  },
+  {
+    "id": "cypripedium_tibeticum",
+    "binomial": "Cypripedium tibeticum",
+    "status": "matched",
+    "wfo_id": "wfo-0000935704",
+    "wfo_full": "Cypripedium tibeticum King ex Rolfe",
+    "wfo_authority": "King ex Rolfe",
+    "yaml_authority": "King ex Rolfe",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Asparagales/Orchidaceae/Cypripedioideae/Cypripedium/tibeticum"
+  },
+  {
+    "id": "dactylorhiza_hatagirea",
+    "binomial": "Dactylorhiza hatagirea",
+    "status": "matched",
+    "wfo_id": "wfo-0000936626",
+    "wfo_full": "Dactylorhiza hatagirea (D.Don) Soó",
+    "wfo_authority": "(D.Don) Soó",
+    "yaml_authority": "(D.Don) Soó",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Asparagales/Orchidaceae/Epidendroideae/Neottieae/Orchidinae/Dactylorhiza/hatagirea"
+  },
+  {
+    "id": "datura_metel",
+    "binomial": "Datura metel",
+    "status": "ambiguous",
+    "yaml_authority": "L.",
+    "candidates": [
+      {
+        "wfo_id": "wfo-0001021337",
+        "full_name_plain": "Datura metel Mill.",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Solanales/Solanaceae/Solanoideae/Datureae/Datura/metel$Datura/metel"
+      },
+      {
+        "wfo_id": "wfo-0001021338",
+        "full_name_plain": "Datura metel Moc. & Sessé ex Dunal",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Solanales/Solanaceae/Solanoideae/Datureae/Datura/innoxia$Datura/metel"
+      },
+      {
+        "wfo_id": "wfo-0001021339",
+        "full_name_plain": "Datura metel L.",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Solanales/Solanaceae/Solanoideae/Datureae/Datura/metel"
+      }
+    ]
+  },
+  {
+    "id": "delphinium_brunonianum",
+    "binomial": "Delphinium brunonianum",
+    "status": "matched",
+    "wfo_id": "wfo-0000639809",
+    "wfo_full": "Delphinium brunonianum Royle",
+    "wfo_authority": "Royle",
+    "yaml_authority": "Royle",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Ranunculales/Ranunculaceae/Delphinium/brunonianum"
+  },
+  {
+    "id": "dracocephalum_tanguticum",
+    "binomial": "Dracocephalum tanguticum",
+    "status": "matched",
+    "wfo_id": "wfo-0000945484",
+    "wfo_full": "Dracocephalum tanguticum Maxim.",
+    "wfo_authority": "Maxim.",
+    "yaml_authority": "Maxim.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Lamiales/Lamiaceae/Dracocephalum/tanguticum"
+  },
+  {
+    "id": "elettaria_cardamomum",
+    "binomial": "Elettaria cardamomum",
+    "status": "matched",
+    "wfo_id": "wfo-0000406508",
+    "wfo_full": "Elettaria cardamomum (L.) Maton",
+    "wfo_authority": "(L.) Maton",
+    "yaml_authority": "(L.) Maton",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Zingiberales/Zingiberaceae/Alpinioideae/Alpinieae/Elettaria/cardamomum"
+  },
+  {
+    "id": "embelia_ribes",
+    "binomial": "Embelia ribes",
+    "status": "matched",
+    "wfo_id": "wfo-0000666970",
+    "wfo_full": "Embelia ribes Burm.f.",
+    "wfo_authority": "Burm.f.",
+    "yaml_authority": "Burm.f.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Ericales/Primulaceae/Embelia/ribes"
+  },
+  {
+    "id": "emblica_officinalis_syn",
+    "binomial": "Phyllanthus urinaria",
+    "status": "matched",
+    "wfo_id": "wfo-0000272302",
+    "wfo_full": "Phyllanthus urinaria L.",
+    "wfo_authority": "L.",
+    "yaml_authority": "L.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Malpighiales/Phyllanthaceae/Phyllanthus/urinaria"
+  },
+  {
+    "id": "ephedra_sinica",
+    "binomial": "Ephedra sinica",
+    "status": "matched",
+    "wfo_id": "wfo-0000794481",
+    "wfo_full": "Ephedra sinica Stapf",
+    "wfo_authority": "Stapf",
+    "yaml_authority": "Stapf",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Pinophyta/Pinopsida/Gnetidae/Ephedrales/Ephedraceae/Ephedra/sinica"
+  },
+  {
+    "id": "ferula_assafoetida",
+    "binomial": "Ferula assa-foetida",
+    "status": "matched",
+    "wfo_id": "wfo-0000686458",
+    "wfo_full": "Ferula assa-foetida L.",
+    "wfo_authority": "L.",
+    "yaml_authority": "L.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Apiales/Apiaceae/Ferula/assa-foetida"
+  },
+  {
+    "id": "fritillaria_cirrhosa",
+    "binomial": "Fritillaria cirrhosa",
+    "status": "matched",
+    "wfo_id": "wfo-0000767733",
+    "wfo_full": "Fritillaria cirrhosa D.Don",
+    "wfo_authority": "D.Don",
+    "yaml_authority": "D.Don",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Liliales/Liliaceae/Fritillaria/cirrhosa"
+  },
+  {
+    "id": "ganoderma_lucidum",
+    "binomial": "Ganoderma lucidum",
+    "status": "ambiguous",
+    "yaml_authority": "(Curtis) P.Karst.",
+    "candidates": [
+      {
+        "wfo_id": "wfo-4000015299",
+        "full_name_plain": "Ganophyllum Blume",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Sapindales/Sapindaceae/Dodonaeoideae/Ganophyllum"
+      },
+      {
+        "wfo_id": "wfo-0000694101",
+        "full_name_plain": "Ganophyllum africanum Mildbr.",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Sapindales/Sapindaceae/Dodonaeoideae/Ganophyllum/giganteum$Ganophyllum/africanum"
+      },
+      {
+        "wfo_id": "wfo-0000694102",
+        "full_name_plain": "Ganophyllum falcatum Blume",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Sapindales/Sapindaceae/Dodonaeoideae/Ganophyllum/falcatum"
+      },
+      {
+        "wfo_id": "wfo-0000694103",
+        "full_name_plain": "Ganophyllum giganteum (A.Chev.) Hauman",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Sapindales/Sapindaceae/Dodonaeoideae/Ganophyllum/giganteum"
+      },
+      {
+        "wfo_id": "wfo-0000694104",
+        "full_name_plain": "Ganophyllum obliquum (Blanco) Merr.",
+        "placement": ""
+      }
+    ]
+  },
+  {
+    "id": "gentiana_macrophylla",
+    "binomial": "Gentiana macrophylla",
+    "status": "ambiguous",
+    "yaml_authority": "Pall.",
+    "candidates": [
+      {
+        "wfo_id": "wfo-0000697942",
+        "full_name_plain": "Gentiana macrophylla Pall.",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Gentianales/Gentianaceae/Gentiana/macrophylla"
+      },
+      {
+        "wfo_id": "wfo-0000697943",
+        "full_name_plain": "Gentiana macrophylla Bertol.",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Gentianales/Gentianaceae/Gentiana/burseri/villarsii$Gentiana/macrophylla"
+      }
+    ]
+  },
+  {
+    "id": "gentiana_straminea",
+    "binomial": "Gentiana straminea",
+    "status": "matched",
+    "wfo_id": "wfo-0000698715",
+    "wfo_full": "Gentiana straminea Maxim.",
+    "wfo_authority": "Maxim.",
+    "yaml_authority": "Maxim.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Gentianales/Gentianaceae/Gentiana/straminea"
+  },
+  {
+    "id": "glycyrrhiza_glabra",
+    "binomial": "Glycyrrhiza glabra",
+    "status": "matched",
+    "wfo_id": "wfo-0000212813",
+    "wfo_full": "Glycyrrhiza glabra L.",
+    "wfo_authority": "L.",
+    "yaml_authority": "L.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Fabales/Fabaceae/Papilionoideae/Glycyrrhiza/glabra"
+  },
+  {
+    "id": "glycyrrhiza_uralensis",
+    "binomial": "Glycyrrhiza uralensis",
+    "status": "ambiguous",
+    "yaml_authority": "Fisch.",
+    "candidates": [
+      {
+        "wfo_id": "wfo-0000186028",
+        "full_name_plain": "Glycyrrhiza uralensis Fisch.",
+        "placement": ""
+      },
+      {
+        "wfo_id": "wfo-0001053609",
+        "full_name_plain": "Glycyrrhiza uralensis Fisch. ex DC.",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Fabales/Fabaceae/Papilionoideae/Glycyrrhiza/uralensis"
+      }
+    ]
+  },
+  {
+    "id": "gymnadenia_crassinervis",
+    "binomial": "Gymnadenia crassinervis",
+    "status": "matched",
+    "wfo_id": "wfo-0000976572",
+    "wfo_full": "Gymnadenia crassinervis Finet",
+    "wfo_authority": "Finet",
+    "yaml_authority": "Finet",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Asparagales/Orchidaceae/Epidendroideae/Neottieae/Orchidinae/Gymnadenia/crassinervis"
+  },
+  {
+    "id": "hippolytia_longifolia",
+    "binomial": "Hippolytia longifolia",
+    "status": "matched",
+    "wfo_id": "wfo-0000045081",
+    "wfo_full": "Hippolytia longifolia (Wall. ex DC.) C.Shih",
+    "wfo_authority": "(Wall. ex DC.) C.Shih",
+    "yaml_authority": "(C.B.Clarke) K.Bremer & Humphries",
+    "authority_agrees": false,
+    "placement": ""
+  },
+  {
+    "id": "hippophae_rhamnoides",
+    "binomial": "Hippophae rhamnoides",
+    "status": "matched",
+    "wfo_id": "wfo-0000723743",
+    "wfo_full": "Hippophae rhamnoides L.",
+    "wfo_authority": "L.",
+    "yaml_authority": "L.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Rosales/Elaeagnaceae/Hippophae/rhamnoides"
+  },
+  {
+    "id": "hyoscyamus_niger",
+    "binomial": "Hyoscyamus niger",
+    "status": "matched",
+    "wfo_id": "wfo-0001021850",
+    "wfo_full": "Hyoscyamus niger L.",
+    "wfo_authority": "L.",
+    "yaml_authority": "L.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Solanales/Solanaceae/Solanoideae/Hyoscyameae/Hyoscyamus/niger"
+  },
+  {
+    "id": "inula_racemosa",
+    "binomial": "Inula racemosa",
+    "status": "matched",
+    "wfo_id": "wfo-0000036444",
+    "wfo_full": "Inula racemosa Hook.f.",
+    "wfo_authority": "Hook.f.",
+    "yaml_authority": "Hook.f.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Asterales/Asteraceae/Asteroideae/Inuleae/Inula/racemosa"
+  },
+  {
+    "id": "juniperus_squamata",
+    "binomial": "Juniperus squamata",
+    "status": "matched",
+    "wfo_id": "wfo-0000354918",
+    "wfo_full": "Juniperus squamata Buch.-Ham. ex D.Don",
+    "wfo_authority": "Buch.-Ham. ex D.Don",
+    "yaml_authority": "Buch.-Ham. ex D.Don",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Pinophyta/Pinopsida/Cupressidae/Cupressales/Cupressaceae/Juniperus/squamata"
+  },
+  {
+    "id": "juniperus_tibetica",
+    "binomial": "Juniperus tibetica",
+    "status": "matched",
+    "wfo_id": "wfo-0000353679",
+    "wfo_full": "Juniperus tibetica Kom.",
+    "wfo_authority": "Kom.",
+    "yaml_authority": "Kom.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Pinophyta/Pinopsida/Cupressidae/Cupressales/Cupressaceae/Juniperus/tibetica"
+  },
+  {
+    "id": "lamiophlomis_rotata",
+    "binomial": "Lamiophlomis rotata",
+    "status": "matched",
+    "wfo_id": "wfo-0000222416",
+    "wfo_full": "Lamiophlomis rotata (Benth. ex Hook.f.) Kudô",
+    "wfo_authority": "(Benth. ex Hook.f.) Kudô",
+    "yaml_authority": "(Benth. ex Hook.f.) Kudô",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Lamiales/Lamiaceae/Phlomoides/rotata$Lamiophlomis/rotata"
+  },
+  {
+    "id": "leontopodium_nanum",
+    "binomial": "Leontopodium nanum",
+    "status": "matched",
+    "wfo_id": "wfo-0000066559",
+    "wfo_full": "Leontopodium nanum (Hook.f. & Thomson ex C.B.Clarke) Hand.-Mazz.",
+    "wfo_authority": "(Hook.f. & Thomson ex C.B.Clarke) Hand.-Mazz.",
+    "yaml_authority": "(Hook.f. & Thomson) Hand.-Mazz.",
+    "authority_agrees": false,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Asterales/Asteraceae/Asteroideae/Gnaphalieae/Leontopodium/nanum"
+  },
+  {
+    "id": "meconopsis_horridula",
+    "binomial": "Meconopsis horridula",
+    "status": "matched",
+    "wfo_id": "wfo-0001242141",
+    "wfo_full": "Meconopsis horridula Hook.f. & Thomson",
+    "wfo_authority": "Hook.f. & Thomson",
+    "yaml_authority": "Hook.f. & Thomson",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Ranunculales/Papaveraceae/Papaveroideae/Papavereae/Meconopsis/Aculeatae/horridula"
+  },
+  {
+    "id": "meconopsis_integrifolia",
+    "binomial": "Meconopsis integrifolia",
+    "status": "matched",
+    "wfo_id": "wfo-0001242170",
+    "wfo_full": "Meconopsis integrifolia (Maxim.) Franch.",
+    "wfo_authority": "(Maxim.) Franch.",
+    "yaml_authority": "(Maxim.) Franch.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Ranunculales/Papaveraceae/Papaveroideae/Papavereae/Meconopsis/Grandes/integrifolia"
+  },
+  {
+    "id": "morina_kokonorica",
+    "binomial": "Morina kokonorica",
+    "status": "matched",
+    "wfo_id": "wfo-0001225158",
+    "wfo_full": "Morina kokonorica K.S.Hao",
+    "wfo_authority": "K.S.Hao",
+    "yaml_authority": "Hao",
+    "authority_agrees": false,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Dipsacales/Caprifoliaceae/Morina/kokonorica"
+  },
+  {
+    "id": "mucuna_pruriens",
+    "binomial": "Mucuna pruriens",
+    "status": "matched",
+    "wfo_id": "wfo-0000182545",
+    "wfo_full": "Mucuna pruriens (L.) DC.",
+    "wfo_authority": "(L.) DC.",
+    "yaml_authority": "(L.) DC.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Fabales/Fabaceae/Papilionoideae/Mucuna/pruriens"
+  },
+  {
+    "id": "myristica_fragrans",
+    "binomial": "Myristica fragrans",
+    "status": "matched",
+    "wfo_id": "wfo-0000447317",
+    "wfo_full": "Myristica fragrans Houtt.",
+    "wfo_authority": "Houtt.",
+    "yaml_authority": "Houtt.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Magnoliales/Myristicaceae/Myristica/fragrans"
+  },
+  {
+    "id": "nardostachys_jatamansi",
+    "binomial": "Nardostachys jatamansi",
+    "status": "matched",
+    "wfo_id": "wfo-0000381007",
+    "wfo_full": "Nardostachys jatamansi (D.Don) DC.",
+    "wfo_authority": "(D.Don) DC.",
+    "yaml_authority": "(D.Don) DC.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Dipsacales/Caprifoliaceae/Nardostachys/jatamansi"
+  },
+  {
+    "id": "ocimum_tenuiflorum",
+    "binomial": "Ocimum tenuiflorum",
+    "status": "ambiguous",
+    "yaml_authority": "L.",
+    "candidates": [
+      {
+        "wfo_id": "wfo-0000253537",
+        "full_name_plain": "Ocimum tenuiflorum L.",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Lamiales/Lamiaceae/Ocimum/tenuiflorum"
+      },
+      {
+        "wfo_id": "wfo-0001070119",
+        "full_name_plain": "Ocimum tenuiflorum Burm.f.",
+        "placement": ""
+      }
+    ]
+  },
+  {
+    "id": "onosma_hookeri",
+    "binomial": "Onosma hookeri",
+    "status": "matched",
+    "wfo_id": "wfo-0001216076",
+    "wfo_full": "Onosma hookeri C.B.Clarke",
+    "wfo_authority": "C.B.Clarke",
+    "yaml_authority": "C.B.Clarke",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Boraginales/Boraginaceae/Boraginoideae/Lithospermeae/Onosma/hookeri"
+  },
+  {
+    "id": "oxyria_digyna",
+    "binomial": "Oxyria digyna",
+    "status": "matched",
+    "wfo_id": "wfo-0000388320",
+    "wfo_full": "Oxyria digyna (L.) Hill",
+    "wfo_authority": "(L.) Hill",
+    "yaml_authority": "(L.) Hill",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Caryophyllales/Polygonaceae/Oxyria/digyna"
+  },
+  {
+    "id": "oxytropis_falcata",
+    "binomial": "Oxytropis falcata",
+    "status": "ambiguous",
+    "yaml_authority": "Bunge",
+    "candidates": [
+      {
+        "wfo_id": "wfo-0000171046",
+        "full_name_plain": "Oxytropis falcata (Greene) A.Nelson",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Fabales/Fabaceae/Papilionoideae/Oxytropis/lambertii/lambertii$Oxytropis/falcata"
+      },
+      {
+        "wfo_id": "wfo-0000198975",
+        "full_name_plain": "Oxytropis falcata Bunge",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Fabales/Fabaceae/Papilionoideae/Oxytropis/falcata"
+      }
+    ]
+  },
+  {
+    "id": "oxytropis_microphylla",
+    "binomial": "Oxytropis microphylla",
+    "status": "matched",
+    "wfo_id": "wfo-0000198951",
+    "wfo_full": "Oxytropis microphylla (Pall.) DC.",
+    "wfo_authority": "(Pall.) DC.",
+    "yaml_authority": "(Pall.) DC.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Fabales/Fabaceae/Papilionoideae/Oxytropis/microphylla"
+  },
+  {
+    "id": "pedicularis_longiflora",
+    "binomial": "Pedicularis longiflora",
+    "status": "matched",
+    "wfo_id": "wfo-0000471027",
+    "wfo_full": "Pedicularis longiflora Rudolph",
+    "wfo_authority": "Rudolph",
+    "yaml_authority": "Rudolph",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Lamiales/Orobanchaceae/Pedicularis/longiflora"
+  },
+  {
+    "id": "pedicularis_oederi",
+    "binomial": "Pedicularis oederi",
+    "status": "matched",
+    "wfo_id": "wfo-0000470824",
+    "wfo_full": "Pedicularis oederi Vahl",
+    "wfo_authority": "Vahl",
+    "yaml_authority": "Vahl",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Lamiales/Orobanchaceae/Pedicularis/oederi"
+  },
+  {
+    "id": "phyllanthus_emblica",
+    "binomial": "Phyllanthus emblica",
+    "status": "matched",
+    "wfo_id": "wfo-0000270932",
+    "wfo_full": "Phyllanthus emblica L.",
+    "wfo_authority": "L.",
+    "yaml_authority": "L.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Malpighiales/Phyllanthaceae/Phyllanthus/emblica"
+  },
+  {
+    "id": "picrorhiza_kurroa",
+    "binomial": "Picrorhiza kurroa",
+    "status": "matched",
+    "wfo_id": "wfo-0000474863",
+    "wfo_full": "Picrorhiza kurroa Royle ex Benth.",
+    "wfo_authority": "Royle ex Benth.",
+    "yaml_authority": "Royle ex Benth.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Lamiales/Plantaginaceae/Picrorhiza/kurroa"
+  },
+  {
+    "id": "piper_longum",
+    "binomial": "Piper longum",
+    "status": "matched",
+    "wfo_id": "wfo-0000486013",
+    "wfo_full": "Piper longum L.",
+    "wfo_authority": "L.",
+    "yaml_authority": "L.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Piperales/Piperaceae/Piper/longum"
+  },
+  {
+    "id": "piper_nigrum",
+    "binomial": "Piper nigrum",
+    "status": "matched",
+    "wfo_id": "wfo-0000486494",
+    "wfo_full": "Piper nigrum L.",
+    "wfo_authority": "L.",
+    "yaml_authority": "L.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Piperales/Piperaceae/Piper/nigrum"
+  },
+  {
+    "id": "plantago_depressa",
+    "binomial": "Plantago depressa",
+    "status": "matched",
+    "wfo_id": "wfo-0000486802",
+    "wfo_full": "Plantago depressa Willd.",
+    "wfo_authority": "Willd.",
+    "yaml_authority": "Willd.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Lamiales/Plantaginaceae/Plantago/depressa"
+  },
+  {
+    "id": "polygonatum_cirrhifolium",
+    "binomial": "Polygonatum cirrhifolium",
+    "status": "matched",
+    "wfo_id": "wfo-0000716172",
+    "wfo_full": "Polygonatum cirrhifolium (Wall.) Royle",
+    "wfo_authority": "(Wall.) Royle",
+    "yaml_authority": "(Wall.) Royle",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Asparagales/Asparagaceae/Nolinoideae/Polygonatum/cirrhifolium"
+  },
+  {
+    "id": "polygonum_viviparum",
+    "binomial": "Bistorta vivipara",
+    "status": "ambiguous",
+    "yaml_authority": "(L.) Delarbre",
+    "candidates": [
+      {
+        "wfo_id": "wfo-0000566203",
+        "full_name_plain": "Bistorta vivipara (L.) Delarbre",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Caryophyllales/Polygonaceae/Persicaria/vivipara$Bistorta/vivipara"
+      },
+      {
+        "wfo_id": "wfo-0001280183",
+        "full_name_plain": "Bistorta vivipara (L.) Gray",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Caryophyllales/Polygonaceae/Persicaria/vivipara$Bistorta/vivipara"
+      }
+    ]
+  },
+  {
+    "id": "primula_sikkimensis",
+    "binomial": "Primula sikkimensis",
+    "status": "matched",
+    "wfo_id": "wfo-0001105485",
+    "wfo_full": "Primula sikkimensis Hook.",
+    "wfo_authority": "Hook.",
+    "yaml_authority": "Hook.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Ericales/Primulaceae/Primula/sikkimensis"
+  },
+  {
+    "id": "przewalskia_tangutica",
+    "binomial": "Przewalskia tangutica",
+    "status": "matched",
+    "wfo_id": "wfo-0001025147",
+    "wfo_full": "Przewalskia tangutica Maxim.",
+    "wfo_authority": "Maxim.",
+    "yaml_authority": "Maxim.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Solanales/Solanaceae/Solanoideae/Hyoscyameae/Przewalskia/tangutica"
+  },
+  {
+    "id": "pterocarpus_santalinus",
+    "binomial": "Pterocarpus santalinus",
+    "status": "ambiguous",
+    "yaml_authority": "L.f.",
+    "candidates": [
+      {
+        "wfo_id": "wfo-0000185973",
+        "full_name_plain": "Pterocarpus santalinus L.f.",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Fabales/Fabaceae/Papilionoideae/Pterocarpus/santalinus"
+      },
+      {
+        "wfo_id": "wfo-1200021856",
+        "full_name_plain": "Pterocarpus santalinus Buch.-Ham. ex Wall.",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Fabales/Fabaceae/Papilionoideae/Pterocarpus/marsupium/marsupium$Pterocarpus/santalinus"
+      },
+      {
+        "wfo_id": "wfo-1200021857",
+        "full_name_plain": "Pterocarpus santalinus Blanco",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Fabales/Fabaceae/Papilionoideae/Pterocarpus/indicus$Pterocarpus/santalinus"
+      }
+    ]
+  },
+  {
+    "id": "pterocephalus_hookeri",
+    "binomial": "Pterocephalus hookeri",
+    "status": "matched",
+    "wfo_id": "wfo-0000396608",
+    "wfo_full": "Pterocephalus hookeri (C.B.Clarke) E.Pritz.",
+    "wfo_authority": "(C.B.Clarke) E.Pritz.",
+    "yaml_authority": "(C.B.Clarke) Höck",
+    "authority_agrees": false,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Dipsacales/Caprifoliaceae/Pterocephalus/hookeri"
+  },
+  {
+    "id": "ranunculus_tanguticus",
+    "binomial": "Ranunculus tanguticus",
+    "status": "matched",
+    "wfo_id": "wfo-0001130366",
+    "wfo_full": "Ranunculus tanguticus (Finet & Gagnep.) K.S.Hao",
+    "wfo_authority": "(Finet & Gagnep.) K.S.Hao",
+    "yaml_authority": "(Maxim.) Ovcz.",
+    "authority_agrees": false,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Ranunculales/Ranunculaceae/Ranunculus/brotherusii/tanguticus$Ranunculus/tanguticus"
+  },
+  {
+    "id": "rheum_palmatum",
+    "binomial": "Rheum palmatum",
+    "status": "matched",
+    "wfo_id": "wfo-0000404474",
+    "wfo_full": "Rheum palmatum L.",
+    "wfo_authority": "L.",
+    "yaml_authority": "L.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Caryophyllales/Polygonaceae/Rheum/palmatum"
+  },
+  {
+    "id": "rheum_tanguticum",
+    "binomial": "Rheum tanguticum",
+    "status": "matched",
+    "wfo_id": "wfo-0000403594",
+    "wfo_full": "Rheum tanguticum Maxim. ex Balf.",
+    "wfo_authority": "Maxim. ex Balf.",
+    "yaml_authority": "Maxim. ex Balf.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Caryophyllales/Polygonaceae/Rheum/tanguticum"
+  },
+  {
+    "id": "rhodiola_crenulata",
+    "binomial": "Rhodiola crenulata",
+    "status": "matched",
+    "wfo_id": "wfo-0000399351",
+    "wfo_full": "Rhodiola crenulata (Hook.f. & Thomson) H.Ohba",
+    "wfo_authority": "(Hook.f. & Thomson) H.Ohba",
+    "yaml_authority": "(Hook.f. & Thomson) H.Ohba",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Saxifragales/Crassulaceae/Rhodiola/crenulata"
+  },
+  {
+    "id": "rhododendron_anthopogon",
+    "binomial": "Rhododendron anthopogon",
+    "status": "ambiguous",
+    "yaml_authority": "D.Don",
+    "candidates": [
+      {
+        "wfo_id": "wfo-0001230899",
+        "full_name_plain": "Rhododendron anthopogon D.Don",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Ericales/Ericaceae/Ericoideae/Rhododendron/Rhododendron/Pogonanthum/anthopogon"
+      },
+      {
+        "wfo_id": "wfo-1000040533",
+        "full_name_plain": "Rhododendron anthopogon Wall.",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Ericales/Ericaceae/Ericoideae/Rhododendron/Rhododendron/Rhododendron/Lapponica/setosum$Rhododendron/anthopogon"
+      }
+    ]
+  },
+  {
+    "id": "rhododendron_setosum",
+    "binomial": "Rhododendron setosum",
+    "status": "matched",
+    "wfo_id": "wfo-0001048259",
+    "wfo_full": "Rhododendron setosum D.Don",
+    "wfo_authority": "D.Don",
+    "yaml_authority": "D.Don",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Ericales/Ericaceae/Ericoideae/Rhododendron/Rhododendron/Rhododendron/Lapponica/setosum"
+  },
+  {
+    "id": "rubia_cordifolia",
+    "binomial": "Rubia cordifolia",
+    "status": "matched",
+    "wfo_id": "wfo-0000298429",
+    "wfo_full": "Rubia cordifolia L.",
+    "wfo_authority": "L.",
+    "yaml_authority": "L.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Gentianales/Rubiaceae/Rubioideae/Rubieae/Rubia/cordifolia"
+  },
+  {
+    "id": "rumex_nepalensis",
+    "binomial": "Rumex nepalensis",
+    "status": "matched",
+    "wfo_id": "wfo-0000403958",
+    "wfo_full": "Rumex nepalensis Spreng.",
+    "wfo_authority": "Spreng.",
+    "yaml_authority": "Spreng.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Caryophyllales/Polygonaceae/Rumex/nepalensis"
+  },
+  {
+    "id": "santalum_album",
+    "binomial": "Santalum album",
+    "status": "matched",
+    "wfo_id": "wfo-0000492946",
+    "wfo_full": "Santalum album L.",
+    "wfo_authority": "L.",
+    "yaml_authority": "L.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Santalales/Santalaceae/Santalum/album"
+  },
+  {
+    "id": "saussurea_involucrata",
+    "binomial": "Saussurea involucrata",
+    "status": "ambiguous",
+    "yaml_authority": "(Kar. & Kir.) Sch.Bip.",
+    "candidates": [
+      {
+        "wfo_id": "wfo-0000065601",
+        "full_name_plain": "Saussurea involucrata (Kar. & Kir.) Maxim.",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Asterales/Asteraceae/Carduoideae/Cardueae/Saussureinae/Saussurea/involucrata$Saussurea/involucrata"
+      },
+      {
+        "wfo_id": "wfo-0000115801",
+        "full_name_plain": "Saussurea involucrata Kar. & Kir.",
+        "placement": ""
+      },
+      {
+        "wfo_id": "wfo-0000116367",
+        "full_name_plain": "Saussurea involucrata Matsum. & Koidzum.",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Asterales/Asteraceae/Carduoideae/Cardueae/Saussureinae/Saussurea/involucrata"
+      },
+      {
+        "wfo_id": "wfo-0000060768",
+        "full_name_plain": "Saussurea involucrata (Kar. & Kir.) Sch.Bip.",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Asterales/Asteraceae/Carduoideae/Cardueae/Saussureinae/Saussurea/involucrata"
+      }
+    ]
+  },
+  {
+    "id": "saussurea_medusa",
+    "binomial": "Saussurea medusa",
+    "status": "matched",
+    "wfo_id": "wfo-0000126822",
+    "wfo_full": "Saussurea medusa Maxim.",
+    "wfo_authority": "Maxim.",
+    "yaml_authority": "Maxim.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Asterales/Asteraceae/Carduoideae/Cardueae/Saussureinae/Saussurea/medusa"
+  },
+  {
+    "id": "sophora_moorcroftiana",
+    "binomial": "Sophora moorcroftiana",
+    "status": "ambiguous",
+    "yaml_authority": "(Benth.) Benth. ex Baker",
+    "candidates": [
+      {
+        "wfo_id": "wfo-0000185589",
+        "full_name_plain": "Sophora moorcroftiana (Benth.) Baker",
+        "placement": ""
+      },
+      {
+        "wfo_id": "wfo-0000197241",
+        "full_name_plain": "Sophora moorcroftiana auct.non Baker",
+        "placement": ""
+      },
+      {
+        "wfo_id": "wfo-0001060855",
+        "full_name_plain": "Sophora moorcroftiana (Benth.) Benth. ex Baker",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Fabales/Fabaceae/Papilionoideae/Sophora/moorcroftiana"
+      }
+    ]
+  },
+  {
+    "id": "soroseris_hookeriana",
+    "binomial": "Soroseris hookeriana",
+    "status": "matched",
+    "wfo_id": "wfo-0000030331",
+    "wfo_full": "Soroseris hookeriana Stebbins",
+    "wfo_authority": "Stebbins",
+    "yaml_authority": "(C.B.Clarke) Stebbins",
+    "authority_agrees": false,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Asterales/Asteraceae/Cichorioideae/Cichorieae/Crepidinae/Soroseris/hookeriana"
+  },
+  {
+    "id": "swertia_chirayita",
+    "binomial": "Swertia chirayita",
+    "status": "ambiguous",
+    "yaml_authority": "(Roxb.) H.Karst.",
+    "candidates": [
+      {
+        "wfo_id": "wfo-0000510413",
+        "full_name_plain": "Swertia chirayita (Roxb.) Buch.-Ham. ex C.B.Clarke",
+        "placement": ""
+      },
+      {
+        "wfo_id": "wfo-0001429252",
+        "full_name_plain": "Swertia chirayita (Roxb.) H.Karst.",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Gentianales/Gentianaceae/Swertia/chirayita"
+      }
+    ]
+  },
+  {
+    "id": "syzygium_aromaticum",
+    "binomial": "Syzygium aromaticum",
+    "status": "matched",
+    "wfo_id": "wfo-0000318267",
+    "wfo_full": "Syzygium aromaticum (L.) Merr. & L.M.Perry",
+    "wfo_authority": "(L.) Merr. & L.M.Perry",
+    "yaml_authority": "(L.) Merr. & L.M.Perry",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Myrtales/Myrtaceae/Myrtoideae/Syzygieae/Syzygium/Syzygium/aromaticum"
+  },
+  {
+    "id": "tanacetum_tomentosum",
+    "binomial": "Tanacetum tomentosum",
+    "status": "ambiguous",
+    "yaml_authority": "DC.",
+    "candidates": [
+      {
+        "wfo_id": "wfo-0000006237",
+        "full_name_plain": "Tanacetum tomentosum (Decne.) Muradyan",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Asterales/Asteraceae/Asteroideae/Anthemideae/Allardia/tomentosa$Tanacetum/tomentosum"
+      },
+      {
+        "wfo_id": "wfo-0000041947",
+        "full_name_plain": "Tanacetum tomentosum DC.",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Asterales/Asteraceae/Asteroideae/Anthemideae/Hippolytia/tomentosa$Tanacetum/tomentosum"
+      },
+      {
+        "wfo_id": "wfo-0000087654",
+        "full_name_plain": "Tanacetum tomentosum Regel & Herder",
+        "placement": ""
+      },
+      {
+        "wfo_id": "wfo-0000092133",
+        "full_name_plain": "Tanacetum tomentosum Siev.",
+        "placement": ""
+      }
+    ]
+  },
+  {
+    "id": "terminalia_bellirica",
+    "binomial": "Terminalia bellirica",
+    "status": "matched",
+    "wfo_id": "wfo-0001296467",
+    "wfo_full": "Terminalia bellirica (Gaertn.) Roxb.",
+    "wfo_authority": "(Gaertn.) Roxb.",
+    "yaml_authority": "(Gaertn.) Roxb.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Myrtales/Combretaceae/Combretoideae/Combreteae/Terminaliinae/Terminalia/bellirica"
+  },
+  {
+    "id": "terminalia_chebula",
+    "binomial": "Terminalia chebula",
+    "status": "matched",
+    "wfo_id": "wfo-0000406875",
+    "wfo_full": "Terminalia chebula Retz.",
+    "wfo_authority": "Retz.",
+    "yaml_authority": "Retz.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Myrtales/Combretaceae/Combretoideae/Combreteae/Terminaliinae/Terminalia/chebula"
+  },
+  {
+    "id": "tinospora_sinensis",
+    "binomial": "Tinospora sinensis",
+    "status": "matched",
+    "wfo_id": "wfo-0001083980",
+    "wfo_full": "Tinospora sinensis (Lour.) Merr.",
+    "wfo_authority": "(Lour.) Merr.",
+    "yaml_authority": "(Lour.) Merr.",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Ranunculales/Menispermaceae/Tinospora/sinensis"
+  },
+  {
+    "id": "tribulus_terrestris",
+    "binomial": "Tribulus terrestris",
+    "status": "ambiguous",
+    "yaml_authority": "L.",
+    "candidates": [
+      {
+        "wfo_id": "wfo-0000457857",
+        "full_name_plain": "Tribulus terrestris L.",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Zygophyllales/Zygophyllaceae/Tribulus/terrestris"
+      },
+      {
+        "wfo_id": "wfo-1000050039",
+        "full_name_plain": "Tribulus terrestris Muhl.",
+        "placement": ""
+      }
+    ]
+  },
+  {
+    "id": "veronica_ciliata",
+    "binomial": "Veronica ciliata",
+    "status": "ambiguous",
+    "yaml_authority": "Fisch.",
+    "candidates": [
+      {
+        "wfo_id": "wfo-0000419569",
+        "full_name_plain": "Veronica ciliata Fisch.",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Lamiales/Plantaginaceae/Veronica/ciliata"
+      },
+      {
+        "wfo_id": "wfo-1200037187",
+        "full_name_plain": "Veronica ciliata Schloss. & Vuk.",
+        "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Lamiales/Plantaginaceae/Veronica/acinifolia$Veronica/ciliata"
+      }
+    ]
+  },
+  {
+    "id": "withania_somnifera",
+    "binomial": "Withania somnifera",
+    "status": "matched",
+    "wfo_id": "wfo-0001032779",
+    "wfo_full": "Withania somnifera (L.) Dunal",
+    "wfo_authority": "(L.) Dunal",
+    "yaml_authority": "(L.) Dunal",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Solanales/Solanaceae/Solanoideae/Physalideae/Withania/somnifera"
+  },
+  {
+    "id": "zingiber_officinale",
+    "binomial": "Zingiber officinale",
+    "status": "matched",
+    "wfo_id": "wfo-0000617397",
+    "wfo_full": "Zingiber officinale Roscoe",
+    "wfo_authority": "Roscoe",
+    "yaml_authority": "Roscoe",
+    "authority_agrees": true,
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Zingiberales/Zingiberaceae/Zingiberoideae/Zingibereae/Zingiber/Zingiber/officinale"
+  }
+]

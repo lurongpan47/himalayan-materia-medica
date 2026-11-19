@@ -1,0 +1,44 @@
+{
+  "id": "fritillaria_cirrhosa",
+  "binomial": "Fritillaria cirrhosa",
+  "source": "category",
+  "n_candidates": 3,
+  "candidates": [
+    {
+      "title": "File:Fritillaria cirrhosa (Sikkim, India) cropped & sharpened.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Fritillaria_cirrhosa_%28Sikkim%2C_India%29_cropped_%26_sharpened.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fritillaria_cirrhosa_(Sikkim,_India)_cropped_%26_sharpened.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Siddarth Machado",
+      "credit": "https://www.inaturalist.org/photos/61307073  \n This file was derived from:   Fritillaria cirrhosa (Sikkim, India).jpg",
+      "date": "2025-06-12 11:58:15",
+      "object_name": "Fritillaria cirrhosa (Sikkim, India) cropped & sharpened"
+    },
+    {
+      "title": "File:Fritillaria cirrhosa (Sikkim, India).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Fritillaria_cirrhosa_%28Sikkim%2C_India%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fritillaria_cirrhosa_(Sikkim,_India).jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Siddarth Machado",
+      "credit": "https://www.inaturalist.org/photos/61307073",
+      "date": "2024-11-27 20:14:46",
+      "object_name": "Fritillaria cirrhosa (Sikkim, India)"
+    },
+    {
+      "title": "File:Fritillaria cirrhosa granules.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Fritillaria_cirrhosa_granules.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fritillaria_cirrhosa_granules.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Fumikas Sagisavas",
+      "credit": "Own work",
+      "date": "2024-09-10 07:54:16",
+      "object_name": "Fritillaria cirrhosa granules"
+    }
+  ]
+}

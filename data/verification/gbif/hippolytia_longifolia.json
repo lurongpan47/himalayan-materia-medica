@@ -1,0 +1,31 @@
+{
+  "id": "hippolytia_longifolia",
+  "binomial": "Hippolytia longifolia",
+  "status": "matched",
+  "usageKey": 4235056,
+  "accepted_name": "Hippolytia longifolia (Rech.fil.) C.Shih",
+  "confidence": 99,
+  "matchType": "EXACT",
+  "total_occurrences": 321,
+  "countries_raw": {
+    "IN": 145,
+    "PK": 56,
+    "NP": 37,
+    "ZZ": 3,
+    "BT": 2
+  },
+  "himalayan_countries": {
+    "IN": 145,
+    "PK": 56,
+    "NP": 37,
+    "BT": 2
+  },
+  "elevation": {
+    "n": 86,
+    "min": 2591,
+    "max": 4900,
+    "p10": 3048,
+    "p90": 4150,
+    "median": 3658
+  }
+}

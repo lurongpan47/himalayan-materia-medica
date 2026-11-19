@@ -1,0 +1,51 @@
+{
+  "inputString": "Oxytropis falcata",
+  "searchString": "Oxytropis falcata",
+  "params": {
+    "checkHomonyms": false,
+    "checkRank": false,
+    "method": "full",
+    "acceptSingleCandidate": false,
+    "fuzzyNameParts": 0,
+    "fuzzyAuthors": 0,
+    "limit": 50,
+    "classificationVersion": "2026-06",
+    "year": null,
+    "rank": null,
+    "authors": null
+  },
+  "match": null,
+  "candidates": [
+    {
+      "wfo_id": "wfo-0000171046",
+      "full_name_plain": "Oxytropis falcata (Greene) A.Nelson",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Oxytropis</i> <i>falcata</i></span> <span class=\"wfo-name-authors\" >(Greene) A.Nelson</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Fabales/Fabaceae/Papilionoideae/Oxytropis/lambertii/lambertii$Oxytropis/falcata"
+    },
+    {
+      "wfo_id": "wfo-0000198975",
+      "full_name_plain": "Oxytropis falcata Bunge",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Oxytropis</i> <i>falcata</i></span> <span class=\"wfo-name-authors\" >Bunge</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Fabales/Fabaceae/Papilionoideae/Oxytropis/falcata"
+    }
+  ],
+  "error": false,
+  "errorMessage": null,
+  "parsedName": {
+    "rank": "species",
+    "canonical_form": "Oxytropis falcata",
+    "author_string": ""
+  },
+  "narrative": [
+    "The first word is always a name part word: 'Oxytropis'",
+    "Word is found in index and so is part of name: 'falcata'.",
+    "Word is lowercase. Subsequent words must start with lowercase: 'falcata'.",
+    "No authors string provided. Will match all authors strings.",
+    "Parsed name complete.",
+    "Rank estimated as 'species' from name parts.",
+    "Searched index of 2026-06 for canonical form of name 'Oxytropis falcata' and found 2 candidates.",
+    "Looking for matching author strings.",
+    "Still no match found.",
+    "But 2 candidates found."
+  ]
+}

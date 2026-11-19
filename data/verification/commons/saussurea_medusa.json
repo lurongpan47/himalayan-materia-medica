@@ -1,0 +1,68 @@
+{
+  "id": "saussurea_medusa",
+  "binomial": "Saussurea medusa",
+  "source": "text",
+  "n_candidates": 15,
+  "candidates": [
+    {
+      "title": "File:Saussurea - Cladogramma del genere.PNG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Saussurea_-_Cladogramma_del_genere.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Saussurea_-_Cladogramma_del_genere.PNG",
+      "mime": "image/png",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Enrico Blasutto",
+      "credit": "disegno proprio",
+      "date": "2011-12-23 14:55:29",
+      "object_name": "Saussurea - Cladogramma del genere"
+    },
+    {
+      "title": "File:Saussurea alpina T77.2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saussurea_alpina_T77.2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Saussurea_alpina_T77.2.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Jerzy Opioła",
+      "credit": "Own work",
+      "date": "2013-08-05 20:13:19",
+      "object_name": "Saussurea alpina T77.2"
+    },
+    {
+      "title": "File:Saussurea alpina T77.3.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Saussurea_alpina_T77.3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Saussurea_alpina_T77.3.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Jerzy Opioła",
+      "credit": "Own work",
+      "date": "2013-08-05 20:13:17",
+      "object_name": "Saussurea alpina T77.3"
+    },
+    {
+      "title": "File:Saussurea alpina T77.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Saussurea_alpina_T77.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Saussurea_alpina_T77.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Jerzy Opioła",
+      "credit": "Own work",
+      "date": "2013-08-05 20:13:18",
+      "object_name": "Saussurea alpina T77"
+    },
+    {
+      "title": "File:Saussurea alpina esthonica - Eesti soojumikas - Niitvälja soo2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Saussurea_alpina_esthonica_-_Eesti_soojumikas_-_Niitv%C3%A4lja_soo2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Saussurea_alpina_esthonica_-_Eesti_soojumikas_-_Niitv%C3%A4lja_soo2.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Ivar Leidus",
+      "credit": "Own work",
+      "date": "2015-07-23 11:43:48",
+      "object_name": "Saussurea alpina esthonica - Eesti soojumikas - Niitvälja soo2"
+    }
+  ]
+}

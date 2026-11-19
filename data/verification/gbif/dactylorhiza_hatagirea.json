@@ -1,0 +1,36 @@
+{
+  "id": "dactylorhiza_hatagirea",
+  "binomial": "Dactylorhiza hatagirea",
+  "status": "matched",
+  "usageKey": 2810884,
+  "accepted_name": "Dactylorhiza hatagirea (D.Don) Soó",
+  "confidence": 99,
+  "matchType": "EXACT",
+  "total_occurrences": 321,
+  "countries_raw": {
+    "IN": 148,
+    "PK": 82,
+    "NP": 35,
+    "CN": 20,
+    "AF": 3,
+    "MN": 3,
+    "BT": 1,
+    "RU": 1
+  },
+  "himalayan_countries": {
+    "IN": 148,
+    "PK": 82,
+    "NP": 35,
+    "CN": 20,
+    "AF": 3,
+    "BT": 1
+  },
+  "elevation": {
+    "n": 90,
+    "min": 2000,
+    "max": 4330,
+    "p10": 2440,
+    "p90": 3691,
+    "median": 2960
+  }
+}

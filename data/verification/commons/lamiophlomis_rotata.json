@@ -1,0 +1,20 @@
+{
+  "id": "lamiophlomis_rotata",
+  "binomial": "Lamiophlomis rotata",
+  "source": "text",
+  "n_candidates": 1,
+  "candidates": [
+    {
+      "title": "File:Whf purple 21.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Whf_purple_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Whf_purple_21.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Woudloper",
+      "credit": "Own work",
+      "date": "2012-08-11 03:11:09",
+      "object_name": "Whf purple 21"
+    }
+  ]
+}

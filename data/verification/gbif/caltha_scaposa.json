@@ -1,0 +1,35 @@
+{
+  "id": "caltha_scaposa",
+  "binomial": "Caltha scaposa",
+  "status": "matched",
+  "usageKey": 5616163,
+  "accepted_name": "Caltha scaposa Hook.fil. & Thomson",
+  "confidence": 99,
+  "matchType": "EXACT",
+  "total_occurrences": 1052,
+  "countries_raw": {
+    "CN": 874,
+    "IN": 43,
+    "NP": 21,
+    "BT": 9,
+    "MM": 8,
+    "KR": 1,
+    "MN": 1,
+    "ZZ": 1
+  },
+  "himalayan_countries": {
+    "CN": 874,
+    "IN": 43,
+    "NP": 21,
+    "BT": 9,
+    "MM": 8
+  },
+  "elevation": {
+    "n": 60,
+    "min": 1700,
+    "max": 4825,
+    "p10": 3450,
+    "p90": 4492,
+    "median": 3900
+  }
+}

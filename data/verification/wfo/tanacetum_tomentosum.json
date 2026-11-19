@@ -1,0 +1,63 @@
+{
+  "inputString": "Tanacetum tomentosum",
+  "searchString": "Tanacetum tomentosum",
+  "params": {
+    "checkHomonyms": false,
+    "checkRank": false,
+    "method": "full",
+    "acceptSingleCandidate": false,
+    "fuzzyNameParts": 0,
+    "fuzzyAuthors": 0,
+    "limit": 50,
+    "classificationVersion": "2026-06",
+    "year": null,
+    "rank": null,
+    "authors": null
+  },
+  "match": null,
+  "candidates": [
+    {
+      "wfo_id": "wfo-0000006237",
+      "full_name_plain": "Tanacetum tomentosum (Decne.) Muradyan",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Tanacetum</i> <i>tomentosum</i></span> <span class=\"wfo-name-authors\" >(Decne.) Muradyan</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Asterales/Asteraceae/Asteroideae/Anthemideae/Allardia/tomentosa$Tanacetum/tomentosum"
+    },
+    {
+      "wfo_id": "wfo-0000041947",
+      "full_name_plain": "Tanacetum tomentosum DC.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Tanacetum</i> <i>tomentosum</i></span> <span class=\"wfo-name-authors\" >DC.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Asterales/Asteraceae/Asteroideae/Anthemideae/Hippolytia/tomentosa$Tanacetum/tomentosum"
+    },
+    {
+      "wfo_id": "wfo-0000087654",
+      "full_name_plain": "Tanacetum tomentosum Regel & Herder",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Tanacetum</i> <i>tomentosum</i></span> <span class=\"wfo-name-authors\" >Regel & Herder</span></span>",
+      "placement": ""
+    },
+    {
+      "wfo_id": "wfo-0000092133",
+      "full_name_plain": "Tanacetum tomentosum Siev.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Tanacetum</i> <i>tomentosum</i></span> <span class=\"wfo-name-authors\" >Siev.</span></span>",
+      "placement": ""
+    }
+  ],
+  "error": false,
+  "errorMessage": null,
+  "parsedName": {
+    "rank": "species",
+    "canonical_form": "Tanacetum tomentosum",
+    "author_string": ""
+  },
+  "narrative": [
+    "The first word is always a name part word: 'Tanacetum'",
+    "Word is found in index and so is part of name: 'tomentosum'.",
+    "Word is lowercase. Subsequent words must start with lowercase: 'tomentosum'.",
+    "No authors string provided. Will match all authors strings.",
+    "Parsed name complete.",
+    "Rank estimated as 'species' from name parts.",
+    "Searched index of 2026-06 for canonical form of name 'Tanacetum tomentosum' and found 4 candidates.",
+    "Looking for matching author strings.",
+    "Still no match found.",
+    "But 4 candidates found."
+  ]
+}

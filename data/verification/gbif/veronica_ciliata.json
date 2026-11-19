@@ -1,0 +1,40 @@
+{
+  "id": "veronica_ciliata",
+  "binomial": "Veronica ciliata",
+  "status": "matched",
+  "usageKey": 7332425,
+  "accepted_name": "Veronica ciliata Fisch.",
+  "confidence": 97,
+  "matchType": "EXACT",
+  "total_occurrences": 1119,
+  "countries_raw": {
+    "CN": 760,
+    "IN": 85,
+    "NP": 66,
+    "RU": 47,
+    "MN": 32,
+    "BT": 6,
+    "KZ": 5,
+    "PK": 5,
+    "ZZ": 2,
+    "ES": 1,
+    "LK": 1,
+    "NZ": 1,
+    "ZA": 1
+  },
+  "himalayan_countries": {
+    "CN": 760,
+    "IN": 85,
+    "NP": 66,
+    "BT": 6,
+    "PK": 5
+  },
+  "elevation": {
+    "n": 150,
+    "min": 1167,
+    "max": 5440,
+    "p10": 3720,
+    "p90": 5050,
+    "median": 4470
+  }
+}

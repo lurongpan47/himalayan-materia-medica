@@ -1,0 +1,42 @@
+{
+  "inputString": "Picrorhiza kurroa",
+  "searchString": "Picrorhiza kurroa",
+  "params": {
+    "checkHomonyms": false,
+    "checkRank": false,
+    "method": "full",
+    "acceptSingleCandidate": false,
+    "fuzzyNameParts": 0,
+    "fuzzyAuthors": 0,
+    "limit": 50,
+    "classificationVersion": "2026-06",
+    "year": null,
+    "rank": null,
+    "authors": null
+  },
+  "match": {
+    "wfo_id": "wfo-0000474863",
+    "full_name_plain": "Picrorhiza kurroa Royle ex Benth.",
+    "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Picrorhiza</i> <i>kurroa</i></span> <span class=\"wfo-name-authors\" >Royle ex Benth.</span></span>",
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Lamiales/Plantaginaceae/Picrorhiza/kurroa"
+  },
+  "candidates": [],
+  "error": false,
+  "errorMessage": null,
+  "parsedName": {
+    "rank": "species",
+    "canonical_form": "Picrorhiza kurroa",
+    "author_string": ""
+  },
+  "narrative": [
+    "The first word is always a name part word: 'Picrorhiza'",
+    "Word is found in index and so is part of name: 'kurroa'.",
+    "Word is lowercase. Subsequent words must start with lowercase: 'kurroa'.",
+    "No authors string provided. Will match all authors strings.",
+    "Parsed name complete.",
+    "Rank estimated as 'species' from name parts.",
+    "Searched index of 2026-06 for canonical form of name 'Picrorhiza kurroa' and found 1 candidates.",
+    "Looking for matching author strings.",
+    "Only one candidate found (wfo-0000474863) and no author string supplied so name becomes match."
+  ]
+}

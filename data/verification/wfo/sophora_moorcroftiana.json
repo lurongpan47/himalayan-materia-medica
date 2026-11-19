@@ -1,0 +1,57 @@
+{
+  "inputString": "Sophora moorcroftiana",
+  "searchString": "Sophora moorcroftiana",
+  "params": {
+    "checkHomonyms": false,
+    "checkRank": false,
+    "method": "full",
+    "acceptSingleCandidate": false,
+    "fuzzyNameParts": 0,
+    "fuzzyAuthors": 0,
+    "limit": 50,
+    "classificationVersion": "2026-06",
+    "year": null,
+    "rank": null,
+    "authors": null
+  },
+  "match": null,
+  "candidates": [
+    {
+      "wfo_id": "wfo-0000185589",
+      "full_name_plain": "Sophora moorcroftiana (Benth.) Baker",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Sophora</i> <i>moorcroftiana</i></span> <span class=\"wfo-name-authors\" >(Benth.) Baker</span></span>",
+      "placement": ""
+    },
+    {
+      "wfo_id": "wfo-0000197241",
+      "full_name_plain": "Sophora moorcroftiana auct.non Baker",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Sophora</i> <i>moorcroftiana</i></span> <span class=\"wfo-name-authors\" >auct.non Baker</span></span>",
+      "placement": ""
+    },
+    {
+      "wfo_id": "wfo-0001060855",
+      "full_name_plain": "Sophora moorcroftiana (Benth.) Benth. ex Baker",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Sophora</i> <i>moorcroftiana</i></span> <span class=\"wfo-name-authors\" >(Benth.) Benth. ex Baker</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Fabales/Fabaceae/Papilionoideae/Sophora/moorcroftiana"
+    }
+  ],
+  "error": false,
+  "errorMessage": null,
+  "parsedName": {
+    "rank": "species",
+    "canonical_form": "Sophora moorcroftiana",
+    "author_string": ""
+  },
+  "narrative": [
+    "The first word is always a name part word: 'Sophora'",
+    "Word is found in index and so is part of name: 'moorcroftiana'.",
+    "Word is lowercase. Subsequent words must start with lowercase: 'moorcroftiana'.",
+    "No authors string provided. Will match all authors strings.",
+    "Parsed name complete.",
+    "Rank estimated as 'species' from name parts.",
+    "Searched index of 2026-06 for canonical form of name 'Sophora moorcroftiana' and found 3 candidates.",
+    "Looking for matching author strings.",
+    "Still no match found.",
+    "But 3 candidates found."
+  ]
+}

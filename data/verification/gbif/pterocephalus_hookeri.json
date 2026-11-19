@@ -1,0 +1,30 @@
+{
+  "id": "pterocephalus_hookeri",
+  "binomial": "Pterocephalus hookeri",
+  "status": "matched",
+  "usageKey": 5671522,
+  "accepted_name": "Pterocephalus hookeri (C.B.Clarke) E.Pritz.",
+  "confidence": 97,
+  "matchType": "EXACT",
+  "total_occurrences": 707,
+  "countries_raw": {
+    "CN": 649,
+    "NP": 7,
+    "BT": 1,
+    "IN": 1
+  },
+  "himalayan_countries": {
+    "CN": 649,
+    "NP": 7,
+    "BT": 1,
+    "IN": 1
+  },
+  "elevation": {
+    "n": 28,
+    "min": 3385,
+    "max": 4350,
+    "p10": 3530,
+    "p90": 4292,
+    "median": 3895
+  }
+}

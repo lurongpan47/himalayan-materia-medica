@@ -1,0 +1,51 @@
+{
+  "inputString": "Bacopa monnieri",
+  "searchString": "Bacopa monnieri",
+  "params": {
+    "checkHomonyms": false,
+    "checkRank": false,
+    "method": "full",
+    "acceptSingleCandidate": false,
+    "fuzzyNameParts": 0,
+    "fuzzyAuthors": 0,
+    "limit": 50,
+    "classificationVersion": "2026-06",
+    "year": null,
+    "rank": null,
+    "authors": null
+  },
+  "match": null,
+  "candidates": [
+    {
+      "wfo_id": "wfo-0000558282",
+      "full_name_plain": "Bacopa monnieri (L.) Wettst.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Bacopa</i> <i>monnieri</i></span> <span class=\"wfo-name-authors\" >(L.) Wettst.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Lamiales/Plantaginaceae/Bacopa/monnieri"
+    },
+    {
+      "wfo_id": "wfo-1000080191",
+      "full_name_plain": "Bacopa monnieri (L.) Pennell",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Bacopa</i> <i>monnieri</i></span> <span class=\"wfo-name-authors\" >(L.) Pennell</span></span>",
+      "placement": ""
+    }
+  ],
+  "error": false,
+  "errorMessage": null,
+  "parsedName": {
+    "rank": "species",
+    "canonical_form": "Bacopa monnieri",
+    "author_string": ""
+  },
+  "narrative": [
+    "The first word is always a name part word: 'Bacopa'",
+    "Word is found in index and so is part of name: 'monnieri'.",
+    "Word is lowercase. Subsequent words must start with lowercase: 'monnieri'.",
+    "No authors string provided. Will match all authors strings.",
+    "Parsed name complete.",
+    "Rank estimated as 'species' from name parts.",
+    "Searched index of 2026-06 for canonical form of name 'Bacopa monnieri' and found 2 candidates.",
+    "Looking for matching author strings.",
+    "Still no match found.",
+    "But 2 candidates found."
+  ]
+}

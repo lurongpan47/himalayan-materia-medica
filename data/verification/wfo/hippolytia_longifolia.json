@@ -1,0 +1,42 @@
+{
+  "inputString": "Hippolytia longifolia",
+  "searchString": "Hippolytia longifolia",
+  "params": {
+    "checkHomonyms": false,
+    "checkRank": false,
+    "method": "full",
+    "acceptSingleCandidate": false,
+    "fuzzyNameParts": 0,
+    "fuzzyAuthors": 0,
+    "limit": 50,
+    "classificationVersion": "2026-06",
+    "year": null,
+    "rank": null,
+    "authors": null
+  },
+  "match": {
+    "wfo_id": "wfo-0000045081",
+    "full_name_plain": "Hippolytia longifolia (Wall. ex DC.) C.Shih",
+    "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Hippolytia</i> <i>longifolia</i></span> <span class=\"wfo-name-authors\" >(Wall. ex DC.) C.Shih</span></span>",
+    "placement": ""
+  },
+  "candidates": [],
+  "error": false,
+  "errorMessage": null,
+  "parsedName": {
+    "rank": "species",
+    "canonical_form": "Hippolytia longifolia",
+    "author_string": ""
+  },
+  "narrative": [
+    "The first word is always a name part word: 'Hippolytia'",
+    "Word is found in index and so is part of name: 'longifolia'.",
+    "Word is lowercase. Subsequent words must start with lowercase: 'longifolia'.",
+    "No authors string provided. Will match all authors strings.",
+    "Parsed name complete.",
+    "Rank estimated as 'species' from name parts.",
+    "Searched index of 2026-06 for canonical form of name 'Hippolytia longifolia' and found 1 candidates.",
+    "Looking for matching author strings.",
+    "Only one candidate found (wfo-0000045081) and no author string supplied so name becomes match."
+  ]
+}

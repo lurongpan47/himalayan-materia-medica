@@ -1,0 +1,29 @@
+{
+  "id": "gentiana_straminea",
+  "binomial": "Gentiana straminea",
+  "status": "matched",
+  "usageKey": 3840852,
+  "accepted_name": "Gentiana straminea Maxim.",
+  "confidence": 99,
+  "matchType": "EXACT",
+  "total_occurrences": 906,
+  "countries_raw": {
+    "CN": 809,
+    "NP": 6,
+    "ZZ": 4,
+    "KR": 2,
+    "US": 2
+  },
+  "himalayan_countries": {
+    "CN": 809,
+    "NP": 6
+  },
+  "elevation": {
+    "n": 44,
+    "min": 2800,
+    "max": 4670,
+    "p10": 3141,
+    "p90": 4175,
+    "median": 3724
+  }
+}

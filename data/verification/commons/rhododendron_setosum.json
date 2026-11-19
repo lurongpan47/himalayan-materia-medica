@@ -1,0 +1,68 @@
+{
+  "id": "rhododendron_setosum",
+  "binomial": "Rhododendron setosum",
+  "source": "category",
+  "n_candidates": 7,
+  "candidates": [
+    {
+      "title": "File:Blühender Rhododendron am Blockhaus.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bl%C3%BChender_Rhododendron_am_Blockhaus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bl%C3%BChender_Rhododendron_am_Blockhaus.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Michael Linnenbach",
+      "credit": "Own work",
+      "date": "2023-06-13 12:15:39",
+      "object_name": "Blühender Rhododendron am Blockhaus"
+    },
+    {
+      "title": "File:Rhododendron setosum 1.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Rhododendron_setosum_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rhododendron_setosum_1.JPG",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Ulf Eliasson",
+      "credit": "Own work",
+      "date": "2012-05-18 21:50:06",
+      "object_name": "Rhododendron setosum 1"
+    },
+    {
+      "title": "File:Rhododendron setosum 2.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Rhododendron_setosum_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rhododendron_setosum_2.JPG",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Ulf Eliasson",
+      "credit": "Own work",
+      "date": "2012-05-18 21:50:22",
+      "object_name": "Rhododendron setosum 2"
+    },
+    {
+      "title": "File:Rhododendron setosum 3.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Rhododendron_setosum_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rhododendron_setosum_3.JPG",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Ulf Eliasson",
+      "credit": "Own work",
+      "date": "2012-05-18 21:50:06",
+      "object_name": "Rhododendron setosum 3"
+    },
+    {
+      "title": "File:Rhododendron setosum-IMG 6705.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Rhododendron_setosum-IMG_6705.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rhododendron_setosum-IMG_6705.JPG",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "C T Johansson",
+      "credit": "Own work",
+      "date": "2014-05-14 15:21:05",
+      "object_name": "Rhododendron setosum-IMG 6705"
+    }
+  ]
+}

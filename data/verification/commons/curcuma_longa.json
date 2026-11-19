@@ -1,0 +1,68 @@
+{
+  "id": "curcuma_longa",
+  "binomial": "Curcuma longa",
+  "source": "category",
+  "n_candidates": 15,
+  "candidates": [
+    {
+      "title": "File:\"amazing Turmeric field\".jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/%22amazing_Turmeric_field%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:%22amazing_Turmeric_field%22.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Thamizhpparithi Maari",
+      "credit": "Own work",
+      "date": "2013-11-28 18:22:52",
+      "object_name": "\"amazing Turmeric field\""
+    },
+    {
+      "title": "File:\"Field of Turmeric with coconut as a inter crop\".jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/%22Field_of_Turmeric_with_coconut_as_a_inter_crop%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:%22Field_of_Turmeric_with_coconut_as_a_inter_crop%22.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Thamizhpparithi Maari",
+      "credit": "Own work",
+      "date": "2013-11-28 18:21:51",
+      "object_name": "\"Field of Turmeric with coconut as a inter crop\""
+    },
+    {
+      "title": "File:00048 REP SDR-10 (0563).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/00048_REP_SDR-10_%280563%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:00048_REP_SDR-10_(0563).jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "DimitrisSideridis",
+      "credit": "Own work",
+      "date": "2015-11-30 22:07:52",
+      "object_name": "00048 REP SDR-10 (0563)"
+    },
+    {
+      "title": "File:1-Turmeric plant.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/1-Turmeric_plant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:1-Turmeric_plant.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Parvathisri",
+      "credit": "Own work",
+      "date": "2012-01-16 18:50:46",
+      "object_name": "1-Turmeric plant"
+    },
+    {
+      "title": "File:A closeup of Turmeric.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/A_closeup_of_Turmeric.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_closeup_of_Turmeric.JPG",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Thamizhpparithi Maari",
+      "credit": "Own work",
+      "date": "2012-01-26 17:16:47",
+      "object_name": "A closeup of Turmeric"
+    }
+  ]
+}

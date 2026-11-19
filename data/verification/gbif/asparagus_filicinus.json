@@ -1,0 +1,47 @@
+{
+  "id": "asparagus_filicinus",
+  "binomial": "Asparagus filicinus",
+  "status": "matched",
+  "usageKey": 2768732,
+  "accepted_name": "Asparagus filicinus Buch.-Ham. ex D.Don",
+  "confidence": 97,
+  "matchType": "EXACT",
+  "total_occurrences": 2114,
+  "countries_raw": {
+    "CN": 1617,
+    "IN": 103,
+    "TH": 64,
+    "NP": 62,
+    "MM": 23,
+    "PK": 13,
+    "BT": 12,
+    "VN": 4,
+    "ZZ": 4,
+    "AU": 3,
+    "AF": 2,
+    "IT": 2,
+    "BD": 1,
+    "ES": 1,
+    "NO": 1,
+    "SE": 1,
+    "TW": 1,
+    "US": 1
+  },
+  "himalayan_countries": {
+    "CN": 1617,
+    "IN": 103,
+    "NP": 62,
+    "MM": 23,
+    "PK": 13,
+    "BT": 12,
+    "AF": 2
+  },
+  "elevation": {
+    "n": 67,
+    "min": 700,
+    "max": 3950,
+    "p10": 1197,
+    "p90": 3540,
+    "median": 2550
+  }
+}

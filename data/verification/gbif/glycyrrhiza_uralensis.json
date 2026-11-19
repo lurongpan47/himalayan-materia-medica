@@ -1,0 +1,46 @@
+{
+  "id": "glycyrrhiza_uralensis",
+  "binomial": "Glycyrrhiza uralensis",
+  "status": "matched",
+  "usageKey": 7861283,
+  "accepted_name": "Glycyrrhiza uralensis Fisch. ex DC.",
+  "confidence": 98,
+  "matchType": "EXACT",
+  "total_occurrences": 2054,
+  "countries_raw": {
+    "RU": 811,
+    "KZ": 427,
+    "CN": 361,
+    "MN": 147,
+    "TJ": 48,
+    "KG": 47,
+    "AF": 28,
+    "KR": 12,
+    "UZ": 11,
+    "ZZ": 7,
+    "PK": 4,
+    "JP": 3,
+    "US": 3,
+    "KI": 2,
+    "TN": 2,
+    "BY": 1,
+    "CH": 1,
+    "IN": 1,
+    "NO": 1,
+    "UA": 1
+  },
+  "himalayan_countries": {
+    "CN": 361,
+    "AF": 28,
+    "PK": 4,
+    "IN": 1
+  },
+  "elevation": {
+    "n": 58,
+    "min": 20,
+    "max": 3100,
+    "p10": 152,
+    "p90": 2600,
+    "median": 800
+  }
+}

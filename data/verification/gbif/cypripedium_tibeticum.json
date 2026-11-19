@@ -1,0 +1,31 @@
+{
+  "id": "cypripedium_tibeticum",
+  "binomial": "Cypripedium tibeticum",
+  "status": "matched",
+  "usageKey": 2820349,
+  "accepted_name": "Cypripedium tibeticum King ex Rolfe",
+  "confidence": 97,
+  "matchType": "EXACT",
+  "total_occurrences": 506,
+  "countries_raw": {
+    "CN": 432,
+    "BT": 21,
+    "IN": 21,
+    "GB": 1,
+    "RU": 1,
+    "ZZ": 1
+  },
+  "himalayan_countries": {
+    "CN": 432,
+    "BT": 21,
+    "IN": 21
+  },
+  "elevation": {
+    "n": 9,
+    "min": 3250,
+    "max": 3660,
+    "p10": 3250,
+    "p90": 3660,
+    "median": 3620
+  }
+}

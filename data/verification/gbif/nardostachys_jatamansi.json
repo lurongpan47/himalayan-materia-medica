@@ -1,0 +1,41 @@
+{
+  "id": "nardostachys_jatamansi",
+  "binomial": "Nardostachys jatamansi",
+  "status": "matched",
+  "usageKey": 4095989,
+  "accepted_name": "Nardostachys jatamansi (D.Don) DC.",
+  "confidence": 97,
+  "matchType": "EXACT",
+  "total_occurrences": 1220,
+  "countries_raw": {
+    "CN": 702,
+    "NP": 139,
+    "IN": 121,
+    "BT": 41,
+    "MM": 5,
+    "US": 2,
+    "GB": 1,
+    "ID": 1,
+    "IT": 1,
+    "LB": 1,
+    "LK": 1,
+    "PK": 1,
+    "ZZ": 1
+  },
+  "himalayan_countries": {
+    "CN": 702,
+    "NP": 139,
+    "IN": 121,
+    "BT": 41,
+    "MM": 5,
+    "PK": 1
+  },
+  "elevation": {
+    "n": 107,
+    "min": 1700,
+    "max": 5270,
+    "p10": 3775,
+    "p90": 4830,
+    "median": 4225
+  }
+}

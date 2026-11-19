@@ -1,0 +1,25 @@
+{
+  "id": "boswellia_serrata",
+  "binomial": "Boswellia serrata",
+  "status": "matched",
+  "usageKey": 5421354,
+  "accepted_name": "Boswellia serrata Roxb. ex Colebr.",
+  "confidence": 98,
+  "matchType": "EXACT",
+  "total_occurrences": 545,
+  "countries_raw": {
+    "IN": 460,
+    "ZZ": 8,
+    "NG": 2,
+    "BT": 1,
+    "CH": 1,
+    "US": 1
+  },
+  "himalayan_countries": {
+    "IN": 460,
+    "BT": 1
+  },
+  "elevation": {
+    "n": 0
+  }
+}

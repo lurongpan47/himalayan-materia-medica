@@ -1,0 +1,32 @@
+{
+  "id": "meconopsis_integrifolia",
+  "binomial": "Meconopsis integrifolia",
+  "status": "matched",
+  "usageKey": 7315303,
+  "accepted_name": "Meconopsis integrifolia (Maxim.) Franch.",
+  "confidence": 99,
+  "matchType": "EXACT",
+  "total_occurrences": 1321,
+  "countries_raw": {
+    "CN": 1176,
+    "MM": 3,
+    "CA": 1,
+    "GB": 1,
+    "IN": 1,
+    "KR": 1,
+    "ZZ": 1
+  },
+  "himalayan_countries": {
+    "CN": 1176,
+    "MM": 3,
+    "IN": 1
+  },
+  "elevation": {
+    "n": 127,
+    "min": 335,
+    "max": 5334,
+    "p10": 3658,
+    "p90": 4910,
+    "median": 4267
+  }
+}

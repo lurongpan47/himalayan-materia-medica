@@ -1,0 +1,39 @@
+{
+  "id": "oxytropis_microphylla",
+  "binomial": "Oxytropis microphylla",
+  "status": "matched",
+  "usageKey": 5360865,
+  "accepted_name": "Oxytropis microphylla (Pall.) DC.",
+  "confidence": 97,
+  "matchType": "EXACT",
+  "total_occurrences": 1131,
+  "countries_raw": {
+    "IN": 350,
+    "CN": 305,
+    "RU": 206,
+    "NP": 57,
+    "PK": 43,
+    "TJ": 34,
+    "MN": 21,
+    "ZZ": 15,
+    "AF": 6,
+    "CH": 1,
+    "GE": 1,
+    "NA": 1
+  },
+  "himalayan_countries": {
+    "IN": 350,
+    "CN": 305,
+    "NP": 57,
+    "PK": 43,
+    "AF": 6
+  },
+  "elevation": {
+    "n": 300,
+    "min": 2700,
+    "max": 5300,
+    "p10": 3640,
+    "p90": 4950,
+    "median": 4580
+  }
+}

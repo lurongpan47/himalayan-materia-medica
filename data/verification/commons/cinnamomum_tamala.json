@@ -1,0 +1,68 @@
+{
+  "id": "cinnamomum_tamala",
+  "binomial": "Cinnamomum tamala",
+  "source": "category",
+  "n_candidates": 15,
+  "candidates": [
+    {
+      "title": "File:Cassialeaf tree bd.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Cassialeaf_tree_bd.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cassialeaf_tree_bd.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Kayser Ahmad",
+      "credit": "Own work",
+      "date": "2016-01-27 15:34:41",
+      "object_name": "Cassialeaf tree bd"
+    },
+    {
+      "title": "File:Cassialeaf.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Cassialeaf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cassialeaf.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Kayser Ahmad",
+      "credit": "Own work",
+      "date": "2016-01-28 08:12:33",
+      "object_name": "Cassialeaf"
+    },
+    {
+      "title": "File:Cinnamomum tamala (Bay leaf) tree in RDA, Bogra 01.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Cinnamomum_tamala_%28Bay_leaf%29_tree_in_RDA%2C_Bogra_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cinnamomum_tamala_(Bay_leaf)_tree_in_RDA,_Bogra_01.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Afifa Afrin",
+      "credit": "Own work",
+      "date": "2017-03-07 16:01:56",
+      "object_name": "Cinnamomum tamala (Bay leaf) tree in RDA, Bogra 01"
+    },
+    {
+      "title": "File:Cinnamomum tamala (Bay leaf) tree in RDA, Bogra 02.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Cinnamomum_tamala_%28Bay_leaf%29_tree_in_RDA%2C_Bogra_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cinnamomum_tamala_(Bay_leaf)_tree_in_RDA,_Bogra_02.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Afifa Afrin",
+      "credit": "Own work",
+      "date": "2017-03-07 16:02:18",
+      "object_name": "Cinnamomum tamala (Bay leaf) tree in RDA, Bogra 02"
+    },
+    {
+      "title": "File:Cinnamomum tamala (Bay leaf) tree in RDA, Bogra 03.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Cinnamomum_tamala_%28Bay_leaf%29_tree_in_RDA%2C_Bogra_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cinnamomum_tamala_(Bay_leaf)_tree_in_RDA,_Bogra_03.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Afifa Afrin",
+      "credit": "Own work",
+      "date": "2017-03-07 16:02:47",
+      "object_name": "Cinnamomum tamala (Bay leaf) tree in RDA, Bogra 03"
+    }
+  ]
+}

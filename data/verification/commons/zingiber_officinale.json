@@ -1,0 +1,68 @@
+{
+  "id": "zingiber_officinale",
+  "binomial": "Zingiber officinale",
+  "source": "category",
+  "n_candidates": 14,
+  "candidates": [
+    {
+      "title": "File:2016 Singapur, Ogrody botaniczne (379).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2016_Singapur%2C_Ogrody_botaniczne_%28379%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:2016_Singapur,_Ogrody_botaniczne_(379).jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Marcin Konsek",
+      "credit": "Own work",
+      "date": "2017-02-15 00:47:11",
+      "object_name": "2016 Singapur, Ogrody botaniczne (379)"
+    },
+    {
+      "title": "File:A lush clump of green Zingiber officinale stalks, locally known as Ada in Assam, growing in a backyard herb garden.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/A_lush_clump_of_green_Zingiber_officinale_stalks%2C_locally_known_as_Ada_in_Assam%2C_growing_in_a_backyard_herb_garden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_lush_clump_of_green_Zingiber_officinale_stalks,_locally_known_as_Ada_in_Assam,_growing_in_a_backyard_herb_garden.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "AjayDas",
+      "credit": "Own work",
+      "date": "2026-08-28 14:43:30",
+      "object_name": "A lush clump of green Zingiber officinale stalks, locally known as Ada in Assam, growing in a backyard herb garden"
+    },
+    {
+      "title": "File:Berlin-Dahlem, botanischer Garten, Zingiber officinale.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Berlin-Dahlem%2C_botanischer_Garten%2C_Zingiber_officinale.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Berlin-Dahlem,_botanischer_Garten,_Zingiber_officinale.JPG",
+      "mime": "image/jpeg",
+      "license_short": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Dguendel",
+      "credit": "Own work",
+      "date": "2018-05-15 19:45:21",
+      "object_name": "Berlin-Dahlem, botanischer Garten, Zingiber officinale"
+    },
+    {
+      "title": "File:Gingebre 20170903 114847.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gingebre_20170903_114847.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gingebre_20170903_114847.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Victor M. Vicente Selvas",
+      "credit": "Own work",
+      "date": "2017-09-17 17:24:01",
+      "object_name": "Gingebre 20170903 114847"
+    },
+    {
+      "title": "File:Gingembre (marché de Bergerac).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Gingembre_%28march%C3%A9_de_Bergerac%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gingembre_(march%C3%A9_de_Bergerac).jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Burdigo",
+      "credit": "Own work",
+      "date": "2024-10-30 14:45:05",
+      "object_name": "Gingembre (marché de Bergerac)"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rheum_tanguticum",
+  "binomial": "Rheum tanguticum",
+  "status": "matched",
+  "usageKey": 7291541,
+  "accepted_name": "Rheum tanguticum Maxim. ex Balf.",
+  "confidence": 97,
+  "matchType": "EXACT",
+  "total_occurrences": 334,
+  "countries_raw": {
+    "CN": 188,
+    "US": 5,
+    "DE": 4,
+    "CA": 2,
+    "CZ": 2,
+    "PL": 2,
+    "TR": 2,
+    "BE": 1,
+    "CH": 1,
+    "KR": 1
+  },
+  "himalayan_countries": {
+    "CN": 188
+  },
+  "elevation": {
+    "n": 10,
+    "min": 3400,
+    "max": 3560,
+    "p10": 3400,
+    "p90": 3560,
+    "median": 3500
+  }
+}

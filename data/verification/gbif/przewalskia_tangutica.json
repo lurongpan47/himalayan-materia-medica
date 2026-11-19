@@ -1,0 +1,26 @@
+{
+  "id": "przewalskia_tangutica",
+  "binomial": "Przewalskia tangutica",
+  "status": "matched",
+  "usageKey": 5580938,
+  "accepted_name": "Przewalskia tangutica Maxim.",
+  "confidence": 99,
+  "matchType": "EXACT",
+  "total_occurrences": 233,
+  "countries_raw": {
+    "CN": 218,
+    "BT": 1
+  },
+  "himalayan_countries": {
+    "CN": 218,
+    "BT": 1
+  },
+  "elevation": {
+    "n": 21,
+    "min": 3820,
+    "max": 5280,
+    "p10": 4000,
+    "p90": 4980,
+    "median": 4250
+  }
+}

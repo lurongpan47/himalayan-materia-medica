@@ -1,0 +1,42 @@
+{
+  "inputString": "Codonopsis pilosula",
+  "searchString": "Codonopsis pilosula",
+  "params": {
+    "checkHomonyms": false,
+    "checkRank": false,
+    "method": "full",
+    "acceptSingleCandidate": false,
+    "fuzzyNameParts": 0,
+    "fuzzyAuthors": 0,
+    "limit": 50,
+    "classificationVersion": "2026-06",
+    "year": null,
+    "rank": null,
+    "authors": null
+  },
+  "match": {
+    "wfo_id": "wfo-0000830580",
+    "full_name_plain": "Codonopsis pilosula (Franch.) Nannf.",
+    "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Codonopsis</i> <i>pilosula</i></span> <span class=\"wfo-name-authors\" >(Franch.) Nannf.</span></span>",
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Asterales/Campanulaceae/Codonopsis/pilosula"
+  },
+  "candidates": [],
+  "error": false,
+  "errorMessage": null,
+  "parsedName": {
+    "rank": "species",
+    "canonical_form": "Codonopsis pilosula",
+    "author_string": ""
+  },
+  "narrative": [
+    "The first word is always a name part word: 'Codonopsis'",
+    "Word is found in index and so is part of name: 'pilosula'.",
+    "Word is lowercase. Subsequent words must start with lowercase: 'pilosula'.",
+    "No authors string provided. Will match all authors strings.",
+    "Parsed name complete.",
+    "Rank estimated as 'species' from name parts.",
+    "Searched index of 2026-06 for canonical form of name 'Codonopsis pilosula' and found 1 candidates.",
+    "Looking for matching author strings.",
+    "Only one candidate found (wfo-0000830580) and no author string supplied so name becomes match."
+  ]
+}

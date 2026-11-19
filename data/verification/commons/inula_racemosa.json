@@ -1,0 +1,44 @@
+{
+  "id": "inula_racemosa",
+  "binomial": "Inula racemosa",
+  "source": "category",
+  "n_candidates": 3,
+  "candidates": [
+    {
+      "title": "File:Inula racemosa kz01.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Inula_racemosa_kz01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Inula_racemosa_kz01.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Krzysztof Ziarnek, Kenraiz",
+      "credit": "Own work",
+      "date": "2022-08-01 14:52:12",
+      "object_name": "Inula racemosa kz01"
+    },
+    {
+      "title": "File:Inula racemosa kz02.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Inula_racemosa_kz02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Inula_racemosa_kz02.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Krzysztof Ziarnek, Kenraiz",
+      "credit": "Own work",
+      "date": "2022-08-01 14:52:12",
+      "object_name": "Inula racemosa kz02"
+    },
+    {
+      "title": "File:Inula racemosa.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Inula_racemosa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Inula_racemosa.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Hume Douglas",
+      "credit": "https://www.inaturalist.org/photos/90361259",
+      "date": "2022-07-03 13:48:28",
+      "object_name": "Inula racemosa"
+    }
+  ]
+}

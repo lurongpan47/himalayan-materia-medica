@@ -1,0 +1,63 @@
+{
+  "inputString": "Cinnamomum cassia",
+  "searchString": "Cinnamomum cassia",
+  "params": {
+    "checkHomonyms": false,
+    "checkRank": false,
+    "method": "full",
+    "acceptSingleCandidate": false,
+    "fuzzyNameParts": 0,
+    "fuzzyAuthors": 0,
+    "limit": 50,
+    "classificationVersion": "2026-06",
+    "year": null,
+    "rank": null,
+    "authors": null
+  },
+  "match": null,
+  "candidates": [
+    {
+      "wfo_id": "wfo-0000604975",
+      "full_name_plain": "Cinnamomum cassia (L.) J.Presl",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Cinnamomum</i> <i>cassia</i></span> <span class=\"wfo-name-authors\" >(L.) J.Presl</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Laurales/Lauraceae/Neolitsea/cassia$Cinnamomum/cassia"
+    },
+    {
+      "wfo_id": "wfo-0000604976",
+      "full_name_plain": "Cinnamomum cassia Siebold",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Cinnamomum</i> <i>cassia</i></span> <span class=\"wfo-name-authors\" >Siebold</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Laurales/Lauraceae/Cinnamomum/burmanni$Cinnamomum/cassia"
+    },
+    {
+      "wfo_id": "wfo-0001243662",
+      "full_name_plain": "Cinnamomum cassia Nees ex Blume",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Cinnamomum</i> <i>cassia</i></span> <span class=\"wfo-name-authors\" >Nees ex Blume</span></span>",
+      "placement": ""
+    },
+    {
+      "wfo_id": "wfo-0001285954",
+      "full_name_plain": "Cinnamomum cassia (L.) D.Don",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Cinnamomum</i> <i>cassia</i></span> <span class=\"wfo-name-authors\" >(L.) D.Don</span></span>",
+      "placement": ""
+    }
+  ],
+  "error": false,
+  "errorMessage": null,
+  "parsedName": {
+    "rank": "species",
+    "canonical_form": "Cinnamomum cassia",
+    "author_string": ""
+  },
+  "narrative": [
+    "The first word is always a name part word: 'Cinnamomum'",
+    "Word is found in index and so is part of name: 'cassia'.",
+    "Word is lowercase. Subsequent words must start with lowercase: 'cassia'.",
+    "No authors string provided. Will match all authors strings.",
+    "Parsed name complete.",
+    "Rank estimated as 'species' from name parts.",
+    "Searched index of 2026-06 for canonical form of name 'Cinnamomum cassia' and found 4 candidates.",
+    "Looking for matching author strings.",
+    "Still no match found.",
+    "But 4 candidates found."
+  ]
+}

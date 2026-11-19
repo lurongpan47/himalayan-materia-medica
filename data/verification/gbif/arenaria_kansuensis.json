@@ -1,0 +1,29 @@
+{
+  "id": "arenaria_kansuensis",
+  "binomial": "Arenaria kansuensis",
+  "status": "matched",
+  "usageKey": 7267527,
+  "accepted_name": "Arenaria kansuensis Maxim.",
+  "confidence": 98,
+  "matchType": "EXACT",
+  "total_occurrences": 407,
+  "countries_raw": {
+    "CN": 366,
+    "NP": 14,
+    "IN": 1,
+    "US": 1
+  },
+  "himalayan_countries": {
+    "CN": 366,
+    "NP": 14,
+    "IN": 1
+  },
+  "elevation": {
+    "n": 62,
+    "min": 3580,
+    "max": 5250,
+    "p10": 4050,
+    "p90": 5020,
+    "median": 4570
+  }
+}

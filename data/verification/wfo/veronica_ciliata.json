@@ -1,0 +1,51 @@
+{
+  "inputString": "Veronica ciliata",
+  "searchString": "Veronica ciliata",
+  "params": {
+    "checkHomonyms": false,
+    "checkRank": false,
+    "method": "full",
+    "acceptSingleCandidate": false,
+    "fuzzyNameParts": 0,
+    "fuzzyAuthors": 0,
+    "limit": 50,
+    "classificationVersion": "2026-06",
+    "year": null,
+    "rank": null,
+    "authors": null
+  },
+  "match": null,
+  "candidates": [
+    {
+      "wfo_id": "wfo-0000419569",
+      "full_name_plain": "Veronica ciliata Fisch.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Veronica</i> <i>ciliata</i></span> <span class=\"wfo-name-authors\" >Fisch.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Lamiales/Plantaginaceae/Veronica/ciliata"
+    },
+    {
+      "wfo_id": "wfo-1200037187",
+      "full_name_plain": "Veronica ciliata Schloss. & Vuk.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Veronica</i> <i>ciliata</i></span> <span class=\"wfo-name-authors\" >Schloss. & Vuk.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Lamiales/Plantaginaceae/Veronica/acinifolia$Veronica/ciliata"
+    }
+  ],
+  "error": false,
+  "errorMessage": null,
+  "parsedName": {
+    "rank": "species",
+    "canonical_form": "Veronica ciliata",
+    "author_string": ""
+  },
+  "narrative": [
+    "The first word is always a name part word: 'Veronica'",
+    "Word is found in index and so is part of name: 'ciliata'.",
+    "Word is lowercase. Subsequent words must start with lowercase: 'ciliata'.",
+    "No authors string provided. Will match all authors strings.",
+    "Parsed name complete.",
+    "Rank estimated as 'species' from name parts.",
+    "Searched index of 2026-06 for canonical form of name 'Veronica ciliata' and found 2 candidates.",
+    "Looking for matching author strings.",
+    "Still no match found.",
+    "But 2 candidates found."
+  ]
+}

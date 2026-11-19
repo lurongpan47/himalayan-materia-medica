@@ -1,0 +1,47 @@
+{
+  "id": "aquilaria_malaccensis",
+  "binomial": "Aquilaria malaccensis",
+  "status": "matched",
+  "usageKey": 5524063,
+  "accepted_name": "Aquilaria malaccensis Lam.",
+  "confidence": 97,
+  "matchType": "EXACT",
+  "total_occurrences": 454,
+  "countries_raw": {
+    "MY": 122,
+    "IN": 81,
+    "ID": 70,
+    "PH": 44,
+    "ZZ": 17,
+    "SG": 12,
+    "TH": 12,
+    "TW": 8,
+    "BD": 3,
+    "CN": 3,
+    "FR": 3,
+    "LA": 2,
+    "MX": 2,
+    "US": 2,
+    "BT": 1,
+    "KW": 1,
+    "LK": 1,
+    "MM": 1,
+    "TN": 1,
+    "TR": 1,
+    "VN": 1
+  },
+  "himalayan_countries": {
+    "IN": 81,
+    "CN": 3,
+    "BT": 1,
+    "MM": 1
+  },
+  "elevation": {
+    "n": 17,
+    "min": 4,
+    "max": 450,
+    "p10": 27,
+    "p90": 254,
+    "median": 110
+  }
+}

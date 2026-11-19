@@ -1,0 +1,33 @@
+{
+  "id": "cremanthodium_ellisii",
+  "binomial": "Cremanthodium ellisii",
+  "status": "matched",
+  "usageKey": 9859663,
+  "accepted_name": "Cremanthodium ellisii (Hook.fil.) Kitam. ex H.Hara et al.",
+  "confidence": 97,
+  "matchType": "EXACT",
+  "total_occurrences": 764,
+  "countries_raw": {
+    "CN": 356,
+    "IN": 171,
+    "NP": 75,
+    "PK": 11,
+    "BT": 8,
+    "ZZ": 2
+  },
+  "himalayan_countries": {
+    "CN": 356,
+    "IN": 171,
+    "NP": 75,
+    "PK": 11,
+    "BT": 8
+  },
+  "elevation": {
+    "n": 163,
+    "min": 800,
+    "max": 5600,
+    "p10": 4150,
+    "p90": 5200,
+    "median": 4765
+  }
+}

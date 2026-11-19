@@ -1,0 +1,32 @@
+{
+  "id": "anisodus_tanguticus",
+  "binomial": "Anisodus tanguticus",
+  "source": "category",
+  "n_candidates": 2,
+  "candidates": [
+    {
+      "title": "File:Anisodus tanguticus 2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Anisodus_tanguticus_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Anisodus_tanguticus_2.jpg",
+      "mime": "image/jpeg",
+      "license_short": "Public domain",
+      "license_url": null,
+      "artist": "BIO341prj",
+      "credit": "Own work",
+      "date": "2010-05-09 02:26:33",
+      "object_name": "Anisodus tanguticus 2"
+    },
+    {
+      "title": "File:Anisodus tanguticus1.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Anisodus_tanguticus1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Anisodus_tanguticus1.jpg",
+      "mime": "image/jpeg",
+      "license_short": "Public domain",
+      "license_url": null,
+      "artist": "BIO341prj",
+      "credit": "Own work",
+      "date": "2010-05-09 02:29:33",
+      "object_name": "Anisodus tanguticus1"
+    }
+  ]
+}

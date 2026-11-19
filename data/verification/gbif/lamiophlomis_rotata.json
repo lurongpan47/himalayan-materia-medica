@@ -1,0 +1,29 @@
+{
+  "id": "lamiophlomis_rotata",
+  "binomial": "Lamiophlomis rotata",
+  "status": "matched",
+  "usageKey": 7308171,
+  "accepted_name": "Lamiophlomis rotata (Benth. ex Hook.f.) Kudô",
+  "confidence": 98,
+  "matchType": "EXACT",
+  "total_occurrences": 418,
+  "countries_raw": {
+    "CN": 403,
+    "BT": 1,
+    "NP": 1,
+    "TW": 1
+  },
+  "himalayan_countries": {
+    "CN": 403,
+    "BT": 1,
+    "NP": 1
+  },
+  "elevation": {
+    "n": 33,
+    "min": 3535,
+    "max": 5200,
+    "p10": 3535,
+    "p90": 4900,
+    "median": 4600
+  }
+}

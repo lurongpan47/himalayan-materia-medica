@@ -1,0 +1,68 @@
+{
+  "id": "piper_longum",
+  "binomial": "Piper longum",
+  "source": "category",
+  "n_candidates": 15,
+  "candidates": [
+    {
+      "title": "File:Blätter und Früchte vom Langen Pfeffer, Piper Longum.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Bl%C3%A4tter_und_Fr%C3%BCchte_vom_Langen_Pfeffer%2C_Piper_Longum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bl%C3%A4tter_und_Fr%C3%BCchte_vom_Langen_Pfeffer,_Piper_Longum.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Myrmux",
+      "credit": "Own work",
+      "date": "2024-03-20 16:54:37",
+      "object_name": "Blätter und Früchte vom Langen Pfeffer, Piper Longum"
+    },
+    {
+      "title": "File:Blätter und Früchte von Piper Longum, Langer Pfeffer.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Bl%C3%A4tter_und_Fr%C3%BCchte_von_Piper_Longum%2C_Langer_Pfeffer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bl%C3%A4tter_und_Fr%C3%BCchte_von_Piper_Longum,_Langer_Pfeffer.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Myrmux",
+      "credit": "Own work",
+      "date": "2024-03-20 16:54:37",
+      "object_name": "Blätter und Früchte von Piper Longum, Langer Pfeffer"
+    },
+    {
+      "title": "File:Capsicum-chillies-pepper.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Capsicum-chillies-pepper.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Capsicum-chillies-pepper.png",
+      "mime": "image/png",
+      "license_short": "Public domain",
+      "license_url": null,
+      "artist": "McCormick and company",
+      "credit": "Spices, their nature and growth, the vanilla bean, a talk on tea (1915)",
+      "date": "2012-05-22 13:42:40",
+      "object_name": "Capsicum-chillies-pepper"
+    },
+    {
+      "title": "File:Dipli.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Dipli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dipli.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Takeaway",
+      "credit": "Own work",
+      "date": "2013-01-27 09:23:44",
+      "object_name": "Dipli"
+    },
+    {
+      "title": "File:Kaviarpfeffer.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Kaviarpfeffer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kaviarpfeffer.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "User:Fornax",
+      "credit": "Own work",
+      "date": "2022-08-28 04:40:26",
+      "object_name": "Kaviarpfeffer"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "oxytropis_falcata",
+  "binomial": "Oxytropis falcata",
+  "status": "matched",
+  "usageKey": 5360815,
+  "accepted_name": "Oxytropis falcata Bunge",
+  "confidence": 97,
+  "matchType": "EXACT",
+  "total_occurrences": 279,
+  "countries_raw": {
+    "CN": 257,
+    "MN": 4,
+    "TJ": 1
+  },
+  "himalayan_countries": {
+    "CN": 257
+  },
+  "elevation": {
+    "n": 19,
+    "min": 2500,
+    "max": 4250,
+    "p10": 2500,
+    "p90": 4250,
+    "median": 3400
+  }
+}

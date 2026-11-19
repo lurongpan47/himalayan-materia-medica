@@ -1,0 +1,68 @@
+{
+  "id": "piper_nigrum",
+  "binomial": "Piper nigrum",
+  "source": "category",
+  "n_candidates": 13,
+  "candidates": [
+    {
+      "title": "File:20160125 Sri Lanka 3870 Palapathwela sRGB (25770737285).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/20160125_Sri_Lanka_3870_Palapathwela_sRGB_%2825770737285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:20160125_Sri_Lanka_3870_Palapathwela_sRGB_(25770737285).jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Dan Lundberg",
+      "credit": "20160125_Sri Lanka_3870 Palapathwela sRGB",
+      "date": "2016-03-24 16:26:17",
+      "object_name": "20160125 Sri Lanka 3870 Palapathwela sRGB (25770737285)"
+    },
+    {
+      "title": "File:2017-01-05-Pfeffer-9451.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/2017-01-05-Pfeffer-9451.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:2017-01-05-Pfeffer-9451.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Superbass",
+      "credit": "Own work",
+      "date": "2017-01-06 14:19:26",
+      "object_name": "2017-01-05-Pfeffer-9451"
+    },
+    {
+      "title": "File:Adrian Scottow, Black Pepper at Sri Sri Auniati Satra IMG 7950.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Adrian_Scottow%2C_Black_Pepper_at_Sri_Sri_Auniati_Satra_IMG_7950.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Adrian_Scottow,_Black_Pepper_at_Sri_Sri_Auniati_Satra_IMG_7950.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Adrian Scottow",
+      "credit": "https://www.flickr.com/photos/chodhound/54448772621/",
+      "date": "2025-07-19 10:20:13",
+      "object_name": "Adrian Scottow, Black Pepper at Sri Sri Auniati Satra IMG 7950"
+    },
+    {
+      "title": "File:ARS copper rich foods.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/ARS_copper_rich_foods.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:ARS_copper_rich_foods.jpg",
+      "mime": "image/jpeg",
+      "license_short": "Public domain",
+      "license_url": null,
+      "artist": "Keith Weller, USDA ARS",
+      "credit": "This image was released by the  Agricultural Research Service , the research agency of the  United States Department of Agriculture , with the ID  K5106-1    (next)  .",
+      "date": "2007-08-01 04:48:59",
+      "object_name": "ARS copper rich foods"
+    },
+    {
+      "title": "File:Asystasia dalzelliana (32826).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Asystasia_dalzelliana_%2832826%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Asystasia_dalzelliana_(32826).jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Nativeplants garden",
+      "credit": "Own work",
+      "date": "2026-08-13 03:16:11",
+      "object_name": "Asystasia dalzelliana (32826)"
+    }
+  ]
+}

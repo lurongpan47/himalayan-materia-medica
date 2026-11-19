@@ -1,0 +1,19 @@
+{
+  "id": "tanacetum_tomentosum",
+  "binomial": "Tanacetum tomentosum",
+  "status": "matched",
+  "usageKey": 7846388,
+  "accepted_name": "Tanacetum tomentosum Regel & Herder, 1867",
+  "confidence": 97,
+  "matchType": "EXACT",
+  "total_occurrences": 1,
+  "countries_raw": {
+    "PK": 1
+  },
+  "himalayan_countries": {
+    "PK": 1
+  },
+  "elevation": {
+    "n": 0
+  }
+}

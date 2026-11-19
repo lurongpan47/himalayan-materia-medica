@@ -1,0 +1,63 @@
+{
+  "inputString": "Saussurea involucrata",
+  "searchString": "Saussurea involucrata",
+  "params": {
+    "checkHomonyms": false,
+    "checkRank": false,
+    "method": "full",
+    "acceptSingleCandidate": false,
+    "fuzzyNameParts": 0,
+    "fuzzyAuthors": 0,
+    "limit": 50,
+    "classificationVersion": "2026-06",
+    "year": null,
+    "rank": null,
+    "authors": null
+  },
+  "match": null,
+  "candidates": [
+    {
+      "wfo_id": "wfo-0000065601",
+      "full_name_plain": "Saussurea involucrata (Kar. & Kir.) Maxim.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Saussurea</i> <i>involucrata</i></span> <span class=\"wfo-name-authors\" >(Kar. & Kir.) Maxim.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Asterales/Asteraceae/Carduoideae/Cardueae/Saussureinae/Saussurea/involucrata$Saussurea/involucrata"
+    },
+    {
+      "wfo_id": "wfo-0000115801",
+      "full_name_plain": "Saussurea involucrata Kar. & Kir.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Saussurea</i> <i>involucrata</i></span> <span class=\"wfo-name-authors\" >Kar. & Kir.</span></span>",
+      "placement": ""
+    },
+    {
+      "wfo_id": "wfo-0000116367",
+      "full_name_plain": "Saussurea involucrata Matsum. & Koidzum.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Saussurea</i> <i>involucrata</i></span> <span class=\"wfo-name-authors\" >Matsum. & Koidzum.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Asterales/Asteraceae/Carduoideae/Cardueae/Saussureinae/Saussurea/involucrata"
+    },
+    {
+      "wfo_id": "wfo-0000060768",
+      "full_name_plain": "Saussurea involucrata (Kar. & Kir.) Sch.Bip.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Saussurea</i> <i>involucrata</i></span> <span class=\"wfo-name-authors\" >(Kar. & Kir.) Sch.Bip.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Asterales/Asteraceae/Carduoideae/Cardueae/Saussureinae/Saussurea/involucrata"
+    }
+  ],
+  "error": false,
+  "errorMessage": null,
+  "parsedName": {
+    "rank": "species",
+    "canonical_form": "Saussurea involucrata",
+    "author_string": ""
+  },
+  "narrative": [
+    "The first word is always a name part word: 'Saussurea'",
+    "Word is found in index and so is part of name: 'involucrata'.",
+    "Word is lowercase. Subsequent words must start with lowercase: 'involucrata'.",
+    "No authors string provided. Will match all authors strings.",
+    "Parsed name complete.",
+    "Rank estimated as 'species' from name parts.",
+    "Searched index of 2026-06 for canonical form of name 'Saussurea involucrata' and found 4 candidates.",
+    "Looking for matching author strings.",
+    "Still no match found.",
+    "But 4 candidates found."
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "amomum_subulatum",
+  "binomial": "Amomum subulatum",
+  "source": "category",
+  "n_candidates": 12,
+  "candidates": [
+    {
+      "title": "File:Alaichi.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Alaichi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Alaichi.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Janak Bhatta",
+      "credit": "Own work",
+      "date": "2019-06-11 07:14:35",
+      "object_name": "Alaichi"
+    },
+    {
+      "title": "File:Amomum subulatum north Bengal AJT Johnsingh.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Amomum_subulatum_north_Bengal_AJT_Johnsingh.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Amomum_subulatum_north_Bengal_AJT_Johnsingh.JPG",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "A. J. T. Johnsingh, WWF-India and NCF",
+      "credit": "Own work",
+      "date": "2017-06-01 04:00:30",
+      "object_name": "Amomum subulatum north Bengal AJT Johnsingh"
+    },
+    {
+      "title": "File:Amomum subulatum-1-JNTBGRI-kerala-India.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Amomum_subulatum-1-JNTBGRI-kerala-India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Amomum_subulatum-1-JNTBGRI-kerala-India.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Yercaud-elango",
+      "credit": "Own work",
+      "date": "2018-06-19 15:51:58",
+      "object_name": "Amomum subulatum-1-JNTBGRI-kerala-India"
+    },
+    {
+      "title": "File:Amomum subulatum-2-JNTBGRI-kerala-India.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Amomum_subulatum-2-JNTBGRI-kerala-India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Amomum_subulatum-2-JNTBGRI-kerala-India.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Yercaud-elango",
+      "credit": "Own work",
+      "date": "2018-06-19 15:51:59",
+      "object_name": "Amomum subulatum-2-JNTBGRI-kerala-India"
+    },
+    {
+      "title": "File:Amomum subulatum-3-JNTBGRI-kerala-India.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Amomum_subulatum-3-JNTBGRI-kerala-India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Amomum_subulatum-3-JNTBGRI-kerala-India.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Yercaud-elango",
+      "credit": "Own work",
+      "date": "2018-06-19 15:51:59",
+      "object_name": "Amomum subulatum-3-JNTBGRI-kerala-India"
+    }
+  ]
+}

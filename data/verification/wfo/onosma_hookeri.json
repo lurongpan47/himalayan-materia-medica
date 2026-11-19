@@ -1,0 +1,42 @@
+{
+  "inputString": "Onosma hookeri",
+  "searchString": "Onosma hookeri",
+  "params": {
+    "checkHomonyms": false,
+    "checkRank": false,
+    "method": "full",
+    "acceptSingleCandidate": false,
+    "fuzzyNameParts": 0,
+    "fuzzyAuthors": 0,
+    "limit": 50,
+    "classificationVersion": "2026-06",
+    "year": null,
+    "rank": null,
+    "authors": null
+  },
+  "match": {
+    "wfo_id": "wfo-0001216076",
+    "full_name_plain": "Onosma hookeri C.B.Clarke",
+    "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Onosma</i> <i>hookeri</i></span> <span class=\"wfo-name-authors\" >C.B.Clarke</span></span>",
+    "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Boraginales/Boraginaceae/Boraginoideae/Lithospermeae/Onosma/hookeri"
+  },
+  "candidates": [],
+  "error": false,
+  "errorMessage": null,
+  "parsedName": {
+    "rank": "species",
+    "canonical_form": "Onosma hookeri",
+    "author_string": ""
+  },
+  "narrative": [
+    "The first word is always a name part word: 'Onosma'",
+    "Word is found in index and so is part of name: 'hookeri'.",
+    "Word is lowercase. Subsequent words must start with lowercase: 'hookeri'.",
+    "No authors string provided. Will match all authors strings.",
+    "Parsed name complete.",
+    "Rank estimated as 'species' from name parts.",
+    "Searched index of 2026-06 for canonical form of name 'Onosma hookeri' and found 1 candidates.",
+    "Looking for matching author strings.",
+    "Only one candidate found (wfo-0001216076) and no author string supplied so name becomes match."
+  ]
+}

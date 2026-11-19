@@ -1,0 +1,68 @@
+{
+  "id": "caragana_jubata",
+  "binomial": "Caragana jubata",
+  "source": "category",
+  "n_candidates": 8,
+  "candidates": [
+    {
+      "title": "File:Caragana jubata (Flora of Tajikistan).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Caragana_jubata_%28Flora_of_Tajikistan%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Caragana_jubata_(Flora_of_Tajikistan).png",
+      "mime": "image/png",
+      "license_short": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Arkadiusz Nowak, Marcin Nobis, Sylwia Nowak, Agnieszka Nobis, Anna Wróbel, Sebastian Świerszcz, Ewelina Klichowska, Iwona Dembicz &amp; Grzegorz Kusza",
+      "credit": "Arkadiusz Nowak and Marcin Nobs (Eds): Illustrated Flora of Tajikistan and adjacent areas, Polish Academy of Sciences, Warsaw, 2020.",
+      "date": "2025-02-03 19:01:47",
+      "object_name": "Caragana jubata (Flora of Tajikistan)"
+    },
+    {
+      "title": "File:Caragana jubata 103840270.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Caragana_jubata_103840270.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Caragana_jubata_103840270.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Юлия",
+      "credit": "https://www.inaturalist.org/photos/103840270",
+      "date": "2022-01-13 15:58:00",
+      "object_name": "Caragana jubata 103840270"
+    },
+    {
+      "title": "File:Caragana jubata 157278309.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Caragana_jubata_157278309.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Caragana_jubata_157278309.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Юлия",
+      "credit": "https://www.inaturalist.org/photos/157278309",
+      "date": "2022-01-13 15:57:28",
+      "object_name": "Caragana jubata 157278309"
+    },
+    {
+      "title": "File:Caragana jubata 158981353.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Caragana_jubata_158981353.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Caragana_jubata_158981353.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Юлия",
+      "credit": "https://www.inaturalist.org/photos/158981353",
+      "date": "2022-01-13 15:57:08",
+      "object_name": "Caragana jubata 158981353"
+    },
+    {
+      "title": "File:Caragana jubata 47194592.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Caragana_jubata_47194592.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Caragana_jubata_47194592.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Mathew Zappa",
+      "credit": "https://www.inaturalist.org/photos/47194592",
+      "date": "2022-01-13 15:58:22",
+      "object_name": "Caragana jubata 47194592"
+    }
+  ]
+}

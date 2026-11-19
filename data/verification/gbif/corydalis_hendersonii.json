@@ -1,0 +1,28 @@
+{
+  "id": "corydalis_hendersonii",
+  "binomial": "Corydalis hendersonii",
+  "status": "matched",
+  "usageKey": 7548787,
+  "accepted_name": "Corydalis hendersonii Hemsl.",
+  "confidence": 98,
+  "matchType": "EXACT",
+  "total_occurrences": 126,
+  "countries_raw": {
+    "CN": 97,
+    "IN": 13,
+    "NP": 4
+  },
+  "himalayan_countries": {
+    "CN": 97,
+    "IN": 13,
+    "NP": 4
+  },
+  "elevation": {
+    "n": 22,
+    "min": 4690,
+    "max": 5600,
+    "p10": 5030,
+    "p90": 5500,
+    "median": 5270
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "pedicularis_oederi",
+  "binomial": "Pedicularis oederi",
+  "source": "category",
+  "n_candidates": 12,
+  "candidates": [
+    {
+      "title": "File:Alpenläusekraut.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Alpenl%C3%A4usekraut.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Alpenl%C3%A4usekraut.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Uwelino",
+      "credit": "Own work",
+      "date": "2017-06-27 17:36:53",
+      "object_name": "Alpenläusekraut"
+    },
+    {
+      "title": "File:File-Pedicularis oederi-NPS Jacob W. Frank (fdb9a167-1dd8-b71c-0708-60e7467bc05d).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/File-Pedicularis_oederi-NPS_Jacob_W._Frank_%28fdb9a167-1dd8-b71c-0708-60e7467bc05d%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:File-Pedicularis_oederi-NPS_Jacob_W._Frank_(fdb9a167-1dd8-b71c-0708-60e7467bc05d).jpg",
+      "mime": "image/jpeg",
+      "license_short": "Public domain",
+      "license_url": null,
+      "artist": "Jacob W. Frank",
+      "credit": "NPGallery",
+      "date": "2024-11-17 13:24:30",
+      "object_name": "Oeder's Lousewort"
+    },
+    {
+      "title": "File:Flora Danica Hft 01 Tab 0030.tif",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flora_Danica_Hft_01_Tab_0030.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flora_Danica_Hft_01_Tab_0030.tif",
+      "mime": "image/tiff",
+      "license_short": "Public domain",
+      "license_url": null,
+      "artist": "Flora Danica  (1761–1883) – scientific and artistic contributors:\n   Botanical authors: \n \n  Jens Wilken Hornemann (1770–1841) \n Johan Martin Christian Lange (1818–1898) \n Frederik Michael Liebmann (1813–1856) \n Otto Frederik Müller (1730–1784) \n Georg Christian Oeder (1728–1791) \n Martin Vahl (1749–1804)  \n  Artistic contributors: \n \n  Michael Rössler – chief artist (fascicles 1–3) \n Christian F. Müller – artist and engraver \n Johan Adolph Kittendorff – engraver \n Johan Theodor Bayer – artist \n Martin Rössler – artist \n Christian Gottlieb Kratzenstein – artist \n Various anonymous colourists and assistants",
+      "credit": "Flora Danica , fasc. 1, tab. 30\n \n  Digital samling hos Det Kgl. Bibliotek:  https://digitalesamlinger.kb.dk/images/billed/2010/okt/billeder/object315487/da/  \n LOAR‑post:  https://loar.kb.dk/handle/1902/49102",
+      "date": "2026-05-13 10:46:40",
+      "object_name": "Pedicularis flammea Oed. (non L.)"
+    },
+    {
+      "title": "File:Pedicularis oederi (36401633002).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Pedicularis_oederi_%2836401633002%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pedicularis_oederi_(36401633002).jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "xulescu_g",
+      "credit": "Pedicularis oederi",
+      "date": "2018-01-26 07:11:03",
+      "object_name": "Pedicularis oederi (36401633002)"
+    },
+    {
+      "title": "File:Pedicularis oederi (7833380376).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Pedicularis_oederi_%287833380376%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pedicularis_oederi_(7833380376).jpg",
+      "mime": "image/jpeg",
+      "license_short": "Public domain",
+      "license_url": null,
+      "artist": "NPS / Jacob W. Frank:  Denali National Park and Preserve",
+      "credit": "Oeder's Lousewort \n \n  Uploaded by  AlbertHerring",
+      "date": "2013-11-14 04:47:37",
+      "object_name": "Pedicularis oederi (7833380376)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "picrorhiza_kurroa",
+  "binomial": "Picrorhiza kurroa",
+  "source": "category",
+  "n_candidates": 2,
+  "candidates": [
+    {
+      "title": "File:Picrorhiza kurroa kz01.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Picrorhiza_kurroa_kz01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Picrorhiza_kurroa_kz01.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Krzysztof Ziarnek, Kenraiz",
+      "credit": "Own work",
+      "date": "2021-11-11 18:55:40",
+      "object_name": "Picrorhiza kurroa kz01"
+    },
+    {
+      "title": "File:Illustrations of the botany and other branches of the natural history of the Himalayan Mountains (Pl. 71) (6982092038).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Illustrations_of_the_botany_and_other_branches_of_the_natural_history_of_the_Himalayan_Mountains_%28Pl._71%29_%286982092038%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Illustrations_of_the_botany_and_other_branches_of_the_natural_history_of_the_Himalayan_Mountains_(Pl._71)_(6982092038).jpg",
+      "mime": "image/jpeg",
+      "license_short": "Public domain",
+      "license_url": null,
+      "artist": "Royle, J. Forbes",
+      "credit": "https://www.flickr.com/photos/biodivlibrary/6982092038",
+      "date": "2015-09-13 14:43:23",
+      "object_name": "Illustrations of the botany and other branches of the natural history of the Himalayan Mountains (Pl. 71) (6982092038)"
+    }
+  ]
+}

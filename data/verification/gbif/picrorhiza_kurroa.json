@@ -1,0 +1,35 @@
+{
+  "id": "picrorhiza_kurroa",
+  "binomial": "Picrorhiza kurroa",
+  "status": "matched",
+  "usageKey": 3727300,
+  "accepted_name": "Picrorhiza kurroa Royle ex Benth.",
+  "confidence": 99,
+  "matchType": "EXACT",
+  "total_occurrences": 248,
+  "countries_raw": {
+    "IN": 125,
+    "PK": 18,
+    "CN": 11,
+    "NP": 6,
+    "ZZ": 3,
+    "ES": 2,
+    "BT": 1,
+    "NZ": 1
+  },
+  "himalayan_countries": {
+    "IN": 125,
+    "PK": 18,
+    "CN": 11,
+    "NP": 6,
+    "BT": 1
+  },
+  "elevation": {
+    "n": 11,
+    "min": 1676,
+    "max": 4670,
+    "p10": 3320,
+    "p90": 4150,
+    "median": 3600
+  }
+}

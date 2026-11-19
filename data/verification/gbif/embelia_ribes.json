@@ -1,0 +1,52 @@
+{
+  "id": "embelia_ribes",
+  "binomial": "Embelia ribes",
+  "status": "matched",
+  "usageKey": 7330952,
+  "accepted_name": "Embelia ribes Burm.fil.",
+  "confidence": 99,
+  "matchType": "EXACT",
+  "total_occurrences": 2596,
+  "countries_raw": {
+    "CN": 1239,
+    "ID": 286,
+    "IN": 213,
+    "VN": 130,
+    "MY": 105,
+    "HK": 94,
+    "TH": 75,
+    "LK": 52,
+    "SG": 40,
+    "MM": 30,
+    "KH": 20,
+    "PG": 18,
+    "ZZ": 17,
+    "LA": 12,
+    "BD": 11,
+    "BT": 8,
+    "ZA": 6,
+    "JP": 3,
+    "MN": 2,
+    "MO": 2,
+    "PH": 2,
+    "US": 2,
+    "IR": 1,
+    "KZ": 1,
+    "NP": 1
+  },
+  "himalayan_countries": {
+    "CN": 1239,
+    "IN": 213,
+    "MM": 30,
+    "BT": 8,
+    "NP": 1
+  },
+  "elevation": {
+    "n": 111,
+    "min": 30,
+    "max": 7662,
+    "p10": 150,
+    "p90": 1930,
+    "median": 1150
+  }
+}

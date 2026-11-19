@@ -1,0 +1,68 @@
+{
+  "id": "tribulus_terrestris",
+  "binomial": "Tribulus terrestris",
+  "source": "category",
+  "n_candidates": 14,
+  "candidates": [
+    {
+      "title": "File:\"Tribulus terrestris\".jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/%22Tribulus_terrestris%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:%22Tribulus_terrestris%22.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Thamizhpparithi Maari",
+      "credit": "Own work",
+      "date": "2013-11-28 18:22:22",
+      "object_name": "\"Tribulus terrestris\""
+    },
+    {
+      "title": "File:Devil Thorn (Tribulus terrestris) (53086003859).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Devil_Thorn_%28Tribulus_terrestris%29_%2853086003859%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Devil_Thorn_(Tribulus_terrestris)_(53086003859).jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Bernard DUPONT  from FRANCE",
+      "credit": "Devil Thorn (Tribulus terrestris)",
+      "date": "2023-08-04 23:57:01",
+      "object_name": "Devil Thorn (Tribulus terrestris) (53086003859)"
+    },
+    {
+      "title": "File:Devil's Thorn (Tribulus terrestris) (11883835994).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Devil%27s_Thorn_%28Tribulus_terrestris%29_%2811883835994%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Devil%27s_Thorn_(Tribulus_terrestris)_(11883835994).jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Bernard DUPONT  from FRANCE",
+      "credit": "Devil's Thorn (Tribulus terrestris)",
+      "date": "2015-06-05 05:04:09",
+      "object_name": "Devil's Thorn (Tribulus terrestris) (11883835994)"
+    },
+    {
+      "title": "File:Devil's Thorn (Tribulus terrestris) (11884273406).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Devil%27s_Thorn_%28Tribulus_terrestris%29_%2811884273406%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Devil%27s_Thorn_(Tribulus_terrestris)_(11884273406).jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Bernard DUPONT  from FRANCE",
+      "credit": "Devil's Thorn (Tribulus terrestris)",
+      "date": "2015-06-05 05:04:39",
+      "object_name": "Devil's Thorn (Tribulus terrestris) (11884273406)"
+    },
+    {
+      "title": "File:Dried Tribulus Terrestris at Bakin Dogo Market, Kaduna North.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Dried_Tribulus_Terrestris_at_Bakin_Dogo_Market%2C_Kaduna_North.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dried_Tribulus_Terrestris_at_Bakin_Dogo_Market,_Kaduna_North.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Samsule2",
+      "credit": "Own work",
+      "date": "2025-04-08 12:23:34",
+      "object_name": "Dried Tribulus Terrestris at Bakin Dogo Market, Kaduna North"
+    }
+  ]
+}

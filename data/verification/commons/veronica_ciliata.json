@@ -1,0 +1,68 @@
+{
+  "id": "veronica_ciliata",
+  "binomial": "Veronica ciliata",
+  "source": "category",
+  "n_candidates": 5,
+  "candidates": [
+    {
+      "title": "File:Veronica ciliata 112921011.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Veronica_ciliata_112921011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Veronica_ciliata_112921011.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Peter L Achuff",
+      "credit": "https://www.inaturalist.org/photos/112921011",
+      "date": "2021-09-19 12:40:21",
+      "object_name": "Veronica ciliata 112921011"
+    },
+    {
+      "title": "File:Continental Divide Trail - Flickr - aspidoscelis (1).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Continental_Divide_Trail_-_Flickr_-_aspidoscelis_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Continental_Divide_Trail_-_Flickr_-_aspidoscelis_(1).jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Patrick Alexander  from Las Cruces, NM",
+      "credit": "Continental Divide Trail",
+      "date": "2020-10-02 22:57:51",
+      "object_name": "Continental Divide Trail - Flickr - aspidoscelis (1)"
+    },
+    {
+      "title": "File:Continental Divide Trail - Flickr - aspidoscelis (6).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Continental_Divide_Trail_-_Flickr_-_aspidoscelis_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Continental_Divide_Trail_-_Flickr_-_aspidoscelis_(6).jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Patrick Alexander  from Las Cruces, NM",
+      "credit": "Continental Divide Trail",
+      "date": "2020-10-02 23:17:21",
+      "object_name": "Continental Divide Trail - Flickr - aspidoscelis (6)"
+    },
+    {
+      "title": "File:East of Conejos Peak - Flickr - aspidoscelis.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/East_of_Conejos_Peak_-_Flickr_-_aspidoscelis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:East_of_Conejos_Peak_-_Flickr_-_aspidoscelis.jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Patrick Alexander  from Las Cruces, NM",
+      "credit": "East of Conejos Peak",
+      "date": "2020-10-02 22:57:28",
+      "object_name": "East of Conejos Peak - Flickr - aspidoscelis"
+    },
+    {
+      "title": "File:Near Rio de los Pinos - Flickr - aspidoscelis (1).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Near_Rio_de_los_Pinos_-_Flickr_-_aspidoscelis_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Near_Rio_de_los_Pinos_-_Flickr_-_aspidoscelis_(1).jpg",
+      "mime": "image/jpeg",
+      "license_short": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Patrick Alexander  from Las Cruces, NM",
+      "credit": "Near Rio de los Pinos",
+      "date": "2020-10-03 11:34:30",
+      "object_name": "Near Rio de los Pinos - Flickr - aspidoscelis (1)"
+    }
+  ]
+}

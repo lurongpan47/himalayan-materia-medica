@@ -1,0 +1,57 @@
+{
+  "inputString": "Pterocarpus santalinus",
+  "searchString": "Pterocarpus santalinus",
+  "params": {
+    "checkHomonyms": false,
+    "checkRank": false,
+    "method": "full",
+    "acceptSingleCandidate": false,
+    "fuzzyNameParts": 0,
+    "fuzzyAuthors": 0,
+    "limit": 50,
+    "classificationVersion": "2026-06",
+    "year": null,
+    "rank": null,
+    "authors": null
+  },
+  "match": null,
+  "candidates": [
+    {
+      "wfo_id": "wfo-0000185973",
+      "full_name_plain": "Pterocarpus santalinus L.f.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Pterocarpus</i> <i>santalinus</i></span> <span class=\"wfo-name-authors\" >L.f.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Fabales/Fabaceae/Papilionoideae/Pterocarpus/santalinus"
+    },
+    {
+      "wfo_id": "wfo-1200021856",
+      "full_name_plain": "Pterocarpus santalinus Buch.-Ham. ex Wall.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Pterocarpus</i> <i>santalinus</i></span> <span class=\"wfo-name-authors\" >Buch.-Ham. ex Wall.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Fabales/Fabaceae/Papilionoideae/Pterocarpus/marsupium/marsupium$Pterocarpus/santalinus"
+    },
+    {
+      "wfo_id": "wfo-1200021857",
+      "full_name_plain": "Pterocarpus santalinus Blanco",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Pterocarpus</i> <i>santalinus</i></span> <span class=\"wfo-name-authors\" >Blanco</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Fabales/Fabaceae/Papilionoideae/Pterocarpus/indicus$Pterocarpus/santalinus"
+    }
+  ],
+  "error": false,
+  "errorMessage": null,
+  "parsedName": {
+    "rank": "species",
+    "canonical_form": "Pterocarpus santalinus",
+    "author_string": ""
+  },
+  "narrative": [
+    "The first word is always a name part word: 'Pterocarpus'",
+    "Word is found in index and so is part of name: 'santalinus'.",
+    "Word is lowercase. Subsequent words must start with lowercase: 'santalinus'.",
+    "No authors string provided. Will match all authors strings.",
+    "Parsed name complete.",
+    "Rank estimated as 'species' from name parts.",
+    "Searched index of 2026-06 for canonical form of name 'Pterocarpus santalinus' and found 3 candidates.",
+    "Looking for matching author strings.",
+    "Still no match found.",
+    "But 3 candidates found."
+  ]
+}

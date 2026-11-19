@@ -1,0 +1,20 @@
+{
+  "id": "chrysanthemum_tatsienense",
+  "binomial": "Chrysanthemum tatsienense",
+  "status": "matched",
+  "usageKey": 4234508,
+  "accepted_name": "Chrysanthemum tatsienense Bureau & Franch.",
+  "confidence": 98,
+  "matchType": "EXACT",
+  "total_occurrences": 88,
+  "countries_raw": {
+    "CN": 46,
+    "ZZ": 1
+  },
+  "himalayan_countries": {
+    "CN": 46
+  },
+  "elevation": {
+    "n": 0
+  }
+}

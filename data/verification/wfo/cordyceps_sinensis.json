@@ -1,0 +1,358 @@
+{
+  "inputString": "Ophiocordyceps sinensis",
+  "searchString": "Ophiocordyceps sinensis",
+  "params": {
+    "checkHomonyms": false,
+    "checkRank": false,
+    "method": "full",
+    "acceptSingleCandidate": false,
+    "fuzzyNameParts": 0,
+    "fuzzyAuthors": 0,
+    "limit": 50,
+    "classificationVersion": "2026-06",
+    "year": null,
+    "rank": null,
+    "authors": null
+  },
+  "match": null,
+  "candidates": [
+    {
+      "wfo_id": "wfo-4000026935",
+      "full_name_plain": "Ophiocolea H.Perrier",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocolea</i></span> <span class=\"wfo-name-authors\" >H.Perrier</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Lamiales/Bignoniaceae/Colea$Ophiocolea"
+    },
+    {
+      "wfo_id": "wfo-0000922155",
+      "full_name_plain": "Ophiocolea ambrensis Callm. & Phillipson",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocolea</i> <i>ambrensis</i></span> <span class=\"wfo-name-authors\" >Callm. & Phillipson</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Lamiales/Bignoniaceae/Colea/ambrensis$Ophiocolea/ambrensis"
+    },
+    {
+      "wfo_id": "wfo-0000779193",
+      "full_name_plain": "Ophiocolea comorensis H.Perrier",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocolea</i> <i>comorensis</i></span> <span class=\"wfo-name-authors\" >H.Perrier</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Lamiales/Bignoniaceae/Colea/comorensis$Ophiocolea/comorensis"
+    },
+    {
+      "wfo_id": "wfo-0000922150",
+      "full_name_plain": "Ophiocolea darainensis Callm., Phillipson & Nusb.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocolea</i> <i>darainensis</i></span> <span class=\"wfo-name-authors\" >Callm., Phillipson & Nusb.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Lamiales/Bignoniaceae/Colea/darainensis$Ophiocolea/darainensis"
+    },
+    {
+      "wfo_id": "wfo-0000779185",
+      "full_name_plain": "Ophiocolea decaryi H.Perrier",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocolea</i> <i>decaryi</i></span> <span class=\"wfo-name-authors\" >H.Perrier</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Lamiales/Bignoniaceae/Colea/decaryi$Ophiocolea/decaryi"
+    },
+    {
+      "wfo_id": "wfo-0000779184",
+      "full_name_plain": "Ophiocolea delphinensis H.Perrier",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocolea</i> <i>delphinensis</i></span> <span class=\"wfo-name-authors\" >H.Perrier</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Lamiales/Bignoniaceae/Colea/delphinensis$Ophiocolea/delphinensis"
+    },
+    {
+      "wfo_id": "wfo-0000779183",
+      "full_name_plain": "Ophiocolea floribunda (Bojer) H.Perrier",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocolea</i> <i>floribunda</i></span> <span class=\"wfo-name-authors\" >(Bojer) H.Perrier</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Lamiales/Bignoniaceae/Colea/floribunda$Ophiocolea/floribunda"
+    },
+    {
+      "wfo_id": "wfo-0000922149",
+      "full_name_plain": "Ophiocolea pauciflora Callm., Phillipson & Nusb.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocolea</i> <i>pauciflora</i></span> <span class=\"wfo-name-authors\" >Callm., Phillipson & Nusb.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Lamiales/Bignoniaceae/Colea/pauciflora$Ophiocolea/pauciflora"
+    },
+    {
+      "wfo_id": "wfo-0000922152",
+      "full_name_plain": "Ophiocolea ratovosonii Callm. & Phillipson",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocolea</i> <i>ratovosonii</i></span> <span class=\"wfo-name-authors\" >Callm. & Phillipson</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Lamiales/Bignoniaceae/Colea/ratovosonii$Ophiocolea/ratovosonii"
+    },
+    {
+      "wfo_id": "wfo-0000779182",
+      "full_name_plain": "Ophiocolea velutina H.Perrier",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocolea</i> <i>velutina</i></span> <span class=\"wfo-name-authors\" >H.Perrier</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Lamiales/Bignoniaceae/Colea/velutina$Ophiocolea/velutina"
+    },
+    {
+      "wfo_id": "wfo-0000809332",
+      "full_name_plain": "Ophiocolea vokoaninensis Zjhra",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocolea</i> <i>vokoaninensis</i></span> <span class=\"wfo-name-authors\" >Zjhra</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Lamiales/Bignoniaceae/Colea/floribunda$Ophiocolea/vokoaninensis"
+    },
+    {
+      "wfo_id": "wfo-4000026929",
+      "full_name_plain": "Ophiocarpus (Bunge) Ikonn.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocarpus</i></span> <span class=\"wfo-name-authors\" >(Bunge) Ikonn.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Fabales/Fabaceae/Papilionoideae/Astragalus$Ophiocarpus"
+    },
+    {
+      "wfo_id": "wfo-0000205007",
+      "full_name_plain": "Ophiocarpus aitchisonii (Baker) Podlech",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocarpus</i> <i>aitchisonii</i></span> <span class=\"wfo-name-authors\" >(Baker) Podlech</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Fabales/Fabaceae/Papilionoideae/Astragalus/ophiocarpus$Ophiocarpus/aitchisonii"
+    },
+    {
+      "wfo_id": "wfo-0001262822",
+      "full_name_plain": "Ophiocarpus aitchisonii (Baker) Podlech",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocarpus</i> <i>aitchisonii</i></span> <span class=\"wfo-name-authors\" >(Baker) Podlech</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Fabales/Fabaceae/Papilionoideae/Astragalus/ophiocarpus$Ophiocarpus/aitchisonii"
+    },
+    {
+      "wfo_id": "wfo-0000190767",
+      "full_name_plain": "Ophiocarpus paulsenii (Freyn) Ikonn.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocarpus</i> <i>paulsenii</i></span> <span class=\"wfo-name-authors\" >(Freyn) Ikonn.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Fabales/Fabaceae/Papilionoideae/Astragalus/ophiocarpus$Ophiocarpus/paulsenii"
+    },
+    {
+      "wfo_id": "wfo-4000026930",
+      "full_name_plain": "Ophiocaryon Endl.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocaryon</i></span> <span class=\"wfo-name-authors\" >Endl.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Proteales/Sabiaceae/Ophiocaryon"
+    },
+    {
+      "wfo_id": "wfo-0000509882",
+      "full_name_plain": "Ophiocaryon barnebyanum Aymard & Daly",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocaryon</i> <i>barnebyanum</i></span> <span class=\"wfo-name-authors\" >Aymard & Daly</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Proteales/Sabiaceae/Ophiocaryon/barnebyanum"
+    },
+    {
+      "wfo_id": "wfo-0001278248",
+      "full_name_plain": "Ophiocaryon chironectes Barneby",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocaryon</i> <i>chironectes</i></span> <span class=\"wfo-name-authors\" >Barneby</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Proteales/Sabiaceae/Ophiocaryon/chironectes"
+    },
+    {
+      "wfo_id": "wfo-0001133343",
+      "full_name_plain": "Ophiocaryon duckei Barneby",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocaryon</i> <i>duckei</i></span> <span class=\"wfo-name-authors\" >Barneby</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Proteales/Sabiaceae/Ophiocaryon/duckei"
+    },
+    {
+      "wfo_id": "wfo-0001133325",
+      "full_name_plain": "Ophiocaryon heterophyllum (Benth.) Urb.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocaryon</i> <i>heterophyllum</i></span> <span class=\"wfo-name-authors\" >(Benth.) Urb.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Proteales/Sabiaceae/Ophiocaryon/heterophyllum"
+    },
+    {
+      "wfo_id": "wfo-0001133335",
+      "full_name_plain": "Ophiocaryon klugii Barneby",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocaryon</i> <i>klugii</i></span> <span class=\"wfo-name-authors\" >Barneby</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Proteales/Sabiaceae/Ophiocaryon/klugii"
+    },
+    {
+      "wfo_id": "wfo-0001278249",
+      "full_name_plain": "Ophiocaryon maguirei Barneby",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocaryon</i> <i>maguirei</i></span> <span class=\"wfo-name-authors\" >Barneby</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Proteales/Sabiaceae/Ophiocaryon/maguirei"
+    },
+    {
+      "wfo_id": "wfo-0000388715",
+      "full_name_plain": "Ophiocaryon manausense (W.A.Rodrigues) Barneby",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocaryon</i> <i>manausense</i></span> <span class=\"wfo-name-authors\" >(W.A.Rodrigues) Barneby</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Proteales/Sabiaceae/Ophiocaryon/manausense"
+    },
+    {
+      "wfo_id": "wfo-0000509883",
+      "full_name_plain": "Ophiocaryon neillii Aymard & Daly",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocaryon</i> <i>neillii</i></span> <span class=\"wfo-name-authors\" >Aymard & Daly</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Proteales/Sabiaceae/Ophiocaryon/neillii"
+    },
+    {
+      "wfo_id": "wfo-1000033384",
+      "full_name_plain": "Ophiocaryon nicolasii Aymard",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocaryon</i> <i>nicolasii</i></span> <span class=\"wfo-name-authors\" >Aymard</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Proteales/Sabiaceae/Ophiocaryon/nicolasii"
+    },
+    {
+      "wfo_id": "wfo-0001133303",
+      "full_name_plain": "Ophiocaryon paradoxum M.R.Schomb.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocaryon</i> <i>paradoxum</i></span> <span class=\"wfo-name-authors\" >M.R.Schomb.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Proteales/Sabiaceae/Ophiocaryon/paradoxum"
+    },
+    {
+      "wfo_id": "wfo-0000390518",
+      "full_name_plain": "Ophiocaryon pleurothallopsis (Kraenzl.) Barneby",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocaryon</i> <i>pleurothallopsis</i></span> <span class=\"wfo-name-authors\" >(Kraenzl.) Barneby</span></span>",
+      "placement": ""
+    },
+    {
+      "wfo_id": "wfo-4000026931",
+      "full_name_plain": "Ophiocaulon Raf.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocaulon</i></span> <span class=\"wfo-name-authors\" >Raf.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Fabales/Fabaceae/Caesalpinioideae/Chamaecrista$Ophiocaulon"
+    },
+    {
+      "wfo_id": "wfo-4000026932",
+      "full_name_plain": "Ophiocaulon Hook.f.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocaulon</i></span> <span class=\"wfo-name-authors\" >Hook.f.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Malpighiales/Passifloraceae/Adenia$Ophiocaulon"
+    },
+    {
+      "wfo_id": "wfo-0001266150",
+      "full_name_plain": "Ophiocaulon apiculatum De Wild. & T.Durand",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocaulon</i> <i>apiculatum</i></span> <span class=\"wfo-name-authors\" >De Wild. & T.Durand</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Malpighiales/Passifloraceae/Adenia/poggei$Ophiocaulon/apiculatum"
+    },
+    {
+      "wfo_id": "wfo-0000386927",
+      "full_name_plain": "Ophiocaulon cissampeloides (Planch. ex Benth.) Mast.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocaulon</i> <i>cissampeloides</i></span> <span class=\"wfo-name-authors\" >(Planch. ex Benth.) Mast.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Malpighiales/Passifloraceae/Adenia/cissampeloides$Ophiocaulon/cissampeloides"
+    },
+    {
+      "wfo_id": "wfo-1000081980",
+      "full_name_plain": "Ophiocaulon cissampeloides Hook.f.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocaulon</i> <i>cissampeloides</i></span> <span class=\"wfo-name-authors\" >Hook.f.</span></span>",
+      "placement": ""
+    },
+    {
+      "wfo_id": "wfo-0000386926",
+      "full_name_plain": "Ophiocaulon cynanchifolius (Benth.) Mast.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocaulon</i> <i>cynanchifolius</i></span> <span class=\"wfo-name-authors\" >(Benth.) Mast.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Malpighiales/Passifloraceae/Adenia/cynanchifolia$Ophiocaulon/cynanchifolius"
+    },
+    {
+      "wfo_id": "wfo-1000081981",
+      "full_name_plain": "Ophiocaulon cynanchifolius Hook.f.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocaulon</i> <i>cynanchifolius</i></span> <span class=\"wfo-name-authors\" >Hook.f.</span></span>",
+      "placement": ""
+    },
+    {
+      "wfo_id": "wfo-0000386925",
+      "full_name_plain": "Ophiocaulon dewevrei De Wild. & T.Durand",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocaulon</i> <i>dewevrei</i></span> <span class=\"wfo-name-authors\" >De Wild. & T.Durand</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Malpighiales/Passifloraceae/Adenia/poggei$Ophiocaulon/dewevrei"
+    },
+    {
+      "wfo_id": "wfo-0001090919",
+      "full_name_plain": "Ophiocaulon firingalavense Drake ex Jum.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocaulon</i> <i>firingalavense</i></span> <span class=\"wfo-name-authors\" >Drake ex Jum.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Malpighiales/Passifloraceae/Adenia/firingalavensis$Ophiocaulon/firingalavense"
+    },
+    {
+      "wfo_id": "wfo-0000386924",
+      "full_name_plain": "Ophiocaulon gracile Harms ex Pellegr.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocaulon</i> <i>gracile</i></span> <span class=\"wfo-name-authors\" >Harms ex Pellegr.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Malpighiales/Passifloraceae/Adenia/gracilis/gracilis$Ophiocaulon/gracile"
+    },
+    {
+      "wfo_id": "wfo-0000386959",
+      "full_name_plain": "Ophiocaulon gummifer (Harv.) Harv.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocaulon</i> <i>gummifer</i></span> <span class=\"wfo-name-authors\" >(Harv.) Harv.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Malpighiales/Passifloraceae/Adenia/gummifera$Ophiocaulon/gummifer"
+    },
+    {
+      "wfo_id": "wfo-0000386970",
+      "full_name_plain": "Ophiocaulon gummifer Mast.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocaulon</i> <i>gummifer</i></span> <span class=\"wfo-name-authors\" >Mast.</span></span>",
+      "placement": ""
+    },
+    {
+      "wfo_id": "wfo-0000386932",
+      "full_name_plain": "Ophiocaulon lanceolatum Engl.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocaulon</i> <i>lanceolatum</i></span> <span class=\"wfo-name-authors\" >Engl.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Malpighiales/Passifloraceae/Adenia/cynanchifolia$Ophiocaulon/lanceolatum"
+    },
+    {
+      "wfo_id": "wfo-0000386961",
+      "full_name_plain": "Ophiocaulon poggei Engl.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocaulon</i> <i>poggei</i></span> <span class=\"wfo-name-authors\" >Engl.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Malpighiales/Passifloraceae/Adenia/poggei$Ophiocaulon/poggei"
+    },
+    {
+      "wfo_id": "wfo-0001231750",
+      "full_name_plain": "Ophiocaulon reticulatum De Wild. & T.Durand",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocaulon</i> <i>reticulatum</i></span> <span class=\"wfo-name-authors\" >De Wild. & T.Durand</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Malpighiales/Passifloraceae/Adenia/reticulata$Ophiocaulon/reticulatum"
+    },
+    {
+      "wfo_id": "wfo-0000386962",
+      "full_name_plain": "Ophiocaulon rowlandii Baker",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocaulon</i> <i>rowlandii</i></span> <span class=\"wfo-name-authors\" >Baker</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Malpighiales/Passifloraceae/Adenia/cissampeloides$Ophiocaulon/rowlandii"
+    },
+    {
+      "wfo_id": "wfo-0000386964",
+      "full_name_plain": "Ophiocaulon schweinfurthii (Engl.) Engl.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocaulon</i> <i>schweinfurthii</i></span> <span class=\"wfo-name-authors\" >(Engl.) Engl.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Malpighiales/Passifloraceae/Adenia/schweinfurthii$Ophiocaulon/schweinfurthii"
+    },
+    {
+      "wfo_id": "wfo-0001060568",
+      "full_name_plain": "Ophiocaulon serpens (L.) Raf.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocaulon</i> <i>serpens</i></span> <span class=\"wfo-name-authors\" >(L.) Raf.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Fabales/Fabaceae/Caesalpinioideae/Chamaecrista/serpens$Ophiocaulon/serpens"
+    },
+    {
+      "wfo_id": "wfo-0000386972",
+      "full_name_plain": "Ophiocaulon tropaeoloides A.Chev.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocaulon</i> <i>tropaeoloides</i></span> <span class=\"wfo-name-authors\" >A.Chev.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Malpighiales/Passifloraceae/Adenia/cissampeloides$Ophiocaulon/tropaeoloides"
+    },
+    {
+      "wfo_id": "wfo-4000026933",
+      "full_name_plain": "Ophiocephalus Wiggins",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocephalus</i></span> <span class=\"wfo-name-authors\" >Wiggins</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Lamiales/Orobanchaceae/Castilleja$Ophiocephalus"
+    },
+    {
+      "wfo_id": "wfo-0000388643",
+      "full_name_plain": "Ophiocephalus angustifolius Wiggins",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiocephalus</i> <i>angustifolius</i></span> <span class=\"wfo-name-authors\" >Wiggins</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Lamiales/Orobanchaceae/Castilleja/ophiocephala$Ophiocephalus/angustifolius"
+    },
+    {
+      "wfo_id": "wfo-4000026934",
+      "full_name_plain": "Ophiochloa Filg.",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiochloa</i></span> <span class=\"wfo-name-authors\" >Filg.</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Poales/Poaceae/Axonopus$Ophiochloa"
+    },
+    {
+      "wfo_id": "wfo-0001278983",
+      "full_name_plain": "Ophiochloa bryoides G.H.Rua, R.C.Oliveira & Valls",
+      "full_name_html": "<span class=\"wfo-name-full\" ><span class=\"wfo-name\"><i>Ophiochloa</i> <i>bryoides</i></span> <span class=\"wfo-name-authors\" >G.H.Rua, R.C.Oliveira & Valls</span></span>",
+      "placement": "Code/Plantae/Pteridobiotina/Angiosperms/Poales/Poaceae/Axonopus/bryoides$Ophiochloa/bryoides"
+    }
+  ],
+  "error": false,
+  "errorMessage": null,
+  "parsedName": {
+    "rank": "species",
+    "canonical_form": "Ophiocordyceps sinensis",
+    "author_string": ""
+  },
+  "narrative": [
+    "The first word is always a name part word: 'Ophiocordyceps'",
+    "Word is found in index and so is part of name: 'sinensis'.",
+    "Word is lowercase. Subsequent words must start with lowercase: 'sinensis'.",
+    "No authors string provided. Will match all authors strings.",
+    "Parsed name complete.",
+    "Rank estimated as 'species' from name parts.",
+    "Searched index of 2026-06 for canonical form of name 'Ophiocordyceps sinensis' and found 0 candidates.",
+    "Still no match found.",
+    "No candidates found so moving to enhanced search (single candidates not accepted as matches)",
+    "Found no names for 'Ophiocordyceps sinensis'",
+    "Found no names for 'Ophiocordyceps sinensi'",
+    "Found no names for 'Ophiocordyceps sinens'",
+    "Found no names for 'Ophiocordyceps sinen'",
+    "Found no names for 'Ophiocordyceps sine'",
+    "Found no names for 'Ophiocordyceps sin'",
+    "Found no names for 'Ophiocordyceps si'",
+    "Found no names for 'Ophiocordyceps s'",
+    "Found no names for 'Ophiocordyceps '",
+    "Found no names for 'Ophiocordyceps'",
+    "Found no names for 'Ophiocordyceps'",
+    "Found no names for 'Ophiocordycep'",
+    "Found no names for 'Ophiocordyce'",
+    "Found no names for 'Ophiocordyc'",
+    "Found no names for 'Ophiocordy'",
+    "Found no names for 'Ophiocord'",
+    "Found no names for 'Ophiocor'",
+    "Found 11 names for 'Ophioco'",
+    "Found 50 names for 'Ophioc'",
+    "Got  50 candidates so stopping search."
+  ]
+}

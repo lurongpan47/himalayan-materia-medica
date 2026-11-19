@@ -1,0 +1,42 @@
+{
+  "id": "tinospora_sinensis",
+  "binomial": "Tinospora sinensis",
+  "status": "matched",
+  "usageKey": 3830295,
+  "accepted_name": "Tinospora sinensis (Lour.) Merr.",
+  "confidence": 99,
+  "matchType": "EXACT",
+  "total_occurrences": 254,
+  "countries_raw": {
+    "CN": 65,
+    "TH": 54,
+    "IN": 45,
+    "HK": 15,
+    "LK": 10,
+    "VN": 6,
+    "MM": 3,
+    "NP": 3,
+    "TW": 3,
+    "BD": 2,
+    "KH": 2,
+    "KR": 2,
+    "BT": 1,
+    "JP": 1,
+    "US": 1
+  },
+  "himalayan_countries": {
+    "CN": 65,
+    "IN": 45,
+    "MM": 3,
+    "NP": 3,
+    "BT": 1
+  },
+  "elevation": {
+    "n": 5,
+    "min": 84,
+    "max": 427,
+    "p10": 84,
+    "p90": 427,
+    "median": 202
+  }
+}

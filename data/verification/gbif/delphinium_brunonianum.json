@@ -1,0 +1,42 @@
+{
+  "id": "delphinium_brunonianum",
+  "binomial": "Delphinium brunonianum",
+  "status": "matched",
+  "usageKey": 7276933,
+  "accepted_name": "Delphinium brunonianum Royle",
+  "confidence": 99,
+  "matchType": "EXACT",
+  "total_occurrences": 721,
+  "countries_raw": {
+    "IN": 276,
+    "PK": 77,
+    "CN": 74,
+    "TJ": 50,
+    "NP": 49,
+    "AF": 48,
+    "UZ": 5,
+    "ZZ": 5,
+    "IQ": 2,
+    "PL": 2,
+    "BT": 1,
+    "GB": 1,
+    "ID": 1,
+    "RU": 1
+  },
+  "himalayan_countries": {
+    "IN": 276,
+    "PK": 77,
+    "CN": 74,
+    "NP": 49,
+    "AF": 48,
+    "BT": 1
+  },
+  "elevation": {
+    "n": 187,
+    "min": 2900,
+    "max": 5550,
+    "p10": 3810,
+    "p90": 5300,
+    "median": 4600
+  }
+}

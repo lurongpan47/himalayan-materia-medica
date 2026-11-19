@@ -1,0 +1,24 @@
+{
+  "id": "aconitum_pendulum",
+  "binomial": "Aconitum pendulum",
+  "status": "matched",
+  "usageKey": 3922014,
+  "accepted_name": "Aconitum pendulum N.Busch",
+  "confidence": 99,
+  "matchType": "EXACT",
+  "total_occurrences": 516,
+  "countries_raw": {
+    "CN": 502
+  },
+  "himalayan_countries": {
+    "CN": 502
+  },
+  "elevation": {
+    "n": 25,
+    "min": 3575,
+    "max": 4840,
+    "p10": 3575,
+    "p90": 4600,
+    "median": 4020
+  }
+}
